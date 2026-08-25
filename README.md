@@ -2,8 +2,6 @@
 
 **One-line summary.** A cross-lingual, cross-population speech model that estimates *moment-to-moment communicative difficulty* — a graded interactional state, not a diagnostic label — coupled to an offline-validated adaptation policy, and demonstrated inside a multilingual clinical-communication voice agent.
 
-*Status: design phase, revision 2. This document is a living plan, not a fixed specification.*
-*Revision 2 changes: v1 construct locus decided (production difficulty + interactional repair); data-access sequencing and its consequences added; CHAT-transcript bootstrapping incorporated into the measurement model; FluencyBank mechanism caveat added; immediate next step replaced with a concrete, currently-unblocked work plan.*
 
 ---
 
@@ -63,15 +61,9 @@ Annotating existing recordings is fully within the "existing datasets only" cons
 
 **Access status and sequencing.**
 - **In hand now:** DementiaBank (7 languages: English, German, Greek, Korean, Mandarin, Spanish, Taiwanese) and FluencyBank.
-- **Arriving in ~1–2 weeks:** AphasiaBank and TBIBank (access requested; readily granted to researchers).
 
 This timeline maps cleanly onto the two loci. DementiaBank's dominant task (picture description) is *prompt-then-monologue*, so it is rich in **production difficulty** but likely **sparse in genuine interactional repair** — the density of real clarification-and-fix sequences must be measured, not assumed. AphasiaBank and TBIBank contain much richer free-dialogue/conversation protocols, which is where the **interactional-repair** signal will actually live. Therefore: build and validate the production side now with data in hand; the repair side gets its real fuel when Aphasia/TBI arrive.
 
-**FluencyBank caveat (a research issue, not preprocessing).** FluencyBank centres on *stuttering*, whose disfluencies (repetitions, prolongations, blocks) arise from a different mechanism than the word-finding disfluencies of dementia (pauses, fillers, empty speech). It is useful for building the acoustic disfluency-*detector*, but must not be naively pooled into one "difficulty" bucket. That different populations produce disfluency for different reasons *is* RQ2's hard core.
-
-**Not required:** PhonBank (child phonology, ~1 TB), CHILDES, ASDBank, ClassBank, HomeBank, MotorSpeechBank, BilingBank/SLABank (L2 disfluency is a confound), and others. CABank (open-access conversational speech) is available for interaction-context testing.
-
-**Splits (decide before training).** Strictly speaker-independent; language-stratified and population-stratified; with held-out-language and held-out-population zero-shot tests. Split design precedes any modelling. A fully human-annotated gold set in ~2–3 languages; weak/transfer labels for the remainder, clearly marked.
 
 ## 7. Methodology
 
@@ -110,20 +102,3 @@ Ethics/HREC approval before any human-subject work or new annotation touching id
 - **Cross-language artefacts** → report calibration alongside per-language results.
 - **Data access delay** → sequence work so the first two weeks are fully unblocked by data in hand (Section 13).
 
-## 12. Deliverables and target venues
-
-- A defined, validated, released **multilingual cross-population communicative-difficulty benchmark** (resource contribution).
-- The **difficulty-estimation model** with cross-lingual/cross-population evaluation (method contribution).
-- The **agent demonstrator** with offline adaptation evaluation and a trust/audit layer (systems contribution).
-
-Venue lanes (one primary emphasis per paper): an NLP/benchmark framing (ACL/EMNLP-style) around the task, benchmark and method; or an interaction framing (CHI-style) around the sensing→adaptation loop and its evaluation. The benchmark-plus-method lane has the cleaner path to a top-tier outcome; the construct-and-resource work may be the first paper, with the model as the second.
-
-## 13. Immediate work plan (next 1–2 weeks — fully unblocked by data in hand)
-
-None of the following requires AphasiaBank or TBIBank, so no time is lost while access is pending:
-
-1. **CHAT parsing pipeline** on DementiaBank + FluencyBank: extract turns, timestamps, `*PAR:`/`*INV:` separation, and all existing disfluency/pause/retracing codes into a unified per-utterance feature table. This is the foundation for the input side and is pure engineering.
-2. **Repair-density audit**: quantify, per language, how many investigator turns, re-asks, and candidate repair patterns actually exist. This both builds the pipeline and empirically checks the v1 construct decision. If repair proves genuinely too sparse (even after Aphasia/TBI), fall back per Section 11 — from data, not guesswork.
-3. **Annotation protocol draft** for interactional-repair events and perceptual ratings (the part CHAT cannot supply): precise definitions, the repair/event taxonomy adapted from existing schemes, the rating scale and window unit, and a small pilot to measure inter-annotator agreement — ready to apply the moment Aphasia/TBI land.
-
-**On arrival of AphasiaBank/TBIBank:** extend the parser to their protocols, run the repair-density audit on their richer dialogue, and apply the piloted annotation protocol to build the repair-labelled gold set.
