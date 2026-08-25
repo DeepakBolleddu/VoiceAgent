@@ -1,0 +1,19 @@
+#!/bin/bash
+#PBS -N va_index
+#PBS -l select=1:ncpus=8:mem=32gb
+#PBS -l walltime=02:00:00
+#PBS -m ae
+#PBS -M u8023272@umail.usq.edu.au
+
+module load python/3.10.8-gcc-4ib
+source ~/dl_env/bin/activate
+cd ~/VoiceAgent/benchmark
+
+echo "=== index + splits (prints timestamp coverage) ==="
+python scripts/build_index.py --config configs/hpc.yaml
+
+echo "=== transcript-feature baselines (CPU) ==="
+python -m vabench.baselines.run_baseline --config configs/hpc.yaml --scheme iid
+python -m vabench.baselines.run_baseline --config configs/hpc.yaml --scheme lolo
+python -m vabench.baselines.run_baseline --config configs/hpc.yaml --scheme lopo
+echo "Done: $(date)"

@@ -1,0 +1,8 @@
+corpus,session,start_utt,end_utt,category,resolution
+FluencyBank,008-0,8,8,NON-UP,RES+
+FluencyBank,002-0,21,21,OI-open,RES+
+FluencyBank,002-0,19,19,NON-UP,RES+
+FluencyBank,004-0,5,5,OI-open,RES+
+FluencyBank,002-0,6,6,NON-UP,RES+
+FluencyBank,004-0,2,2,RE-ASK,RES+
+FluencyBank,004-0,0,0,NON-UP,RES+

@@ -1,0 +1,19 @@
+#!/bin/bash
+#PBS -N va_preproc
+#PBS -l select=1:ncpus=8:mem=32gb
+#PBS -l walltime=06:00:00
+#PBS -m ae
+#PBS -M u8023272@umail.usq.edu.au
+
+module load python/3.10.8-gcc-4ib
+# try common ffmpeg module names; harmless if none exist (we bundle one)
+module load ffmpeg 2>/dev/null || module load FFmpeg 2>/dev/null || echo "(no ffmpeg module; using bundled imageio-ffmpeg)"
+source ~/dl_env/bin/activate
+cd ~/VoiceAgent/benchmark
+
+# one-time: bundled static ffmpeg binary (no system ffmpeg needed)
+python -c "import imageio_ffmpeg" 2>/dev/null || pip install --break-system-packages -q imageio-ffmpeg
+
+echo "=== mp3/mp4 -> 16k mono wav cache (parallel, fault-tolerant) ==="
+python scripts/preprocess_audio.py --config configs/hpc.yaml --workers 8
+echo "Done: $(date)"

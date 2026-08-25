@@ -1,0 +1,64 @@
+#!/bin/bash
+#PBS -N va_zeroshot
+#PBS -l select=1:ncpus=4:ngpus=1:mem=32gb
+#PBS -l walltime=16:00:00
+#PBS -m ae
+#PBS -M u8023272@umail.usq.edu.au
+
+module load python/3.10.8-gcc-4ib
+module load cuda/11.8.0-gcc-3hs
+source ~/dl_env/bin/activate
+cd ~/VoiceAgent/benchmark
+export HF_HUB_OFFLINE=1
+export TRANSFORMERS_OFFLINE=1
+
+# Paired probe-vs-invariance on every zero-shot fold, x3 seeds.
+# Resumable: completed runs (report.json exists) are skipped, and a fold
+# failure no longer kills the sweep.
+python - <<'PY'
+import json, os, subprocess, yaml
+from pathlib import Path
+cfg = yaml.safe_load(open("configs/hpc.yaml"))
+out_root = Path(os.path.expanduser(cfg["out_root"]))
+splits = json.load(open(out_root/"splits"/"splits.json"))
+CONFIGS = [("probe",    ["--adv-lang","0.0","--adv-pop","0.0"]),
+           ("adv_lang", ["--adv-lang","0.1","--adv-pop","0.0"]),
+           ("adv_both", ["--adv-lang","0.1","--adv-pop","0.1"])]
+SEEDS = [0, 1, 2]
+for seed in SEEDS:
+    for scheme in ("lolo", "lopo"):
+        for fold in splits.get(scheme, {}):
+            for name, args in CONFIGS:
+                run = f"{scheme}_{fold}_{name}_s{seed}"
+                if (out_root/"runs"/run/"report.json").exists():
+                    print(f"--- skip {run} (done)"); continue
+                print(f">>> {run}", flush=True)
+                r = subprocess.run(
+                    ["python","-m","vabench.train","--config","configs/hpc.yaml",
+                     "--scheme",scheme,"--fold",fold,"--run-name",run,
+                     "--seed",str(seed)] + args)
+                if r.returncode != 0:
+                    print(f"!!! {run} failed (continuing)", flush=True)
+PY
+echo "=== summarize (mean over seeds) ==="
+python - <<'PY'
+import json, os, re, yaml
+from collections import defaultdict
+from pathlib import Path
+import numpy as np
+cfg = yaml.safe_load(open("configs/hpc.yaml"))
+runs = Path(os.path.expanduser(cfg["out_root"])) / "runs"
+agg = defaultdict(lambda: {"rho": [], "ccc": [], "wspk": []})
+for rd in sorted(runs.glob("lo*_s[0-9]")):
+    m = re.match(r"(.+)_s\d+$", rd.name)
+    rep = json.loads((rd/"report.json").read_text())
+    o = rep["report"]["overall"]; st = rep["report"]["state_vs_trait"]
+    a = agg[m.group(1)]
+    a["rho"].append(o["spearman"]); a["ccc"].append(o["ccc"])
+    a["wspk"].append(st["mean_within_speaker_rho"])
+print(f"{'run (mean±sd over seeds)':32}{'rho':>14}{'ccc':>14}{'w-spk rho':>14}")
+for name, a in sorted(agg.items()):
+    f = lambda v: f"{np.mean(v):.3f}±{np.std(v):.3f}"
+    print(f"{name:32}{f(a['rho']):>14}{f(a['ccc']):>14}{f(a['wspk']):>14}")
+PY
+echo "Done: $(date)"

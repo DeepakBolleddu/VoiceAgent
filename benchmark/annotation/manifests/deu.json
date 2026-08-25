@@ -1,0 +1,5802 @@
+{
+ "language": "deu",
+ "context_k": 2,
+ "items": [
+  {
+   "item_id": "Dem_German|Park_MCI04|33",
+   "corpus": "Dem_German",
+   "session": "Park_MCI04",
+   "utt_index": 33,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI04",
+   "audio_task": "Jalvingh",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 31,
+     "text": "a hm und wer macht denn das",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 32,
+     "text": "ihre Schwiegertochter",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 33,
+     "text": "Martisels Gerichte",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 34,
+     "text": "ach die macht das ja",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI03|53",
+   "corpus": "Dem_German",
+   "session": "Park_MCI03",
+   "utt_index": 53,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI03",
+   "audio_task": "Jalvingh",
+   "start_ms": 170751,
+   "end_ms": 171251,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 51,
+     "text": "",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 52,
+     "text": "Ah ja und dann gibt es Kartoffeln",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 53,
+     "text": "ja",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 54,
+     "text": "Gem\u00fcse und ein St\u00fcckchen Fleisch bisschen So\u00dfe",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|PPA_PnfA|6",
+   "corpus": "Dem_German",
+   "session": "PPA_PnfA",
+   "utt_index": 6,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "PPA_PnfA",
+   "audio_task": "Jalvingh",
+   "start_ms": 44801,
+   "end_ms": 45301,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "um Viertel nach sechs",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 5,
+     "text": "stehen sie schon auf",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "ja",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 7,
+     "text": "ja aha",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement03|35",
+   "corpus": "Dem_German",
+   "session": "Park_Dement03",
+   "utt_index": 35,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement03",
+   "audio_task": "Jalvingh",
+   "start_ms": 199432,
+   "end_ms": 205784,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 33,
+     "text": "sie machen das ganz gut",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 34,
+     "text": "ich sehe aus dem Fenster",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 35,
+     "text": "und sehe dass Schornsteine falsch montiert sind",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 36,
+     "text": "bei mir hier aus dem Fenster",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD03|68",
+   "corpus": "Dem_German",
+   "session": "FTD03",
+   "utt_index": 68,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD03",
+   "audio_task": "Jalvingh",
+   "start_ms": 202633,
+   "end_ms": 203533,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 66,
+     "text": "ab und zu mal nicht",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 67,
+     "text": "und dann",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 68,
+     "text": "essen wir Abendbrot",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 69,
+     "text": "a hm",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement03|90",
+   "corpus": "Dem_German",
+   "session": "Park_Dement03",
+   "utt_index": 90,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement03",
+   "audio_task": "Jalvingh",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 88,
+     "text": "Nachrichten",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 89,
+     "text": "a hm",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 90,
+     "text": "und Allgemeines",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 91,
+     "text": "so wie",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD03|6",
+   "corpus": "Dem_German",
+   "session": "FTD03",
+   "utt_index": 6,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD03",
+   "audio_task": "Jalvingh",
+   "start_ms": 10036,
+   "end_ms": 11618,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "dann mache ich sein Essen warm",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 5,
+     "text": "Tee kochen",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "und dann f\u00e4hrt er zur Arbeit",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 7,
+     "text": "a hm und was machen sie dann",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI03|134",
+   "corpus": "Dem_German",
+   "session": "Park_MCI03",
+   "utt_index": 134,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI03",
+   "audio_task": "Jalvingh",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 132,
+     "text": "ja",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 133,
+     "text": "in Friesoythe",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 134,
+     "text": "in Allerbruck",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 135,
+     "text": "ah ja haben Sie mit Freude gearbeitet",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement03|22",
+   "corpus": "Dem_German",
+   "session": "Park_Dement03",
+   "utt_index": 22,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement03",
+   "audio_task": "Jalvingh",
+   "start_ms": 108515,
+   "end_ms": 109996,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 20,
+     "text": "nein",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 21,
+     "text": "wie kommen Sie denn dort",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 22,
+     "text": "ich fahre mit dem Auto hin",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 23,
+     "text": "fahren sie alleine",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD03|53",
+   "corpus": "Dem_German",
+   "session": "FTD03",
+   "utt_index": 53,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD03",
+   "audio_task": "Jalvingh",
+   "start_ms": 153355,
+   "end_ms": 155917,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 51,
+     "text": "a hm ja und wer kommt dann fr\u00fcher nach Hause",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 52,
+     "text": "ihr Sohn oder ihr Mann",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 53,
+     "text": "eigentlich mein Sohn kommt eher nach Hause",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 54,
+     "text": "er kommt immer sp\u00e4ter",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI03|17",
+   "corpus": "Dem_German",
+   "session": "Park_MCI03",
+   "utt_index": 17,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI03",
+   "audio_task": "Jalvingh",
+   "start_ms": 55011,
+   "end_ms": 55511,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 15,
+     "text": "nein die braucht Hilfe",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 16,
+     "text": "ja also dann ist die ehm die junge Mhm die junge Dame ist dann auch da",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 17,
+     "text": "ja",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 18,
+     "text": "ok und die fr\u00fchst\u00fcckt mit oder wie l\u00e4uft das",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement01|9",
+   "corpus": "Dem_German",
+   "session": "Park_Dement01",
+   "utt_index": 9,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement01",
+   "audio_task": "Jalvingh",
+   "start_ms": 40475,
+   "end_ms": 41456,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 7,
+     "text": "und dann geht man ins Badezimmer",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 8,
+     "text": "ja",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 9,
+     "text": "ja und dann",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 10,
+     "text": "machen Sie sich frisch",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement03|79",
+   "corpus": "Dem_German",
+   "session": "Park_Dement03",
+   "utt_index": 79,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement03",
+   "audio_task": "Jalvingh",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 77,
+     "text": "aber dann m\u00f6glichst nach Oldenburg",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 78,
+     "text": "nach Oldenburg",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 79,
+     "text": "Schaufensterbummel",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 80,
+     "text": "wissen Sie wer gestern auch in Oldenburg gebummelt hat",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI03|96",
+   "corpus": "Dem_German",
+   "session": "Park_MCI03",
+   "utt_index": 96,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI03",
+   "audio_task": "Jalvingh",
+   "start_ms": 316771,
+   "end_ms": 318173,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 94,
+     "text": "ja das ist prima und dann wie sp\u00e4t gehen sie ins Bett",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 95,
+     "text": "m\u00f6chte ich zum Schluss noch wissen wie sp\u00e4t gehen sie dann ins Bett",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 96,
+     "text": "ja zehn halb elf",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 97,
+     "text": "zehn halb elf je nachdem ja ok",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD03|23",
+   "corpus": "Dem_German",
+   "session": "FTD03",
+   "utt_index": 23,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD03",
+   "audio_task": "Jalvingh",
+   "start_ms": 54579,
+   "end_ms": 55079,
+   "context": [
+    {
+     "tier": "M",
+     "utt_index": 21,
+     "text": "dann geht das peu \u00e1 peu",
+     "target": false
+    },
+    {
+     "tier": "M",
+     "utt_index": 22,
+     "text": "wer macht den Tee an",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 23,
+     "text": "du",
+     "target": true
+    },
+    {
+     "tier": "M",
+     "utt_index": 24,
+     "text": "und wer macht das fertig",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI03|38",
+   "corpus": "Dem_German",
+   "session": "Park_MCI03",
+   "utt_index": 38,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI03",
+   "audio_task": "Jalvingh",
+   "start_ms": 121207,
+   "end_ms": 123169,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 36,
+     "text": "der wartet schon",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 37,
+     "text": "ah a hm",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 38,
+     "text": "der fehlt mir jetzt schon die ganze Zeit",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 39,
+     "text": "ja beschreiben sie den Weg mal welchen Weg machen sie mit dem Hund",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement03|37",
+   "corpus": "Dem_German",
+   "session": "Park_Dement03",
+   "utt_index": 37,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement03",
+   "audio_task": "Jalvingh",
+   "start_ms": 207769,
+   "end_ms": 208269,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 35,
+     "text": "und sehe dass Schornsteine falsch montiert sind",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 36,
+     "text": "bei mir hier aus dem Fenster",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 37,
+     "text": "ja",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 38,
+     "text": "tja da werde ich gleich mit den Leuten sprechen m\u00fcssen hier",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD03|74",
+   "corpus": "Dem_German",
+   "session": "FTD03",
+   "utt_index": 74,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD03",
+   "audio_task": "Jalvingh",
+   "start_ms": 214790,
+   "end_ms": 215791,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 72,
+     "text": "ja",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 73,
+     "text": "ja neun Uhr bin ich scho meist verschwunden",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 74,
+     "text": "ich bin immer m\u00fcde",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 75,
+     "text": "ja",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI03|49",
+   "corpus": "Dem_German",
+   "session": "Park_MCI03",
+   "utt_index": 49,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI03",
+   "audio_task": "Jalvingh",
+   "start_ms": 159334,
+   "end_ms": 160636,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 47,
+     "text": "und wer hat dann das Mittagessen vorbereitet",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 48,
+     "text": "die junge Dame wieder",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 49,
+     "text": "ja mit meiner Frau",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 50,
+     "text": "mit Ihrer Frau zusammen auch sch\u00f6n",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|PPA_PnfA|64",
+   "corpus": "Dem_German",
+   "session": "PPA_PnfA",
+   "utt_index": 64,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "PPA_PnfA",
+   "audio_task": "Jalvingh",
+   "start_ms": 533205,
+   "end_ms": 536629,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 62,
+     "text": "und wenig Sport",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 63,
+     "text": "das gucken sie sich nicht an oder auch mal hin und wieder",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 64,
+     "text": "ja manchmal ja aber nicht so viel",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 65,
+     "text": "nicht so viel",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD04|62",
+   "corpus": "Dem_German",
+   "session": "FTD04",
+   "utt_index": 62,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD04",
+   "audio_task": "Jalvingh",
+   "start_ms": 234117,
+   "end_ms": 235018,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 60,
+     "text": "ja stellen sie sich vor sie sind zuhause sie essen zuhause Sie bereiten das vor",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 61,
+     "text": "und dann essen sie wie sp\u00e4t Mittags",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 62,
+     "text": "das ist unterschiedlich",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 63,
+     "text": "es kann sein um halb eins kann sein vielleicht ein bisschen fr\u00fcher oder vielleicht auch mal ein bisschen sp\u00e4ter",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI02|4",
+   "corpus": "Dem_German",
+   "session": "Park_MCI02",
+   "utt_index": 4,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI02",
+   "audio_task": "Jalvingh",
+   "start_ms": 48621,
+   "end_ms": 50524,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 2,
+     "text": "was machen sie zuerst",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 3,
+     "text": "was machen sie anschlie\u00dfend so ganz normale",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "ich stehe auf wenn der Wecker klingelt",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 5,
+     "text": "und wie sp\u00e4t klingelt der Wecker bei ihnen",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD03|13",
+   "corpus": "Dem_German",
+   "session": "FTD03",
+   "utt_index": 13,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD03",
+   "audio_task": "Jalvingh",
+   "start_ms": 28865,
+   "end_ms": 29365,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 11,
+     "text": "nichts dazwischen",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 12,
+     "text": "so schnell geht die Zeit",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 13,
+     "text": "ja",
+     "target": true
+    },
+    {
+     "tier": "M",
+     "utt_index": 14,
+     "text": "kochst du noch Mittag",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD04|21",
+   "corpus": "Dem_German",
+   "session": "FTD04",
+   "utt_index": 21,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD04",
+   "audio_task": "Jalvingh",
+   "start_ms": 87454,
+   "end_ms": 88695,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 19,
+     "text": "ja wenn die da war dann k\u00f6nnen wir meinetwegen etwas unternehmen mein Mann und ich ja",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 20,
+     "text": "haben sie noch nichts gefr\u00fchst\u00fcckt oder sich gewaschen",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 21,
+     "text": "ja das schon",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 22,
+     "text": "lassen Sie das nicht raus",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI03|20",
+   "corpus": "Dem_German",
+   "session": "Park_MCI03",
+   "utt_index": 20,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI03",
+   "audio_task": "Jalvingh",
+   "start_ms": 67365,
+   "end_ms": 68505,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 18,
+     "text": "ok und die fr\u00fchst\u00fcckt mit oder wie l\u00e4uft das",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 19,
+     "text": "ja a hm und dann",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 20,
+     "text": "ja und dann Fr\u00fchst\u00fcck",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 21,
+     "text": "und dann r\u00e4umt die wieder ab",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD03|61",
+   "corpus": "Dem_German",
+   "session": "FTD03",
+   "utt_index": 61,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD03",
+   "audio_task": "Jalvingh",
+   "start_ms": 171516,
+   "end_ms": 172016,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 59,
+     "text": "und du kommst sp\u00e4ter",
+     "target": false
+    },
+    {
+     "tier": "M",
+     "utt_index": 60,
+     "text": "ich habe um f\u00fcnf mein",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 61,
+     "text": "ja",
+     "target": true
+    },
+    {
+     "tier": "M",
+     "utt_index": 62,
+     "text": "stimmt das",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI03|66",
+   "corpus": "Dem_German",
+   "session": "Park_MCI03",
+   "utt_index": 66,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI03",
+   "audio_task": "Jalvingh",
+   "start_ms": 213812,
+   "end_ms": 215995,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 64,
+     "text": "und wie lange ruhen Sie denn aus",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 65,
+     "text": "wie lange machen sie die Augen zu",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 66,
+     "text": "ja zwei Stunden",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 67,
+     "text": "zwei Stunden nur",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD03|82",
+   "corpus": "Dem_German",
+   "session": "FTD03",
+   "utt_index": 82,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD03",
+   "audio_task": "Jalvingh",
+   "start_ms": 230070,
+   "end_ms": 231831,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 80,
+     "text": "ich gucke nicht so lange Fernsehen",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 81,
+     "text": "nein",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 82,
+     "text": "interessiert mich auch nicht so das Fernsehen",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 83,
+     "text": "nein nicht hm",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI03|110",
+   "corpus": "Dem_German",
+   "session": "Park_MCI03",
+   "utt_index": 110,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI03",
+   "audio_task": "Jalvingh",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 108,
+     "text": "war das eine gro\u00dfe Familie wo sie Teil draus sind",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 109,
+     "text": "haben sie viele Geschwister",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 110,
+     "text": "ja ich habe sechs Geschwister",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 111,
+     "text": "sieben Kinder",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD03|48",
+   "corpus": "Dem_German",
+   "session": "FTD03",
+   "utt_index": 48,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD03",
+   "audio_task": "Jalvingh",
+   "start_ms": 142460,
+   "end_ms": 143520,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 46,
+     "text": "hm",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 47,
+     "text": "die sind auch ein bisschen \u00e4lter",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 48,
+     "text": "siebzig sind die schon",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 49,
+     "text": "ah ja und man kennt sich schon gut nicht dann",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement03|93",
+   "corpus": "Dem_German",
+   "session": "Park_Dement03",
+   "utt_index": 93,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement03",
+   "audio_task": "Jalvingh",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 91,
+     "text": "so wie",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 92,
+     "text": "zum Beispiel",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 93,
+     "text": "f\u00e4llt mir momentan nichts ein",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 94,
+     "text": "Tatort",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI03|78",
+   "corpus": "Dem_German",
+   "session": "Park_MCI03",
+   "utt_index": 78,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI03",
+   "audio_task": "Jalvingh",
+   "start_ms": 264520,
+   "end_ms": 265380,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 76,
+     "text": "und dann ist der Tag auch schon wieder vorbei",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 77,
+     "text": "Ja",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 78,
+     "text": "ist eben so",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 79,
+     "text": "ja was machen sie abends noch",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI03|105",
+   "corpus": "Dem_German",
+   "session": "Park_MCI03",
+   "utt_index": 105,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI03",
+   "audio_task": "Jalvingh",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 103,
+     "text": "was ist denn so Ihre Geschichte",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 104,
+     "text": "kommen Sie geb\u00fcrtig aus Friesoythe oder kommen Sie aus einer anderen Richtung",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 105,
+     "text": "ich komme aus Allerbruck",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 106,
+     "text": "ahja",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD03|25",
+   "corpus": "Dem_German",
+   "session": "FTD03",
+   "utt_index": 25,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD03",
+   "audio_task": "Jalvingh",
+   "start_ms": 57784,
+   "end_ms": 58284,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 23,
+     "text": "du",
+     "target": false
+    },
+    {
+     "tier": "M",
+     "utt_index": 24,
+     "text": "und wer macht das fertig",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 25,
+     "text": "du",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 26,
+     "text": "du machst das ja alles fertig morgens",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement03|73",
+   "corpus": "Dem_German",
+   "session": "Park_Dement03",
+   "utt_index": 73,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement03",
+   "audio_task": "Jalvingh",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 71,
+     "text": "ja gut",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 72,
+     "text": "gehen Sie auch mal spazieren mit ihrer Frau oder fahren Sie mal irgendwohin",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 73,
+     "text": "selten",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 74,
+     "text": "selten",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI03|127",
+   "corpus": "Dem_German",
+   "session": "Park_MCI03",
+   "utt_index": 127,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI03",
+   "audio_task": "Jalvingh",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 125,
+     "text": "ja so ist das eben",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 126,
+     "text": "und haben Sie dann sp\u00e4ter Zeit gehabt f\u00fcr eine Ausbildung oder gab es das gar nicht",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 127,
+     "text": "nein",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 128,
+     "text": "nein hm",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD03|71",
+   "corpus": "Dem_German",
+   "session": "FTD03",
+   "utt_index": 71,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD03",
+   "audio_task": "Jalvingh",
+   "start_ms": 209062,
+   "end_ms": 211144,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 69,
+     "text": "a hm",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 70,
+     "text": "und dann gucken wir Fernsehen oder wir gehen ins Bett",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 71,
+     "text": "ich gehe ich gehe immer fr\u00fch ins Bett",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 72,
+     "text": "ja",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD03|57",
+   "corpus": "Dem_German",
+   "session": "FTD03",
+   "utt_index": 57,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD03",
+   "audio_task": "Jalvingh",
+   "start_ms": 165412,
+   "end_ms": 166873,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 55,
+     "text": "hm a hm ja",
+     "target": false
+    },
+    {
+     "tier": "M",
+     "utt_index": 56,
+     "text": "wer ist denn eher da",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 57,
+     "text": "Andre ist immer eher da",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 58,
+     "text": "der kommt um f\u00fcnf",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI04|8",
+   "corpus": "Dem_German",
+   "session": "Park_MCI04",
+   "utt_index": 8,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI04",
+   "audio_task": "Jalvingh",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "und dann habe ich mich gewaschen",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 7,
+     "text": "ja selber",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 8,
+     "text": "ja",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 9,
+     "text": "das machen Sie selber",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement01|57",
+   "corpus": "Dem_German",
+   "session": "Park_Dement01",
+   "utt_index": 57,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement01",
+   "audio_task": "Jalvingh",
+   "start_ms": 182093,
+   "end_ms": 184256,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 55,
+     "text": "das geht von eins zum anderen so \u00fcber",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 56,
+     "text": "ist Maria auch schon da",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 57,
+     "text": "ja Maria ist jeden Morgen da",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 58,
+     "text": "das allererste morgens",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement01|44",
+   "corpus": "Dem_German",
+   "session": "Park_Dement01",
+   "utt_index": 44,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement01",
+   "audio_task": "Jalvingh",
+   "start_ms": 142842,
+   "end_ms": 144785,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 42,
+     "text": "nein",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 43,
+     "text": "Speiser\u00f6hre",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 44,
+     "text": "ich kam nicht auf den Namen",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 45,
+     "text": "ja genau",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement03|24",
+   "corpus": "Dem_German",
+   "session": "Park_Dement03",
+   "utt_index": 24,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement03",
+   "audio_task": "Jalvingh",
+   "start_ms": 112201,
+   "end_ms": 112701,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 22,
+     "text": "ich fahre mit dem Auto hin",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 23,
+     "text": "fahren sie alleine",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 24,
+     "text": "ja",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 25,
+     "text": "oder mit dem Fahrrad",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement03|119",
+   "corpus": "Dem_German",
+   "session": "Park_Dement03",
+   "utt_index": 119,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement03",
+   "audio_task": "Jalvingh",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 117,
+     "text": "und mein meine Eltern di sind mit s siebzehnhundertsiebzig mit Mar damals mit den Siedlungen von Mari Maria Theresia Graf Betschi angesiedelt worden in Ungarn",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 118,
+     "text": "aha und welche Sprache haben sie denn gesprochen",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 119,
+     "text": "wir haben ungarisch und deutsch gesprochen",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 120,
+     "text": "a ha",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI03|60",
+   "corpus": "Dem_German",
+   "session": "Park_MCI03",
+   "utt_index": 60,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI03",
+   "audio_task": "Jalvingh",
+   "start_ms": 195484,
+   "end_ms": 197686,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 58,
+     "text": "ja dann wird dann Pause gemacht",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 59,
+     "text": "ja wo machen Sie denn Pause",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 60,
+     "text": "ich lege mich meistens auf dem Sofa hin",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 61,
+     "text": "ah ja und Ihre Frau",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement03|19",
+   "corpus": "Dem_German",
+   "session": "Park_Dement03",
+   "utt_index": 19,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement03",
+   "audio_task": "Jalvingh",
+   "start_ms": 97278,
+   "end_ms": 97778,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 17,
+     "text": "ist das direkt nebenan",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 18,
+     "text": "kann man da zu Fu\u00df hin",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 19,
+     "text": "nein",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 20,
+     "text": "nein",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement01|11",
+   "corpus": "Dem_German",
+   "session": "Park_Dement01",
+   "utt_index": 11,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement01",
+   "audio_task": "Jalvingh",
+   "start_ms": 44281,
+   "end_ms": 45923,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 9,
+     "text": "ja und dann",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 10,
+     "text": "machen Sie sich frisch",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 11,
+     "text": "nein da werde ich sofort geduscht",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 12,
+     "text": "oh ja",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD03|97",
+   "corpus": "Dem_German",
+   "session": "FTD03",
+   "utt_index": 97,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD03",
+   "audio_task": "Jalvingh",
+   "start_ms": 293164,
+   "end_ms": 294165,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 95,
+     "text": "der guckt meistens hier Fernsehen",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 96,
+     "text": "hm ok und gucken die M\u00e4nner auch mal Fu\u00dfball oder eher nicht so viel",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 97,
+     "text": "Andre guckt Fu\u00dfball",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 98,
+     "text": "Werner guckt kein Fu\u00dfball",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD03|17",
+   "corpus": "Dem_German",
+   "session": "FTD03",
+   "utt_index": 17,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD03",
+   "audio_task": "Jalvingh",
+   "start_ms": 41460,
+   "end_ms": 42500,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 15,
+     "text": "nein es kocht Andre eigentlich oder du",
+     "target": false
+    },
+    {
+     "tier": "M",
+     "utt_index": 16,
+     "text": "was ist nach dem Aufstehen",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 17,
+     "text": "dann duschen wir",
+     "target": true
+    },
+    {
+     "tier": "M",
+     "utt_index": 18,
+     "text": "ja dann wasch ich dich",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI03|45",
+   "corpus": "Dem_German",
+   "session": "Park_MCI03",
+   "utt_index": 45,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI03",
+   "audio_task": "Jalvingh",
+   "start_ms": 153521,
+   "end_ms": 155103,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 43,
+     "text": "ja dann wird wohl eine Tasse Kaffee getrunken",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 44,
+     "text": "ja",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 45,
+     "text": "ja und dann ist auch schon wieder Mittag",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 46,
+     "text": "dann ist Mittag",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD03|34",
+   "corpus": "Dem_German",
+   "session": "FTD03",
+   "utt_index": 34,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD03",
+   "audio_task": "Jalvingh",
+   "start_ms": 95135,
+   "end_ms": 98059,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 32,
+     "text": "hm und bei dem Wetter machen sie drau\u00dfen auch mal was oder oder oder lieber nicht",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 33,
+     "text": "bleiben Sie mehr eher drin",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 34,
+     "text": "ich mach drau\u00dfen auch was ab und zu mal ja",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 35,
+     "text": "a hm und Kontakt zu den Nachbarn ist noch da oder",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD03|95",
+   "corpus": "Dem_German",
+   "session": "FTD03",
+   "utt_index": 95,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD03",
+   "audio_task": "Jalvingh",
+   "start_ms": 280527,
+   "end_ms": 281948,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 93,
+     "text": "hm hm und ihr Sohn kommt ja auch abends noch mal runter oder ist er eher so auf sich",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 94,
+     "text": "der ist immer der ist meistens hier in dem Zimmer hier",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 95,
+     "text": "der guckt meistens hier Fernsehen",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 96,
+     "text": "hm ok und gucken die M\u00e4nner auch mal Fu\u00dfball oder eher nicht so viel",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement03|81",
+   "corpus": "Dem_German",
+   "session": "Park_Dement03",
+   "utt_index": 81,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement03",
+   "audio_task": "Jalvingh",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 79,
+     "text": "Schaufensterbummel",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 80,
+     "text": "wissen Sie wer gestern auch in Oldenburg gebummelt hat",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 81,
+     "text": "nein",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 82,
+     "text": "der K\u00f6nig",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement03|47",
+   "corpus": "Dem_German",
+   "session": "Park_Dement03",
+   "utt_index": 47,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement03",
+   "audio_task": "Jalvingh",
+   "start_ms": 279630,
+   "end_ms": 289668,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 45,
+     "text": "und wie sp\u00e4t fahren Sie nach Hause f\u00fcr das Mittagessen",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 46,
+     "text": "ich habe gestern gesagt dass wir so um halb eins eins essen",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 47,
+     "text": "und da das ist danach richtet sich dann mein weiterer Stundenplan oder Zeitplan",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 48,
+     "text": "und wie k\u00f6nnte der Nachmittag aussehen",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement03|86",
+   "corpus": "Dem_German",
+   "session": "Park_Dement03",
+   "utt_index": 86,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement03",
+   "audio_task": "Jalvingh",
+   "start_ms": 504730,
+   "end_ms": 505753,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 84,
+     "text": "ist anzunehmen ist anzunehmen ist dass die Zeitung hat nicht allzu viel zu berichten",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 85,
+     "text": "was machen sie denn abends noch Herr x",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 86,
+     "text": "ja abends Fernsehen",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 87,
+     "text": "was gucken sie gerne",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|PPA_PnfA|54",
+   "corpus": "Dem_German",
+   "session": "PPA_PnfA",
+   "utt_index": 54,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "PPA_PnfA",
+   "audio_task": "Jalvingh",
+   "start_ms": 458619,
+   "end_ms": 459119,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 52,
+     "text": "ja",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 53,
+     "text": "die sie gerne machen",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 54,
+     "text": "ja",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 55,
+     "text": "und eh ja dann eh um sieben oder acht vor dem K K f fernsehen",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement03|88",
+   "corpus": "Dem_German",
+   "session": "Park_Dement03",
+   "utt_index": 88,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement03",
+   "audio_task": "Jalvingh",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 86,
+     "text": "ja abends Fernsehen",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 87,
+     "text": "was gucken sie gerne",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 88,
+     "text": "Nachrichten",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 89,
+     "text": "a hm",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD03|102",
+   "corpus": "Dem_German",
+   "session": "FTD03",
+   "utt_index": 102,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD03",
+   "audio_task": "Jalvingh",
+   "start_ms": 300675,
+   "end_ms": 302176,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 100,
+     "text": "der guckt kein Fu\u00dfball",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 101,
+     "text": "der interessiert sich da nicht f\u00fcr",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 102,
+     "text": "aber Andre guckt viel Fu\u00dfball",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 103,
+     "text": "ja",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI04|38",
+   "corpus": "Dem_German",
+   "session": "Park_MCI04",
+   "utt_index": 38,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI04",
+   "audio_task": "Jalvingh",
+   "start_ms": 128209,
+   "end_ms": 128869,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 36,
+     "text": "keine Ahnung",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 37,
+     "text": "Essen auf R\u00e4dern",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 38,
+     "text": "ja nein",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 39,
+     "text": "est Nein",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI03|24",
+   "corpus": "Dem_German",
+   "session": "Park_MCI03",
+   "utt_index": 24,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI03",
+   "audio_task": "Jalvingh",
+   "start_ms": 72529,
+   "end_ms": 73029,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 22,
+     "text": "brauche ich nicht",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 23,
+     "text": "nein",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 24,
+     "text": "ja",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 25,
+     "text": "und was machen Sie dann meistens anschlie\u00dfend",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD03|37",
+   "corpus": "Dem_German",
+   "session": "FTD03",
+   "utt_index": 37,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD03",
+   "audio_task": "Jalvingh",
+   "start_ms": 109218,
+   "end_ms": 109979,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 35,
+     "text": "a hm und Kontakt zu den Nachbarn ist noch da oder",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 36,
+     "text": "ja ja da haben wir auch Kontakt zu",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 37,
+     "text": "viel Kontakt",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 38,
+     "text": "wie hei\u00dfen die",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|PPA_PnfA|52",
+   "corpus": "Dem_German",
+   "session": "PPA_PnfA",
+   "utt_index": 52,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "PPA_PnfA",
+   "audio_task": "Jalvingh",
+   "start_ms": 457130,
+   "end_ms": 457630,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 50,
+     "text": "eh spielen",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 51,
+     "text": "haben sie Spiele auf dem Computer",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 52,
+     "text": "ja",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 53,
+     "text": "die sie gerne machen",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement01|25",
+   "corpus": "Dem_German",
+   "session": "Park_Dement01",
+   "utt_index": 25,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement01",
+   "audio_task": "Jalvingh",
+   "start_ms": 86998,
+   "end_ms": 87498,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 23,
+     "text": "hm",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 24,
+     "text": "ja und wenn sie damit fertig sind ziehen sie sich an",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 25,
+     "text": "ja",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 26,
+     "text": "und dann rufen die meistens schon zum Essen zum Kaffee trinken Fr\u00fchst\u00fccken",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement03|105",
+   "corpus": "Dem_German",
+   "session": "Park_Dement03",
+   "utt_index": 105,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement03",
+   "audio_task": "Jalvingh",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 103,
+     "text": "dann wei\u00df ich auch mehr mit wem ich es zu tun habe",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 104,
+     "text": "einfach sind sie direkt aus Rastede oder sind Sie woanders geboren",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 105,
+     "text": "ja",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 106,
+     "text": "ja",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD03|63",
+   "corpus": "Dem_German",
+   "session": "FTD03",
+   "utt_index": 63,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD03",
+   "audio_task": "Jalvingh",
+   "start_ms": 175679,
+   "end_ms": 176439,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 61,
+     "text": "ja",
+     "target": false
+    },
+    {
+     "tier": "M",
+     "utt_index": 62,
+     "text": "stimmt das",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 63,
+     "text": "ja stimmt",
+     "target": true
+    },
+    {
+     "tier": "M",
+     "utt_index": 64,
+     "text": "machte wirklich s p\u00fcnktlich Feierabend dass ich auch immer schnell wieder hier bin",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD03|80",
+   "corpus": "Dem_German",
+   "session": "FTD03",
+   "utt_index": 80,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD03",
+   "audio_task": "Jalvingh",
+   "start_ms": 226907,
+   "end_ms": 228329,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 78,
+     "text": "du kommst immer sp\u00e4ter ins Bett nicht",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 79,
+     "text": "guckst noch erst Fernsehen",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 80,
+     "text": "ich gucke nicht so lange Fernsehen",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 81,
+     "text": "nein",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD03|73",
+   "corpus": "Dem_German",
+   "session": "FTD03",
+   "utt_index": 73,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD03",
+   "audio_task": "Jalvingh",
+   "start_ms": 211505,
+   "end_ms": 214449,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 71,
+     "text": "ich gehe ich gehe immer fr\u00fch ins Bett",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 72,
+     "text": "ja",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 73,
+     "text": "ja neun Uhr bin ich scho meist verschwunden",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 74,
+     "text": "ich bin immer m\u00fcde",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI04|45",
+   "corpus": "Dem_German",
+   "session": "Park_MCI04",
+   "utt_index": 45,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI04",
+   "audio_task": "Jalvingh",
+   "start_ms": 145233,
+   "end_ms": 145733,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 43,
+     "text": "das ist auch egal",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 44,
+     "text": "ja die kommen mit dem Auto vorbei",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 45,
+     "text": "ja",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 46,
+     "text": "ja und liefern das dann warm oder",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI03|72",
+   "corpus": "Dem_German",
+   "session": "Park_MCI03",
+   "utt_index": 72,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI03",
+   "audio_task": "Jalvingh",
+   "start_ms": 233100,
+   "end_ms": 234660,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 70,
+     "text": "gut und dann werden Sie wieder wach",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 71,
+     "text": "und dann wie l\u00e4uft dann der Nachmittag",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 72,
+     "text": "ja dann wird Kaffee getrunken",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 73,
+     "text": "also wir k\u00f6nnen ruhig",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI03|62",
+   "corpus": "Dem_German",
+   "session": "Park_MCI03",
+   "utt_index": 62,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI03",
+   "audio_task": "Jalvingh",
+   "start_ms": 203736,
+   "end_ms": 205077,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 60,
+     "text": "ich lege mich meistens auf dem Sofa hin",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 61,
+     "text": "ah ja und Ihre Frau",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 62,
+     "text": "meine Frau geht ins Bett",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 63,
+     "text": "die geht ins Bett",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement03|15",
+   "corpus": "Dem_German",
+   "session": "Park_Dement03",
+   "utt_index": 15,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement03",
+   "audio_task": "Jalvingh",
+   "start_ms": 90327,
+   "end_ms": 91168,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 13,
+     "text": "dann ziehen Sie sich an",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 14,
+     "text": "und dann gehen sie",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 15,
+     "text": "in ins B\u00fcro",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 16,
+     "text": "ins B\u00fcro",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement03|98",
+   "corpus": "Dem_German",
+   "session": "Park_Dement03",
+   "utt_index": 98,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement03",
+   "audio_task": "Jalvingh",
+   "start_ms": 553789,
+   "end_ms": 554289,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 96,
+     "text": "das ist",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 97,
+     "text": "werden Sie die WM noch schauen",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 98,
+     "text": "ja",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 99,
+     "text": "ja",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI03|34",
+   "corpus": "Dem_German",
+   "session": "Park_MCI03",
+   "utt_index": 34,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI03",
+   "audio_task": "Jalvingh",
+   "start_ms": 113856,
+   "end_ms": 115217,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 32,
+     "text": "haben Sie ein bisschen Zeitung gelesen",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 33,
+     "text": "und gehen Sie mal ein bisschen spazieren im Garten oder so",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 34,
+     "text": "ja ich gehe doch mit dem Hund",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 35,
+     "text": "Ah mit dem Hund",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI03|115",
+   "corpus": "Dem_German",
+   "session": "Park_MCI03",
+   "utt_index": 115,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI03",
+   "audio_task": "Jalvingh",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 113,
+     "text": "Ja und wo sind sie da sind sie da",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 114,
+     "text": "in der Mitte oder der \u00c4lteste oder der J\u00fcngste",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 115,
+     "text": "ich bin der \u00c4lteste",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 116,
+     "text": "musste ja zuhause bleiben",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD04|57",
+   "corpus": "Dem_German",
+   "session": "FTD04",
+   "utt_index": 57,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD04",
+   "audio_task": "Jalvingh",
+   "start_ms": 220392,
+   "end_ms": 222074,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 55,
+     "text": "und sie essen mittags warm",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 56,
+     "text": "was bereiten sie dann vor",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 57,
+     "text": "ja normalerweise schon",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 58,
+     "text": "ja",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD03|66",
+   "corpus": "Dem_German",
+   "session": "FTD03",
+   "utt_index": 66,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD03",
+   "audio_task": "Jalvingh",
+   "start_ms": 188428,
+   "end_ms": 189429,
+   "context": [
+    {
+     "tier": "M",
+     "utt_index": 64,
+     "text": "machte wirklich s p\u00fcnktlich Feierabend dass ich auch immer schnell wieder hier bin",
+     "target": false
+    },
+    {
+     "tier": "M",
+     "utt_index": 65,
+     "text": "das klappt nicht immer",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 66,
+     "text": "ab und zu mal nicht",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 67,
+     "text": "und dann",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement01|55",
+   "corpus": "Dem_German",
+   "session": "Park_Dement01",
+   "utt_index": 55,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement01",
+   "audio_task": "Jalvingh",
+   "start_ms": 175400,
+   "end_ms": 177823,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 53,
+     "text": "der ist in der Zeit ist der geduscht worden",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 54,
+     "text": "und nein das ging ganz geht immer ganz reibungslos",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 55,
+     "text": "das geht von eins zum anderen so \u00fcber",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 56,
+     "text": "ist Maria auch schon da",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI04|43",
+   "corpus": "Dem_German",
+   "session": "Park_MCI04",
+   "utt_index": 43,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI04",
+   "audio_task": "Jalvingh",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 41,
+     "text": "nein meine die Malteser",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 42,
+     "text": "die sowas besorgen",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 43,
+     "text": "das ist auch egal",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 44,
+     "text": "ja die kommen mit dem Auto vorbei",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD03|8",
+   "corpus": "Dem_German",
+   "session": "FTD03",
+   "utt_index": 8,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD03",
+   "audio_task": "Jalvingh",
+   "start_ms": 16545,
+   "end_ms": 17966,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "und dann f\u00e4hrt er zur Arbeit",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 7,
+     "text": "a hm und was machen sie dann",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 8,
+     "text": "dann fr\u00fchst\u00fccke ich",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 9,
+     "text": "dann geht mein Sohn zur Arbeit",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD04|19",
+   "corpus": "Dem_German",
+   "session": "FTD04",
+   "utt_index": 19,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD04",
+   "audio_task": "Jalvingh",
+   "start_ms": 78220,
+   "end_ms": 83968,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 17,
+     "text": "ja",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 18,
+     "text": "und dann",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 19,
+     "text": "ja wenn die da war dann k\u00f6nnen wir meinetwegen etwas unternehmen mein Mann und ich ja",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 20,
+     "text": "haben sie noch nichts gefr\u00fchst\u00fcckt oder sich gewaschen",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD03|15",
+   "corpus": "Dem_German",
+   "session": "FTD03",
+   "utt_index": 15,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD03",
+   "audio_task": "Jalvingh",
+   "start_ms": 32652,
+   "end_ms": 36319,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 13,
+     "text": "ja",
+     "target": false
+    },
+    {
+     "tier": "M",
+     "utt_index": 14,
+     "text": "kochst du noch Mittag",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 15,
+     "text": "nein es kocht Andre eigentlich oder du",
+     "target": true
+    },
+    {
+     "tier": "M",
+     "utt_index": 16,
+     "text": "was ist nach dem Aufstehen",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI03|30",
+   "corpus": "Dem_German",
+   "session": "Park_MCI03",
+   "utt_index": 30,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI03",
+   "audio_task": "Jalvingh",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 28,
+     "text": "was soll man sonst so machen",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 29,
+     "text": "ja ist doch prima",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 30,
+     "text": "ja",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 31,
+     "text": "wie sieht denn sonst der Vormittag aus",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD03|10",
+   "corpus": "Dem_German",
+   "session": "FTD03",
+   "utt_index": 10,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD03",
+   "audio_task": "Jalvingh",
+   "start_ms": 21813,
+   "end_ms": 22974,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 8,
+     "text": "dann fr\u00fchst\u00fccke ich",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 9,
+     "text": "dann geht mein Sohn zur Arbeit",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 10,
+     "text": "und dann koche ich Mittagessen",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 11,
+     "text": "nichts dazwischen",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI03|112",
+   "corpus": "Dem_German",
+   "session": "Park_MCI03",
+   "utt_index": 112,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI03",
+   "audio_task": "Jalvingh",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 110,
+     "text": "ja ich habe sechs Geschwister",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 111,
+     "text": "sieben Kinder",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 112,
+     "text": "sind alle verheiratet",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 113,
+     "text": "Ja und wo sind sie da sind sie da",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|PPA_PnfA|50",
+   "corpus": "Dem_German",
+   "session": "PPA_PnfA",
+   "utt_index": 50,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "PPA_PnfA",
+   "audio_task": "Jalvingh",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 48,
+     "text": "eventuell eh Caputer",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 49,
+     "text": "ok ja",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 50,
+     "text": "eh spielen",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 51,
+     "text": "haben sie Spiele auf dem Computer",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI04|15",
+   "corpus": "Dem_German",
+   "session": "Park_MCI04",
+   "utt_index": 15,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI04",
+   "audio_task": "Jalvingh",
+   "start_ms": 63759,
+   "end_ms": 64699,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 13,
+     "text": "und wie kam der Pfannkuchen wie kommt der Pfannkuchen dann da",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 14,
+     "text": "machen sie das selber",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 15,
+     "text": "das war ein war ein Witz",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 16,
+     "text": "ah so",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI04|30",
+   "corpus": "Dem_German",
+   "session": "Park_MCI04",
+   "utt_index": 30,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI04",
+   "audio_task": "Jalvingh",
+   "start_ms": 113384,
+   "end_ms": 115326,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 28,
+     "text": "ja und dann um zw\u00f6lf Uhr dann",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 29,
+     "text": "also das Essen dann war der ja schon da",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 30,
+     "text": "der brachte mir immer abends vorher",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 31,
+     "text": "a hm und wer macht denn das",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI02|6",
+   "corpus": "Dem_German",
+   "session": "Park_MCI02",
+   "utt_index": 6,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI02",
+   "audio_task": "Jalvingh",
+   "start_ms": 52850,
+   "end_ms": 57299,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "ich stehe auf wenn der Wecker klingelt",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 5,
+     "text": "und wie sp\u00e4t klingelt der Wecker bei ihnen",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "das kommt ganz darauf an wo ich bin was ich tue und was ich will",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 7,
+     "text": "wenn ich also an dem Tag nichts tun m\u00f6chte dann bleibe ich bisschen l\u00e4nger liegen",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI03|36",
+   "corpus": "Dem_German",
+   "session": "Park_MCI03",
+   "utt_index": 36,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI03",
+   "audio_task": "Jalvingh",
+   "start_ms": 116640,
+   "end_ms": 117741,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 34,
+     "text": "ja ich gehe doch mit dem Hund",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 35,
+     "text": "Ah mit dem Hund",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 36,
+     "text": "der wartet schon",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 37,
+     "text": "ah a hm",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI03|15",
+   "corpus": "Dem_German",
+   "session": "Park_MCI03",
+   "utt_index": 15,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI03",
+   "audio_task": "Jalvingh",
+   "start_ms": 49440,
+   "end_ms": 50621,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 13,
+     "text": "wir essen zusammen zusammen Fr\u00fchst\u00fcck",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 14,
+     "text": "a hm kommt die alleine runter oder braucht die Hilfe",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 15,
+     "text": "nein die braucht Hilfe",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 16,
+     "text": "ja also dann ist die ehm die junge Mhm die junge Dame ist dann auch da",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD03|30",
+   "corpus": "Dem_German",
+   "session": "FTD03",
+   "utt_index": 30,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD03",
+   "audio_task": "Jalvingh",
+   "start_ms": 77271,
+   "end_ms": 78632,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 28,
+     "text": "hm und vormittags was was was machen sie wenn ihr Mann arbeitet und ihr Sohn",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 29,
+     "text": "ein bisschen was lesen oder",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 30,
+     "text": "ja lesen tu ich viel",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 31,
+     "text": "B\u00fccher lesen tu ich viel",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD03|42",
+   "corpus": "Dem_German",
+   "session": "FTD03",
+   "utt_index": 42,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD03",
+   "audio_task": "Jalvingh",
+   "start_ms": 131345,
+   "end_ms": 132606,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 40,
+     "text": "und Tien hier hinten",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 41,
+     "text": "a hm sind sie ungef\u00e4hr gleich alt oder irgendwie j\u00fcnger oder \u00e4lter",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 42,
+     "text": "nein die Tien ist \u00e4lter",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 43,
+     "text": "die ist so um die sieb achtzig nicht",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD03|40",
+   "corpus": "Dem_German",
+   "session": "FTD03",
+   "utt_index": 40,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD03",
+   "audio_task": "Jalvingh",
+   "start_ms": 124337,
+   "end_ms": 125938,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 38,
+     "text": "wie hei\u00dfen die",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 39,
+     "text": "ehm Wiemkem und Tien und Lampken",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 40,
+     "text": "und Tien hier hinten",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 41,
+     "text": "a hm sind sie ungef\u00e4hr gleich alt oder irgendwie j\u00fcnger oder \u00e4lter",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|PPA_SD|37",
+   "corpus": "Dem_German",
+   "session": "PPA_SD",
+   "utt_index": 37,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "PPA_SD",
+   "audio_task": "Jalvingh",
+   "start_ms": 642440,
+   "end_ms": 642540,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 35,
+     "text": "das ist Evelin",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 36,
+     "text": "das ist im Januar neunzehnhundertdreiundachtzig",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 37,
+     "text": "das ist",
+     "target": true
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement02|58",
+   "corpus": "Dem_German",
+   "session": "Park_Dement02",
+   "utt_index": 58,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement02",
+   "audio_task": "Jalvingh",
+   "start_ms": 316581,
+   "end_ms": 317081,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 56,
+     "text": "und eh Obstb\u00e4ume und eh B\u00fcsche so hohe eh mit Blumen als auch eben eh eh Dinge die wir sp\u00e4ter zu eh",
+     "target": false
+    },
+    {
+     "tier": "F",
+     "utt_index": 57,
+     "text": "Marmelade",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 58,
+     "text": "ja ja",
+     "target": true
+    },
+    {
+     "tier": "F",
+     "utt_index": 59,
+     "text": "meinst du Johannisbeeren",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement03|123",
+   "corpus": "Dem_German",
+   "session": "Park_Dement03",
+   "utt_index": 123,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement03",
+   "audio_task": "Jalvingh",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 121,
+     "text": "und meine Frau ist aus Soltau",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 122,
+     "text": "das ist L\u00fcneburger Heide",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 123,
+     "text": "wir",
+     "target": true
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI03|89",
+   "corpus": "Dem_German",
+   "session": "Park_MCI03",
+   "utt_index": 89,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI03",
+   "audio_task": "Jalvingh",
+   "start_ms": 292298,
+   "end_ms": 293199,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 87,
+     "text": "sie wollte ja auch nicht alles sehen nicht",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 88,
+     "text": "nein",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 89,
+     "text": "ach da bin ich ganz",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 90,
+     "text": "ich lass sie ziemlich gew\u00e4hren",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD03|36",
+   "corpus": "Dem_German",
+   "session": "FTD03",
+   "utt_index": 36,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD03",
+   "audio_task": "Jalvingh",
+   "start_ms": 104369,
+   "end_ms": 107554,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 34,
+     "text": "ich mach drau\u00dfen auch was ab und zu mal ja",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 35,
+     "text": "a hm und Kontakt zu den Nachbarn ist noch da oder",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 36,
+     "text": "ja ja da haben wir auch Kontakt zu",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 37,
+     "text": "viel Kontakt",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI04|41",
+   "corpus": "Dem_German",
+   "session": "Park_MCI04",
+   "utt_index": 41,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI04",
+   "audio_task": "Jalvingh",
+   "start_ms": 132836,
+   "end_ms": 134258,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 39,
+     "text": "est Nein",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 40,
+     "text": "meinen Sie nicht",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 41,
+     "text": "nein meine die Malteser",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 42,
+     "text": "die sowas besorgen",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI03|73",
+   "corpus": "Dem_German",
+   "session": "Park_MCI03",
+   "utt_index": 73,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI03",
+   "audio_task": "Jalvingh",
+   "start_ms": 237283,
+   "end_ms": 238683,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 71,
+     "text": "und dann wie l\u00e4uft dann der Nachmittag",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 72,
+     "text": "ja dann wird Kaffee getrunken",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 73,
+     "text": "also wir k\u00f6nnen ruhig",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 74,
+     "text": "vielleicht fahren wir mal los",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD04|65",
+   "corpus": "Dem_German",
+   "session": "FTD04",
+   "utt_index": 65,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD04",
+   "audio_task": "Jalvingh",
+   "start_ms": 254290,
+   "end_ms": 259838,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 63,
+     "text": "es kann sein um halb eins kann sein vielleicht ein bisschen fr\u00fcher oder vielleicht auch mal ein bisschen sp\u00e4ter",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 64,
+     "text": "je nachdem ehm wo mein Mann denn eh hingefahren ist",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 65,
+     "text": "und wann er",
+     "target": true
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI03|125",
+   "corpus": "Dem_German",
+   "session": "Park_MCI03",
+   "utt_index": 125,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI03",
+   "audio_task": "Jalvingh",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 123,
+     "text": "oh meine G\u00fcte ja",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 124,
+     "text": "da mussten Sie aushelfen und alles machen",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 125,
+     "text": "ja so ist das eben",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 126,
+     "text": "und haben Sie dann sp\u00e4ter Zeit gehabt f\u00fcr eine Ausbildung oder gab es das gar nicht",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement03|92",
+   "corpus": "Dem_German",
+   "session": "Park_Dement03",
+   "utt_index": 92,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement03",
+   "audio_task": "Jalvingh",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 90,
+     "text": "und Allgemeines",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 91,
+     "text": "so wie",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 92,
+     "text": "zum Beispiel",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 93,
+     "text": "f\u00e4llt mir momentan nichts ein",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI02|27",
+   "corpus": "Dem_German",
+   "session": "Park_MCI02",
+   "utt_index": 27,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI02",
+   "audio_task": "Jalvingh",
+   "start_ms": 136460,
+   "end_ms": 142494,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 25,
+     "text": "lasse mir dann so einen Tag Zeit",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 26,
+     "text": "und dann \u00fcberlege ich mir ob ich eventuell nochmal aus dem Haus gehe etwas besorge oder einfach nur wieder etwas suche womit ich mit besch\u00e4ftigen kann",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 27,
+     "text": "dass ich also wenn ich Ruhe brauche wenn ich Zeit brauche wo keiner um mich rumschw\u00e4nzelt ein bisschen",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 28,
+     "text": "mich bei der Arbeit stellen",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI03|82",
+   "corpus": "Dem_German",
+   "session": "Park_MCI03",
+   "utt_index": 82,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI03",
+   "audio_task": "Jalvingh",
+   "start_ms": 280320,
+   "end_ms": 281601,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 80,
+     "text": "ja meistens Fernsehen gucken",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 81,
+     "text": "was sehen Sie denn gerne",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 82,
+     "text": "ach habe ja nicht gro\u00dfe Wahl",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 83,
+     "text": "meine Frau w\u00e4hlt ja mit",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD01|102",
+   "corpus": "Dem_German",
+   "session": "FTD01",
+   "utt_index": 102,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD01",
+   "audio_task": "Jalvingh",
+   "start_ms": 250878,
+   "end_ms": 252139,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 100,
+     "text": "und sie haben ja Zeit grunds\u00e4tzlich",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 101,
+     "text": "wir haben Zeit ja",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 102,
+     "text": "ja was gibt denn sonst",
+     "target": true
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|PPA_LPA|28",
+   "corpus": "Dem_German",
+   "session": "PPA_LPA",
+   "utt_index": 28,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "PPA_LPA",
+   "audio_task": "Jalvingh",
+   "start_ms": 642543,
+   "end_ms": 648632,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 26,
+     "text": "und dann dann ist alleine schon wenn dann nicht eh wenn man eh ein h\u00e4rteres eh Kissen hat nicht dann eh kann man nicht einschlafen nicht",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 27,
+     "text": "nicht das eh das eh das ist das also so kleine Sachen sind das nicht",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 28,
+     "text": "nicht als muss ich mich wieder",
+     "target": true
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD04|17",
+   "corpus": "Dem_German",
+   "session": "FTD04",
+   "utt_index": 17,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD04",
+   "audio_task": "Jalvingh",
+   "start_ms": 70510,
+   "end_ms": 71010,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 15,
+     "text": "a hm",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 16,
+     "text": "und die St\u00fctzstr\u00fcmpfe nicht",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 17,
+     "text": "ja",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 18,
+     "text": "und dann",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|PPA_PnfA|48",
+   "corpus": "Dem_German",
+   "session": "PPA_PnfA",
+   "utt_index": 48,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "PPA_PnfA",
+   "audio_task": "Jalvingh",
+   "start_ms": 447492,
+   "end_ms": 450356,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 46,
+     "text": "und dann eh ja abends eh essen wir und unser eh n Frau und zusammen und ja",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 47,
+     "text": "Und was machen sie abends in der Regel wenn sie gegessen haben",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 48,
+     "text": "eventuell eh Caputer",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 49,
+     "text": "ok ja",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement03|117",
+   "corpus": "Dem_German",
+   "session": "Park_Dement03",
+   "utt_index": 117,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement03",
+   "audio_task": "Jalvingh",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 115,
+     "text": "die Verwandtschaft ist in Ghana zuhause",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 116,
+     "text": "kommt aus Ghana",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 117,
+     "text": "und mein meine Eltern di sind mit s siebzehnhundertsiebzig mit Mar damals mit den Siedlungen von Mari Maria Theresia Graf Betschi angesiedelt worden in Ungarn",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 118,
+     "text": "aha und welche Sprache haben sie denn gesprochen",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI01|19",
+   "corpus": "Dem_German",
+   "session": "Park_MCI01",
+   "utt_index": 19,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI01",
+   "audio_task": "Jalvingh",
+   "start_ms": 99018,
+   "end_ms": 100059,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 17,
+     "text": "und dann mach ich versuch ich die erste Tour zu machen hier auf dem Flur",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 18,
+     "text": "mit meinem Rollator etwas Bewegung in meinen Alltag zu bringen",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 19,
+     "text": "dann lauf ich hier",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 20,
+     "text": "das waren sind so die Flure das so ungef\u00e4hr hundertf\u00fcnfzig zweihundert Meter sind",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|PPA_LPA|18",
+   "corpus": "Dem_German",
+   "session": "PPA_LPA",
+   "utt_index": 18,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "PPA_LPA",
+   "audio_task": "Jalvingh",
+   "start_ms": 104144,
+   "end_ms": 110553,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 16,
+     "text": "es kann so sein dass ich ehm dass ich also von von a abends um um um eh sieben Uhr ins Bett gehe oder so und um acht schon einschlafe",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 17,
+     "text": "und stehe erst am n\u00e4chsten Tag um neun Uhr auf oder nicht",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 18,
+     "text": "also es kann aber auch sein nicht eh dass ich dass ich um um eh s sieben Uhr sieben Uhr oder",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 19,
+     "text": "denn ich stehe gerne etwas fr\u00fcher auf",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|PPA_LPA|13",
+   "corpus": "Dem_German",
+   "session": "PPA_LPA",
+   "utt_index": 13,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "PPA_LPA",
+   "audio_task": "Jalvingh",
+   "start_ms": 82913,
+   "end_ms": 85657,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 11,
+     "text": "so eie wie wie sp\u00e4t w\u00fcrden sie morgen oder oder heute aufstehen",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 12,
+     "text": "was w\u00e4re normal f\u00fcr sie",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 13,
+     "text": "ehm also das ist unterschiedlich nicht",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 14,
+     "text": "das ist also unterschiedlich nicht",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI04|79",
+   "corpus": "Dem_German",
+   "session": "Park_MCI04",
+   "utt_index": 79,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI04",
+   "audio_task": "Jalvingh",
+   "start_ms": 353710,
+   "end_ms": 354210,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 77,
+     "text": "Parkinson nicht",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 78,
+     "text": "ja machst du wohl nicht ja",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 79,
+     "text": "ja wie gesagt so mal",
+     "target": true
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI02|34",
+   "corpus": "Dem_German",
+   "session": "Park_MCI02",
+   "utt_index": 34,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI02",
+   "audio_task": "Jalvingh",
+   "start_ms": 173140,
+   "end_ms": 184595,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 32,
+     "text": "kleine Eink\u00e4ufe",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 33,
+     "text": "erledige Dinge die ich normalerweise nicht erledigen kann weil die Zeit fehlt obwohl ich Rentnerin bin",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 34,
+     "text": "und ehm naja f\u00fcnf halb vier oder f\u00fcnf oder halb sechs oder so um den Dreh",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 35,
+     "text": "wenn mir",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|PPA_PnfA|46",
+   "corpus": "Dem_German",
+   "session": "PPA_PnfA",
+   "utt_index": 46,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "PPA_PnfA",
+   "audio_task": "Jalvingh",
+   "start_ms": 415401,
+   "end_ms": 436740,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 44,
+     "text": "und eh ja oh eventuell auch im Garten",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 45,
+     "text": "und gie\u00dfen oder was auch immer",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 46,
+     "text": "und dann eh ja abends eh essen wir und unser eh n Frau und zusammen und ja",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 47,
+     "text": "Und was machen sie abends in der Regel wenn sie gegessen haben",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI01|29",
+   "corpus": "Dem_German",
+   "session": "Park_MCI01",
+   "utt_index": 29,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI01",
+   "audio_task": "Jalvingh",
+   "start_ms": 144037,
+   "end_ms": 147239,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 27,
+     "text": "essen mittags wieder gemeinsam",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 28,
+     "text": "und warten auf den Nachmittag",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 29,
+     "text": "kleine Tour nach drau\u00dfen machen mit dem Rollator",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 30,
+     "text": "meine Frau hat in der Zwischenzeit auch einen Rollater ge bekommen weil die auch nicht mehr sch schlechter wird mit ihr",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement02|56",
+   "corpus": "Dem_German",
+   "session": "Park_Dement02",
+   "utt_index": 56,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement02",
+   "audio_task": "Jalvingh",
+   "start_ms": 278301,
+   "end_ms": 291458,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 54,
+     "text": "also Garten ist eh relativ gro\u00df",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 55,
+     "text": "acht achthundert Quadratmeter",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 56,
+     "text": "und eh Obstb\u00e4ume und eh B\u00fcsche so hohe eh mit Blumen als auch eben eh eh Dinge die wir sp\u00e4ter zu eh",
+     "target": true
+    },
+    {
+     "tier": "F",
+     "utt_index": 57,
+     "text": "Marmelade",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI04|56",
+   "corpus": "Dem_German",
+   "session": "Park_MCI04",
+   "utt_index": 56,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI04",
+   "audio_task": "Jalvingh",
+   "start_ms": 192900,
+   "end_ms": 196922,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 54,
+     "text": "naja und dann lege ich mich ehm zwei Stunden hin wieder halb drei drei Uhr",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 55,
+     "text": "ja und sonst habe ich immer noch irgendwas gemacht so nicht",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 56,
+     "text": "gegraben oder harken oder pflanzen oder",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 57,
+     "text": "nein pflanzen geht nicht",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement03|4",
+   "corpus": "Dem_German",
+   "session": "Park_Dement03",
+   "utt_index": 4,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement03",
+   "audio_task": "Jalvingh",
+   "start_ms": 12260,
+   "end_ms": 15546,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 2,
+     "text": "wer wird zuerst wach sie oder ihre Frau",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 3,
+     "text": "was machen Sie dann anschlie\u00dfend",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "erst erst erst erst werde ich wach",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 5,
+     "text": "sie sind zuerst wach",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement03|67",
+   "corpus": "Dem_German",
+   "session": "Park_Dement03",
+   "utt_index": 67,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement03",
+   "audio_task": "Jalvingh",
+   "start_ms": 390291,
+   "end_ms": 396628,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 65,
+     "text": "gut dann haben Sie ein bisschen Mittagspause gemacht",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 66,
+     "text": "und wie sieht der Nachmittag aus",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 67,
+     "text": "dass ich ins B\u00fcro gehe",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 68,
+     "text": "",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement02|70",
+   "corpus": "Dem_German",
+   "session": "Park_Dement02",
+   "utt_index": 70,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement02",
+   "audio_task": "Jalvingh",
+   "start_ms": 362840,
+   "end_ms": 685960,
+   "context": [
+    {
+     "tier": "F",
+     "utt_index": 68,
+     "text": "ich mache ja bestimmte Beete",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 69,
+     "text": "aha",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 70,
+     "text": "diese eh Gesundheitsprobleme die waren ja die gangen ja im Grunde eh in",
+     "target": true
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|PPA_PnfA|30",
+   "corpus": "Dem_German",
+   "session": "PPA_PnfA",
+   "utt_index": 30,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "PPA_PnfA",
+   "audio_task": "Jalvingh",
+   "start_ms": 324991,
+   "end_ms": 334482,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 28,
+     "text": "und dann ja eh und und ja und dann eh ja wei\u00df es nicht",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 29,
+     "text": "aber eventuell eh ja ja mache ich gleich Pause",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 30,
+     "text": "und dann f fr\u00fchst\u00fccken nein das ist mim Mittagessen ne ne eh dann eh",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 31,
+     "text": "dann essen sie zu zweit nehme ich an nicht",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI03|80",
+   "corpus": "Dem_German",
+   "session": "Park_MCI03",
+   "utt_index": 80,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI03",
+   "audio_task": "Jalvingh",
+   "start_ms": 270445,
+   "end_ms": 272045,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 78,
+     "text": "ist eben so",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 79,
+     "text": "ja was machen sie abends noch",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 80,
+     "text": "ja meistens Fernsehen gucken",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 81,
+     "text": "was sehen Sie denn gerne",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD03|27",
+   "corpus": "Dem_German",
+   "session": "FTD03",
+   "utt_index": 27,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD03",
+   "audio_task": "Jalvingh",
+   "start_ms": 64377,
+   "end_ms": 65679,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 25,
+     "text": "du",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 26,
+     "text": "du machst das ja alles fertig morgens",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 27,
+     "text": "ich mache das ja nicht mehr",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 28,
+     "text": "hm und vormittags was was was machen sie wenn ihr Mann arbeitet und ihr Sohn",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI01|33",
+   "corpus": "Dem_German",
+   "session": "Park_MCI01",
+   "utt_index": 33,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI01",
+   "audio_task": "Jalvingh",
+   "start_ms": 165126,
+   "end_ms": 166848,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 31,
+     "text": "Schwindelanf\u00e4lle und so weiter",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 32,
+     "text": "ja bringen wir den Nachmittag drau\u00dfen rum",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 33,
+     "text": "durch durch zu laufen",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 34,
+     "text": "und dann bin ich auch geschafft",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI02|35",
+   "corpus": "Dem_German",
+   "session": "Park_MCI02",
+   "utt_index": 35,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI02",
+   "audio_task": "Jalvingh",
+   "start_ms": 509187,
+   "end_ms": 509897,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 33,
+     "text": "erledige Dinge die ich normalerweise nicht erledigen kann weil die Zeit fehlt obwohl ich Rentnerin bin",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 34,
+     "text": "und ehm naja f\u00fcnf halb vier oder f\u00fcnf oder halb sechs oder so um den Dreh",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 35,
+     "text": "wenn mir",
+     "target": true
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement03|53",
+   "corpus": "Dem_German",
+   "session": "Park_Dement03",
+   "utt_index": 53,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement03",
+   "audio_task": "Jalvingh",
+   "start_ms": 332160,
+   "end_ms": 347859,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 51,
+     "text": "wenn ich gegessen habe lege ich mich lege ich mich erst mal so circa eine halbe Stunde Mittagspause",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 52,
+     "text": "und dann",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 53,
+     "text": "also es ist heute besonders schlimm dass ich unangenehme Stimme zu meiner Stimme",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 54,
+     "text": "sie k\u00f6nnen es \u00e4ndern",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|PPA_LPA|26",
+   "corpus": "Dem_German",
+   "session": "PPA_LPA",
+   "utt_index": 26,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "PPA_LPA",
+   "audio_task": "Jalvingh",
+   "start_ms": 141222,
+   "end_ms": 146019,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 24,
+     "text": "nun kommt ja noch hinzu dass ich ja ein eh ehm auf dem R\u00fccken habe ich also allen m\u00f6glichen eh nicht ehm sch eh sch eh Schwierigkeiten da nicht",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 25,
+     "text": "eh so ehm nicht also dass es also schnell irgendetwas dass eh s eh schmerzhaft werden kann",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 26,
+     "text": "und dann dann ist alleine schon wenn dann nicht eh wenn man eh ein h\u00e4rteres eh Kissen hat nicht dann eh kann man nicht einschlafen nicht",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 27,
+     "text": "nicht das eh das eh das ist das also so kleine Sachen sind das nicht",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI01|32",
+   "corpus": "Dem_German",
+   "session": "Park_MCI01",
+   "utt_index": 32,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI01",
+   "audio_task": "Jalvingh",
+   "start_ms": 160780,
+   "end_ms": 164745,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 30,
+     "text": "meine Frau hat in der Zwischenzeit auch einen Rollater ge bekommen weil die auch nicht mehr sch schlechter wird mit ihr",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 31,
+     "text": "Schwindelanf\u00e4lle und so weiter",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 32,
+     "text": "ja bringen wir den Nachmittag drau\u00dfen rum",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 33,
+     "text": "durch durch zu laufen",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement02|19",
+   "corpus": "Dem_German",
+   "session": "Park_Dement02",
+   "utt_index": 19,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement02",
+   "audio_task": "Jalvingh",
+   "start_ms": 127140,
+   "end_ms": 130444,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 17,
+     "text": "ja weil jeder seine Aufgaben hat",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 18,
+     "text": "das ist das Gute",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 19,
+     "text": "das geht also sehr eh gerade sozusagen",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 20,
+     "text": "essen sie viel beim Fr\u00fchst\u00fcck oder eher wenig",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement03|84",
+   "corpus": "Dem_German",
+   "session": "Park_Dement03",
+   "utt_index": 84,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement03",
+   "audio_task": "Jalvingh",
+   "start_ms": 485370,
+   "end_ms": 495146,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 82,
+     "text": "der K\u00f6nig",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 83,
+     "text": "steht in der Zeitung heute",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 84,
+     "text": "ist anzunehmen ist anzunehmen ist dass die Zeitung hat nicht allzu viel zu berichten",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 85,
+     "text": "was machen sie denn abends noch Herr x",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement02|65",
+   "corpus": "Dem_German",
+   "session": "Park_Dement02",
+   "utt_index": 65,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement02",
+   "audio_task": "Jalvingh",
+   "start_ms": 353875,
+   "end_ms": 354655,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 63,
+     "text": "aber auch von mir",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 64,
+     "text": "eh ja ob man sagen kann jeder macht gleich viel",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 65,
+     "text": "also das",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 66,
+     "text": "ich w\u00fcrde eher sagen dass du mehr machst als ich",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD03|39",
+   "corpus": "Dem_German",
+   "session": "FTD03",
+   "utt_index": 39,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD03",
+   "audio_task": "Jalvingh",
+   "start_ms": 115884,
+   "end_ms": 123355,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 37,
+     "text": "viel Kontakt",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 38,
+     "text": "wie hei\u00dfen die",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 39,
+     "text": "ehm Wiemkem und Tien und Lampken",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 40,
+     "text": "und Tien hier hinten",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement01|40",
+   "corpus": "Dem_German",
+   "session": "Park_Dement01",
+   "utt_index": 40,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement01",
+   "audio_task": "Jalvingh",
+   "start_ms": 129763,
+   "end_ms": 134831,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 38,
+     "text": "das k\u00f6nnen sie besser vertragen ja",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 39,
+     "text": "ich glaube schon nicht",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 40,
+     "text": "der Doktor meinte ja dass dass w\u00e4re ein Pilz an der an der",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 41,
+     "text": "Magenschleimhautwand",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement03|96",
+   "corpus": "Dem_German",
+   "session": "Park_Dement03",
+   "utt_index": 96,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement03",
+   "audio_task": "Jalvingh",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 94,
+     "text": "Tatort",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 95,
+     "text": "Sportschau",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 96,
+     "text": "das ist",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 97,
+     "text": "werden Sie die WM noch schauen",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI01|23",
+   "corpus": "Dem_German",
+   "session": "Park_MCI01",
+   "utt_index": 23,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI01",
+   "audio_task": "Jalvingh",
+   "start_ms": 114217,
+   "end_ms": 116159,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 21,
+     "text": "und dann komme ich zur\u00fcck",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 22,
+     "text": "und bin auch ziemlich geschafft",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 23,
+     "text": "dann ist schon bald",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 24,
+     "text": "setzt man sich drauf auf den Balkon je je nach Witterungslage",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI03|138",
+   "corpus": "Dem_German",
+   "session": "Park_MCI03",
+   "utt_index": 138,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI03",
+   "audio_task": "Jalvingh",
+   "start_ms": 320757,
+   "end_ms": 322639,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 136,
+     "text": "haben Sie Spa\u00df dran gehabt",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 137,
+     "text": "oder war es anstrengend",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 138,
+     "text": "war jung neben meiner meiner Landwirtschaft ja",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 139,
+     "text": "ja und wie haben Sie dann ihre Frau kennengelernt",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|PPA_PnfA|12",
+   "corpus": "Dem_German",
+   "session": "PPA_PnfA",
+   "utt_index": 12,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "PPA_PnfA",
+   "audio_task": "Jalvingh",
+   "start_ms": 123281,
+   "end_ms": 125424,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 10,
+     "text": "ja",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 11,
+     "text": "nicht und dann eh ne muss ich ne ne nach oben ne weil ich dann ne ne ja erst mal n ne waschen",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 12,
+     "text": "und Z\u00e4hne putzen und",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 13,
+     "text": "ja genau",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement03|52",
+   "corpus": "Dem_German",
+   "session": "Park_Dement03",
+   "utt_index": 52,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement03",
+   "audio_task": "Jalvingh",
+   "start_ms": 318274,
+   "end_ms": 318914,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 50,
+     "text": "",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 51,
+     "text": "wenn ich gegessen habe lege ich mich lege ich mich erst mal so circa eine halbe Stunde Mittagspause",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 52,
+     "text": "und dann",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 53,
+     "text": "also es ist heute besonders schlimm dass ich unangenehme Stimme zu meiner Stimme",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement03|69",
+   "corpus": "Dem_German",
+   "session": "Park_Dement03",
+   "utt_index": 69,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement03",
+   "audio_task": "Jalvingh",
+   "start_ms": 414881,
+   "end_ms": 422050,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 67,
+     "text": "dass ich ins B\u00fcro gehe",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 68,
+     "text": "",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 69,
+     "text": "ja viel leichter ge gesagt als getan",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 70,
+     "text": "das zu erz\u00e4hlen",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement01|23",
+   "corpus": "Dem_German",
+   "session": "Park_Dement01",
+   "utt_index": 23,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement01",
+   "audio_task": "Jalvingh",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 21,
+     "text": "ich habe sofort gesagt ich muss morgens geduscht werden sonst wird das nichts",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 22,
+     "text": "ja",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 23,
+     "text": "hm",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 24,
+     "text": "ja und wenn sie damit fertig sind ziehen sie sich an",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI04|12",
+   "corpus": "Dem_German",
+   "session": "Park_MCI04",
+   "utt_index": 12,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI04",
+   "audio_task": "Jalvingh",
+   "start_ms": 56748,
+   "end_ms": 58109,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 10,
+     "text": "und dann halb neun war es dann wohl",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 11,
+     "text": "habe ich mich an den Tisch gesetzt",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 12,
+     "text": "meinen Pfannkuchen ge ge gegessen",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 13,
+     "text": "und wie kam der Pfannkuchen wie kommt der Pfannkuchen dann da",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement03|122",
+   "corpus": "Dem_German",
+   "session": "Park_Dement03",
+   "utt_index": 122,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement03",
+   "audio_task": "Jalvingh",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 120,
+     "text": "a ha",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 121,
+     "text": "und meine Frau ist aus Soltau",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 122,
+     "text": "das ist L\u00fcneburger Heide",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 123,
+     "text": "wir",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI03|13",
+   "corpus": "Dem_German",
+   "session": "Park_MCI03",
+   "utt_index": 13,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI03",
+   "audio_task": "Jalvingh",
+   "start_ms": 43872,
+   "end_ms": 45814,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 11,
+     "text": "gut",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 12,
+     "text": "ja dann kommt meine Frau",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 13,
+     "text": "wir essen zusammen zusammen Fr\u00fchst\u00fcck",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 14,
+     "text": "a hm kommt die alleine runter oder braucht die Hilfe",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_MCI01|39",
+   "corpus": "Dem_German",
+   "session": "Park_MCI01",
+   "utt_index": 39,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_MCI01",
+   "audio_task": "Jalvingh",
+   "start_ms": 192000,
+   "end_ms": 196219,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 37,
+     "text": "so verbringen wir den Abend",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 38,
+     "text": "und dann irgendwann um elf Uhr nehme ich die letzte Tablette",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 39,
+     "text": "der mir um dreiundzwanzig Uhr verschrieben hat damit ich die Nacht ein bisschen besser",
+     "target": true
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD03|50",
+   "corpus": "Dem_German",
+   "session": "FTD03",
+   "utt_index": 50,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD03",
+   "audio_task": "Jalvingh",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 48,
+     "text": "siebzig sind die schon",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 49,
+     "text": "ah ja und man kennt sich schon gut nicht dann",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 50,
+     "text": "hm",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 51,
+     "text": "a hm ja und wer kommt dann fr\u00fcher nach Hause",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|Park_Dement02|37",
+   "corpus": "Dem_German",
+   "session": "Park_Dement02",
+   "utt_index": 37,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "Park_Dement02",
+   "audio_task": "Jalvingh",
+   "start_ms": 228296,
+   "end_ms": 229617,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 35,
+     "text": "ja gut das kommt ganz drauf an was wir beide gemeinschaftlich tun einerseits und was jeder f\u00fcr sich sozusagen tut anderseits",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 36,
+     "text": "gemeinschaftlich kann man sagen Woche f\u00fcr Woche ist das ungef\u00e4hr dasselbe",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 37,
+     "text": "und Montag",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 38,
+     "text": "was machen wir Montag",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|PPA_PnfA|4",
+   "corpus": "Dem_German",
+   "session": "PPA_PnfA",
+   "utt_index": 4,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "PPA_PnfA",
+   "audio_task": "Jalvingh",
+   "start_ms": 35466,
+   "end_ms": 38549,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 2,
+     "text": "versuchen sie mal einen ganz normalem Tag zu beschreiben",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 3,
+     "text": "ja",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "um Viertel nach sechs",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 5,
+     "text": "stehen sie schon auf",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|PPA_PnfA|39",
+   "corpus": "Dem_German",
+   "session": "PPA_PnfA",
+   "utt_index": 39,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "PPA_PnfA",
+   "audio_task": "Jalvingh",
+   "start_ms": 356604,
+   "end_ms": 359029,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 37,
+     "text": "ahja",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 38,
+     "text": "n die drei Tage muss sie arbeiten",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 39,
+     "text": "aber drei Tage muss sie m",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 40,
+     "text": "ne ja dann machen wir eine kleine Pause mit m n Sofa",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_German|FTD02|46",
+   "corpus": "Dem_German",
+   "session": "FTD02",
+   "utt_index": 46,
+   "task": "Jalvingh",
+   "group": "",
+   "language": "deu",
+   "audio_stem": "FTD02",
+   "audio_task": "Jalvingh",
+   "start_ms": 110257,
+   "end_ms": 112339,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 44,
+     "text": "schon mal einmal nicht",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 45,
+     "text": "morgens vormittags",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 46,
+     "text": "weil das ist wichtig f\u00fcr mich f\u00fcr meine",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 47,
+     "text": "denn das ist ja auch ein St\u00fcck Leben",
+     "target": false
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+start_utt,end_utt,category,resolution
+2,2,NON-UP,RES+
+5,5,OI-open,RES+
+2,2,RE-ASK,RES+
+0,0,NON-UP,RES+

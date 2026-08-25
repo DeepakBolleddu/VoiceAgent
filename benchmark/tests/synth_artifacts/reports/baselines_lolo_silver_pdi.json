@@ -1,0 +1,488 @@
+{
+  "lolo/deu:B0_length": {
+    "overall": {
+      "n": 161,
+      "spearman": 0.5531170897782581,
+      "pearson": 0.47193160364667625,
+      "ccc": 0.3544053985518938,
+      "mae": 0.632241209875657
+    },
+    "state_vs_trait": {
+      "within_speaker_var_share": 0.715809373048702,
+      "mean_within_speaker_rho": 0.23780002705955441,
+      "n_speakers_scored": 12
+    },
+    "known_groups": {
+      "groups": {
+        "Control": -0.224268083693239,
+        "MCI": 0.11213697976359166,
+        "ProbableAD": 0.4018466047616585
+      },
+      "monotonic_spearman": NaN
+    },
+    "per_language": {
+      "deu": {
+        "n": 161,
+        "spearman": 0.5531170897782581,
+        "pearson": 0.47193160364667625,
+        "ccc": 0.3544053985518938,
+        "mae": 0.632241209875657
+      }
+    },
+    "per_population": {
+      "dementia": {
+        "n": 161,
+        "spearman": 0.5531170897782581,
+        "pearson": 0.47193160364667625,
+        "ccc": 0.3544053985518938,
+        "mae": 0.632241209875657
+      }
+    },
+    "per_corpus": {
+      "German": {
+        "n": 161,
+        "spearman": 0.5531170897782581,
+        "pearson": 0.47193160364667625,
+        "ccc": 0.3544053985518938,
+        "mae": 0.632241209875657
+      }
+    }
+  },
+  "lolo/deu:B1_interp": {
+    "overall": {
+      "n": 161,
+      "spearman": 0.9070927269373875,
+      "pearson": 0.9873650978302385,
+      "ccc": 0.9865891954547172,
+      "mae": 0.10679545167440475
+    },
+    "state_vs_trait": {
+      "within_speaker_var_share": 0.8010396949473276,
+      "mean_within_speaker_rho": 0.855581600385746,
+      "n_speakers_scored": 12
+    },
+    "known_groups": {
+      "groups": {
+        "Control": -0.18170433678643355,
+        "MCI": -0.13592991207813432,
+        "ProbableAD": 0.6964599267231834
+      },
+      "monotonic_spearman": NaN
+    },
+    "per_language": {
+      "deu": {
+        "n": 161,
+        "spearman": 0.9070927269373875,
+        "pearson": 0.9873650978302385,
+        "ccc": 0.9865891954547172,
+        "mae": 0.10679545167440475
+      }
+    },
+    "per_population": {
+      "dementia": {
+        "n": 161,
+        "spearman": 0.9070927269373875,
+        "pearson": 0.9873650978302385,
+        "ccc": 0.9865891954547172,
+        "mae": 0.10679545167440475
+      }
+    },
+    "per_corpus": {
+      "German": {
+        "n": 161,
+        "spearman": 0.9070927269373875,
+        "pearson": 0.9873650978302385,
+        "ccc": 0.9865891954547172,
+        "mae": 0.10679545167440475
+      }
+    }
+  },
+  "lolo/deu:B2_interp+lang": {
+    "overall": {
+      "n": 161,
+      "spearman": 0.9070943109223122,
+      "pearson": 0.9871338598769055,
+      "ccc": 0.9859897482629691,
+      "mae": 0.10764371587286141
+    },
+    "state_vs_trait": {
+      "within_speaker_var_share": 0.7992631485831372,
+      "mean_within_speaker_rho": 0.855581600385746,
+      "n_speakers_scored": 12
+    },
+    "known_groups": {
+      "groups": {
+        "Control": -0.18895771017359406,
+        "MCI": -0.14159691232921798,
+        "ProbableAD": 0.6911711067026934
+      },
+      "monotonic_spearman": NaN
+    },
+    "per_language": {
+      "deu": {
+        "n": 161,
+        "spearman": 0.9070943109223122,
+        "pearson": 0.9871338598769055,
+        "ccc": 0.9859897482629691,
+        "mae": 0.10764371587286141
+      }
+    },
+    "per_population": {
+      "dementia": {
+        "n": 161,
+        "spearman": 0.9070943109223122,
+        "pearson": 0.9871338598769055,
+        "ccc": 0.9859897482629691,
+        "mae": 0.10764371587286141
+      }
+    },
+    "per_corpus": {
+      "German": {
+        "n": 161,
+        "spearman": 0.9070943109223122,
+        "pearson": 0.9871338598769055,
+        "ccc": 0.9859897482629691,
+        "mae": 0.10764371587286141
+      }
+    }
+  },
+  "lolo/eng:B0_length": {
+    "overall": {
+      "n": 554,
+      "spearman": 0.28982645472090707,
+      "pearson": 0.3070598092716591,
+      "ccc": 0.24151704257412113,
+      "mae": 0.7474978602261276
+    },
+    "state_vs_trait": {
+      "within_speaker_var_share": 0.5460872170433808,
+      "mean_within_speaker_rho": 0.12264615385087417,
+      "n_speakers_scored": 30
+    },
+    "known_groups": {
+      "groups": {
+        "AWS": 0.058908803091900545,
+        "Control": -0.1110742742104215,
+        "MCI": 0.005682394346584211,
+        "ProbableAD": 0.7362643295819675
+      },
+      "monotonic_spearman": NaN
+    },
+    "per_language": {
+      "eng": {
+        "n": 554,
+        "spearman": 0.28982645472090707,
+        "pearson": 0.3070598092716591,
+        "ccc": 0.24151704257412113,
+        "mae": 0.7474978602261276
+      }
+    },
+    "per_population": {
+      "dementia": {
+        "n": 422,
+        "spearman": 0.36416166404328826,
+        "pearson": 0.33146819268949396,
+        "ccc": 0.26683407176883056,
+        "mae": 0.7587072032022117
+      },
+      "fluency": {
+        "n": 132,
+        "spearman": 0.236088900980242,
+        "pearson": 0.2350803569150406,
+        "ccc": 0.14836579130601932,
+        "mae": 0.7116619304086462
+      }
+    },
+    "per_corpus": {
+      "FluencyBank": {
+        "n": 132,
+        "spearman": 0.236088900980242,
+        "pearson": 0.2350803569150406,
+        "ccc": 0.14836579130601932,
+        "mae": 0.7116619304086462
+      },
+      "Pitt": {
+        "n": 422,
+        "spearman": 0.36416166404328826,
+        "pearson": 0.33146819268949396,
+        "ccc": 0.26683407176883056,
+        "mae": 0.7587072032022117
+      }
+    }
+  },
+  "lolo/eng:B1_interp": {
+    "overall": {
+      "n": 554,
+      "spearman": 0.7941721036962314,
+      "pearson": 0.8426887731814446,
+      "ccc": 0.8277394028860484,
+      "mae": 0.3318530862364092
+    },
+    "state_vs_trait": {
+      "within_speaker_var_share": 0.7539507842253994,
+      "mean_within_speaker_rho": 0.7319805706331177,
+      "n_speakers_scored": 30
+    },
+    "known_groups": {
+      "groups": {
+        "AWS": 0.5159444506855738,
+        "Control": -0.28274272662473154,
+        "MCI": 0.23789623320245523,
+        "ProbableAD": 0.7320986667724367
+      },
+      "monotonic_spearman": NaN
+    },
+    "per_language": {
+      "eng": {
+        "n": 554,
+        "spearman": 0.7941721036962314,
+        "pearson": 0.8426887731814446,
+        "ccc": 0.8277394028860484,
+        "mae": 0.3318530862364092
+      }
+    },
+    "per_population": {
+      "dementia": {
+        "n": 422,
+        "spearman": 0.8428450608414437,
+        "pearson": 0.8602486144295106,
+        "ccc": 0.8478917246157992,
+        "mae": 0.3283303163646944
+      },
+      "fluency": {
+        "n": 132,
+        "spearman": 0.8249246445688272,
+        "pearson": 0.7953687886508847,
+        "ccc": 0.7550628933896785,
+        "mae": 0.34311527476567927
+      }
+    },
+    "per_corpus": {
+      "FluencyBank": {
+        "n": 132,
+        "spearman": 0.8249246445688272,
+        "pearson": 0.7953687886508847,
+        "ccc": 0.7550628933896785,
+        "mae": 0.34311527476567927
+      },
+      "Pitt": {
+        "n": 422,
+        "spearman": 0.8428450608414437,
+        "pearson": 0.8602486144295106,
+        "ccc": 0.8478917246157992,
+        "mae": 0.3283303163646944
+      }
+    }
+  },
+  "lolo/eng:B2_interp+lang": {
+    "overall": {
+      "n": 554,
+      "spearman": 0.787644441365431,
+      "pearson": 0.8421717964170292,
+      "ccc": 0.8270450874393894,
+      "mae": 0.33693210162110476
+    },
+    "state_vs_trait": {
+      "within_speaker_var_share": 0.7653013170377424,
+      "mean_within_speaker_rho": 0.7292877221570777,
+      "n_speakers_scored": 30
+    },
+    "known_groups": {
+      "groups": {
+        "AWS": 0.5092833429964746,
+        "Control": -0.2742267510515163,
+        "MCI": 0.2566838139027399,
+        "ProbableAD": 0.7055478231341542
+      },
+      "monotonic_spearman": NaN
+    },
+    "per_language": {
+      "eng": {
+        "n": 554,
+        "spearman": 0.787644441365431,
+        "pearson": 0.8421717964170292,
+        "ccc": 0.8270450874393894,
+        "mae": 0.33693210162110476
+      }
+    },
+    "per_population": {
+      "dementia": {
+        "n": 422,
+        "spearman": 0.8373657667484362,
+        "pearson": 0.8593904537262447,
+        "ccc": 0.8470002608430852,
+        "mae": 0.3323589484918927
+      },
+      "fluency": {
+        "n": 132,
+        "spearman": 0.8242605811084188,
+        "pearson": 0.7959858295652972,
+        "ccc": 0.754925190729261,
+        "mae": 0.3515523335947977
+      }
+    },
+    "per_corpus": {
+      "FluencyBank": {
+        "n": 132,
+        "spearman": 0.8242605811084188,
+        "pearson": 0.7959858295652972,
+        "ccc": 0.754925190729261,
+        "mae": 0.3515523335947977
+      },
+      "Pitt": {
+        "n": 422,
+        "spearman": 0.8373657667484362,
+        "pearson": 0.8593904537262447,
+        "ccc": 0.8470002608430852,
+        "mae": 0.3323589484918927
+      }
+    }
+  },
+  "lolo/zho:B0_length": {
+    "overall": {
+      "n": 139,
+      "spearman": 0.6800904420809498,
+      "pearson": 0.5564121814003374,
+      "ccc": 0.4427969147067168,
+      "mae": 0.5832854818060903
+    },
+    "state_vs_trait": {
+      "within_speaker_var_share": 0.6758074858451243,
+      "mean_within_speaker_rho": 0.4525077892424605,
+      "n_speakers_scored": 12
+    },
+    "known_groups": {
+      "groups": {
+        "Control": -0.2073164418052658,
+        "MCI": 0.1773507965673877,
+        "ProbableAD": 0.5043419423990553
+      },
+      "monotonic_spearman": NaN
+    },
+    "per_language": {
+      "zho": {
+        "n": 139,
+        "spearman": 0.6800904420809498,
+        "pearson": 0.5564121814003374,
+        "ccc": 0.4427969147067168,
+        "mae": 0.5832854818060903
+      }
+    },
+    "per_population": {
+      "dementia": {
+        "n": 139,
+        "spearman": 0.6800904420809498,
+        "pearson": 0.5564121814003374,
+        "ccc": 0.4427969147067168,
+        "mae": 0.5832854818060903
+      }
+    },
+    "per_corpus": {
+      "Lu_Mandarin": {
+        "n": 139,
+        "spearman": 0.6800904420809498,
+        "pearson": 0.5564121814003374,
+        "ccc": 0.4427969147067168,
+        "mae": 0.5832854818060903
+      }
+    }
+  },
+  "lolo/zho:B1_interp": {
+    "overall": {
+      "n": 139,
+      "spearman": 0.919872929708067,
+      "pearson": 0.9770628328766825,
+      "ccc": 0.9767199983102393,
+      "mae": 0.11001189343296819
+    },
+    "state_vs_trait": {
+      "within_speaker_var_share": 0.7423376889352272,
+      "mean_within_speaker_rho": 0.7948747982856849,
+      "n_speakers_scored": 12
+    },
+    "known_groups": {
+      "groups": {
+        "Control": -0.3166848737522036,
+        "MCI": 0.058022378535859745,
+        "ProbableAD": 0.8648861336527545
+      },
+      "monotonic_spearman": NaN
+    },
+    "per_language": {
+      "zho": {
+        "n": 139,
+        "spearman": 0.919872929708067,
+        "pearson": 0.9770628328766825,
+        "ccc": 0.9767199983102393,
+        "mae": 0.11001189343296819
+      }
+    },
+    "per_population": {
+      "dementia": {
+        "n": 139,
+        "spearman": 0.919872929708067,
+        "pearson": 0.9770628328766825,
+        "ccc": 0.9767199983102393,
+        "mae": 0.11001189343296819
+      }
+    },
+    "per_corpus": {
+      "Lu_Mandarin": {
+        "n": 139,
+        "spearman": 0.919872929708067,
+        "pearson": 0.9770628328766825,
+        "ccc": 0.9767199983102393,
+        "mae": 0.11001189343296819
+      }
+    }
+  },
+  "lolo/zho:B2_interp+lang": {
+    "overall": {
+      "n": 139,
+      "spearman": 0.9199578338152502,
+      "pearson": 0.9773474850702244,
+      "ccc": 0.9770254858896529,
+      "mae": 0.11038670832120764
+    },
+    "state_vs_trait": {
+      "within_speaker_var_share": 0.7437397606477155,
+      "mean_within_speaker_rho": 0.7937306305302658,
+      "n_speakers_scored": 12
+    },
+    "known_groups": {
+      "groups": {
+        "Control": -0.3132576713607116,
+        "MCI": 0.059838092353462054,
+        "ProbableAD": 0.8603020315035917
+      },
+      "monotonic_spearman": NaN
+    },
+    "per_language": {
+      "zho": {
+        "n": 139,
+        "spearman": 0.9199578338152502,
+        "pearson": 0.9773474850702244,
+        "ccc": 0.9770254858896529,
+        "mae": 0.11038670832120764
+      }
+    },
+    "per_population": {
+      "dementia": {
+        "n": 139,
+        "spearman": 0.9199578338152502,
+        "pearson": 0.9773474850702244,
+        "ccc": 0.9770254858896529,
+        "mae": 0.11038670832120764
+      }
+    },
+    "per_corpus": {
+      "Lu_Mandarin": {
+        "n": 139,
+        "spearman": 0.9199578338152502,
+        "pearson": 0.9773474850702244,
+        "ccc": 0.9770254858896529,
+        "mae": 0.11038670832120764
+      }
+    }
+  }
+}

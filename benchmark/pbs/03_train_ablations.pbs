@@ -1,0 +1,24 @@
+#!/bin/bash
+#PBS -N va_train
+#PBS -l select=1:ncpus=4:ngpus=1:mem=32gb
+#PBS -l walltime=08:00:00
+#PBS -J 0-4
+#PBS -m ae
+#PBS -M u8023272@umail.usq.edu.au
+
+module load python/3.10.8-gcc-4ib
+module load cuda/11.8.0-gcc-3hs
+source ~/dl_env/bin/activate
+cd ~/VoiceAgent/benchmark
+
+# 5-cell invariance ablation grid (RQ2): probe / lang / pop / both / +speaker
+ARGS_0="--adv-lang 0.0 --adv-pop 0.0 --adv-spk 0.0  --run-name probe"
+ARGS_1="--adv-lang 0.1 --adv-pop 0.0 --adv-spk 0.0  --run-name adv_lang"
+ARGS_2="--adv-lang 0.0 --adv-pop 0.1 --adv-spk 0.0  --run-name adv_pop"
+ARGS_3="--adv-lang 0.1 --adv-pop 0.1 --adv-spk 0.0  --run-name adv_both"
+ARGS_4="--adv-lang 0.1 --adv-pop 0.1 --adv-spk 0.05 --run-name adv_all"
+VAR="ARGS_${PBS_ARRAY_INDEX}"
+
+echo "=== ablation cell ${PBS_ARRAY_INDEX}: ${!VAR} ==="
+python -m vabench.train --config configs/hpc.yaml --scheme iid ${!VAR}
+echo "Done: $(date)"

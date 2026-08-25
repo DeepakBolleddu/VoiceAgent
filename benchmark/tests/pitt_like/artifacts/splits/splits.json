@@ -1,0 +1,60 @@
+{
+  "iid": {
+    "train": [
+      "Pitt:eng:002",
+      "Pitt:eng:004",
+      "Pitt:eng:005",
+      "Pitt:eng:103",
+      "Pitt:eng:104",
+      "Pitt:eng:105"
+    ],
+    "dev": [
+      "Pitt:eng:006",
+      "Pitt:eng:106"
+    ],
+    "test": [
+      "Pitt:eng:001",
+      "Pitt:eng:003",
+      "Pitt:eng:101",
+      "Pitt:eng:102"
+    ]
+  },
+  "lolo": {
+    "eng": {
+      "train": [],
+      "test": [
+        "Pitt:eng:001",
+        "Pitt:eng:002",
+        "Pitt:eng:003",
+        "Pitt:eng:004",
+        "Pitt:eng:005",
+        "Pitt:eng:006",
+        "Pitt:eng:101",
+        "Pitt:eng:102",
+        "Pitt:eng:103",
+        "Pitt:eng:104",
+        "Pitt:eng:105",
+        "Pitt:eng:106"
+      ]
+    }
+  },
+  "lopo": {
+    "dementia": {
+      "train": [],
+      "test": [
+        "Pitt:eng:001",
+        "Pitt:eng:002",
+        "Pitt:eng:003",
+        "Pitt:eng:004",
+        "Pitt:eng:005",
+        "Pitt:eng:006",
+        "Pitt:eng:101",
+        "Pitt:eng:102",
+        "Pitt:eng:103",
+        "Pitt:eng:104",
+        "Pitt:eng:105",
+        "Pitt:eng:106"
+      ]
+    }
+  }
+}

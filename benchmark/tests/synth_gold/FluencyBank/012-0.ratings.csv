@@ -1,0 +1,7 @@
+utt_index,rater,condition,score
+10,r1,audio+transcript,2
+8,r1,audio+transcript,2
+10,r1,transcript-only,1
+8,r1,transcript-only,0
+10,r2,audio+transcript,3
+8,r2,audio+transcript,3

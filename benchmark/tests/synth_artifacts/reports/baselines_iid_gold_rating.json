@@ -1,0 +1,278 @@
+{
+  "iid:B0_length": {
+    "overall": {
+      "n": 11,
+      "spearman": NaN,
+      "pearson": NaN,
+      "ccc": 9.045440956902397e-32,
+      "mae": 0.38311688311688313
+    },
+    "state_vs_trait": {
+      "within_speaker_var_share": 0.0,
+      "mean_within_speaker_rho": NaN,
+      "n_speakers_scored": 0
+    },
+    "known_groups": {
+      "groups": {
+        "AWS": 1.9285714285714286,
+        "Control": 1.9285714285714286,
+        "MCI": 1.9285714285714286,
+        "ProbableAD": 1.9285714285714288
+      },
+      "monotonic_spearman": NaN
+    },
+    "per_language": {
+      "deu": {
+        "n": 0,
+        "spearman": NaN,
+        "pearson": NaN,
+        "ccc": NaN,
+        "mae": NaN
+      },
+      "eng": {
+        "n": 11,
+        "spearman": NaN,
+        "pearson": NaN,
+        "ccc": 9.045440956902397e-32,
+        "mae": 0.38311688311688313
+      },
+      "zho": {
+        "n": 0,
+        "spearman": NaN,
+        "pearson": NaN,
+        "ccc": NaN,
+        "mae": NaN
+      }
+    },
+    "per_population": {
+      "dementia": {
+        "n": 0,
+        "spearman": NaN,
+        "pearson": NaN,
+        "ccc": NaN,
+        "mae": NaN
+      },
+      "fluency": {
+        "n": 11,
+        "spearman": NaN,
+        "pearson": NaN,
+        "ccc": 9.045440956902397e-32,
+        "mae": 0.38311688311688313
+      }
+    },
+    "per_corpus": {
+      "FluencyBank": {
+        "n": 11,
+        "spearman": NaN,
+        "pearson": NaN,
+        "ccc": 9.045440956902397e-32,
+        "mae": 0.38311688311688313
+      },
+      "German": {
+        "n": 0,
+        "spearman": NaN,
+        "pearson": NaN,
+        "ccc": NaN,
+        "mae": NaN
+      },
+      "Lu_Mandarin": {
+        "n": 0,
+        "spearman": NaN,
+        "pearson": NaN,
+        "ccc": NaN,
+        "mae": NaN
+      },
+      "Pitt": {
+        "n": 0,
+        "spearman": NaN,
+        "pearson": NaN,
+        "ccc": NaN,
+        "mae": NaN
+      }
+    }
+  },
+  "iid:B1_interp": {
+    "overall": {
+      "n": 11,
+      "spearman": NaN,
+      "pearson": NaN,
+      "ccc": 9.045440956902397e-32,
+      "mae": 0.38311688311688313
+    },
+    "state_vs_trait": {
+      "within_speaker_var_share": 0.0,
+      "mean_within_speaker_rho": NaN,
+      "n_speakers_scored": 0
+    },
+    "known_groups": {
+      "groups": {
+        "AWS": 1.9285714285714286,
+        "Control": 1.9285714285714286,
+        "MCI": 1.9285714285714286,
+        "ProbableAD": 1.9285714285714288
+      },
+      "monotonic_spearman": NaN
+    },
+    "per_language": {
+      "deu": {
+        "n": 0,
+        "spearman": NaN,
+        "pearson": NaN,
+        "ccc": NaN,
+        "mae": NaN
+      },
+      "eng": {
+        "n": 11,
+        "spearman": NaN,
+        "pearson": NaN,
+        "ccc": 9.045440956902397e-32,
+        "mae": 0.38311688311688313
+      },
+      "zho": {
+        "n": 0,
+        "spearman": NaN,
+        "pearson": NaN,
+        "ccc": NaN,
+        "mae": NaN
+      }
+    },
+    "per_population": {
+      "dementia": {
+        "n": 0,
+        "spearman": NaN,
+        "pearson": NaN,
+        "ccc": NaN,
+        "mae": NaN
+      },
+      "fluency": {
+        "n": 11,
+        "spearman": NaN,
+        "pearson": NaN,
+        "ccc": 9.045440956902397e-32,
+        "mae": 0.38311688311688313
+      }
+    },
+    "per_corpus": {
+      "FluencyBank": {
+        "n": 11,
+        "spearman": NaN,
+        "pearson": NaN,
+        "ccc": 9.045440956902397e-32,
+        "mae": 0.38311688311688313
+      },
+      "German": {
+        "n": 0,
+        "spearman": NaN,
+        "pearson": NaN,
+        "ccc": NaN,
+        "mae": NaN
+      },
+      "Lu_Mandarin": {
+        "n": 0,
+        "spearman": NaN,
+        "pearson": NaN,
+        "ccc": NaN,
+        "mae": NaN
+      },
+      "Pitt": {
+        "n": 0,
+        "spearman": NaN,
+        "pearson": NaN,
+        "ccc": NaN,
+        "mae": NaN
+      }
+    }
+  },
+  "iid:B2_interp+lang": {
+    "overall": {
+      "n": 11,
+      "spearman": NaN,
+      "pearson": NaN,
+      "ccc": 9.045440956902397e-32,
+      "mae": 0.38311688311688313
+    },
+    "state_vs_trait": {
+      "within_speaker_var_share": 0.0,
+      "mean_within_speaker_rho": NaN,
+      "n_speakers_scored": 0
+    },
+    "known_groups": {
+      "groups": {
+        "AWS": 1.9285714285714286,
+        "Control": 1.9285714285714286,
+        "MCI": 1.9285714285714286,
+        "ProbableAD": 1.9285714285714288
+      },
+      "monotonic_spearman": NaN
+    },
+    "per_language": {
+      "deu": {
+        "n": 0,
+        "spearman": NaN,
+        "pearson": NaN,
+        "ccc": NaN,
+        "mae": NaN
+      },
+      "eng": {
+        "n": 11,
+        "spearman": NaN,
+        "pearson": NaN,
+        "ccc": 9.045440956902397e-32,
+        "mae": 0.38311688311688313
+      },
+      "zho": {
+        "n": 0,
+        "spearman": NaN,
+        "pearson": NaN,
+        "ccc": NaN,
+        "mae": NaN
+      }
+    },
+    "per_population": {
+      "dementia": {
+        "n": 0,
+        "spearman": NaN,
+        "pearson": NaN,
+        "ccc": NaN,
+        "mae": NaN
+      },
+      "fluency": {
+        "n": 11,
+        "spearman": NaN,
+        "pearson": NaN,
+        "ccc": 9.045440956902397e-32,
+        "mae": 0.38311688311688313
+      }
+    },
+    "per_corpus": {
+      "FluencyBank": {
+        "n": 11,
+        "spearman": NaN,
+        "pearson": NaN,
+        "ccc": 9.045440956902397e-32,
+        "mae": 0.38311688311688313
+      },
+      "German": {
+        "n": 0,
+        "spearman": NaN,
+        "pearson": NaN,
+        "ccc": NaN,
+        "mae": NaN
+      },
+      "Lu_Mandarin": {
+        "n": 0,
+        "spearman": NaN,
+        "pearson": NaN,
+        "ccc": NaN,
+        "mae": NaN
+      },
+      "Pitt": {
+        "n": 0,
+        "spearman": NaN,
+        "pearson": NaN,
+        "ccc": NaN,
+        "mae": NaN
+      }
+    }
+  }
+}

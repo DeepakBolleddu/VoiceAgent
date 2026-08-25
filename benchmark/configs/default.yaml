@@ -1,0 +1,47 @@
+# vabench default config — edit paths for your HPC layout.
+data_root: data                # root containing one directory per corpus
+out_root: artifacts            # index, splits, features, checkpoints, reports
+
+corpora:
+  # name: {path (relative to data_root), population, speaker_regex (optional)}
+  # speaker_regex must expose a named group (?P<sid>...) applied to the file
+  # stem — this is what dedupes longitudinal visits (e.g. Pitt 001-0, 001-1).
+  Pitt:        {path: DementiaBank/English/Pitt,   population: dementia, speaker_regex: '^(?P<sid>\d+)'}
+  Lu_Mandarin: {path: DementiaBank/Mandarin/Lu,    population: dementia}
+  Ivanova:     {path: DementiaBank/Spanish/Ivanova, population: dementia}
+  # ... add remaining DementiaBank language corpora
+  FluencyBank: {path: FluencyBank/Voices-AWS,      population: fluency}
+  # AphasiaBank/TBIBank entries: add on arrival
+  # AphasiaBank: {path: AphasiaBank/English/Protocol, population: aphasia}
+  # TBIBank:     {path: TBIBank/English,             population: tbi}
+
+splits:
+  seed: 13
+  test_frac: 0.2              # speaker-level, stratified by (language, population, group)
+  dev_frac: 0.1
+  min_speakers_zero_shot: 8   # skip LOLO/LOPO folds with fewer held-out speakers
+
+labels:
+  target: silver_pdi          # switch to gold_rating when annotation lands
+  gold_dir: labels            # annotation CSVs (annotation protocol §5)
+
+audio:
+  sample_rate: 16000
+  max_segment_s: 20.0
+
+ssl:
+  model: facebook/wav2vec2-xls-r-300m   # or utter-project/mHuBERT-147
+  layer: 12                   # probing sweep overrides this
+  pool: mean
+  batch_size: 8
+
+train:
+  target: silver_pdi
+  epochs: 20
+  lr: 1.0e-4
+  batch_size: 32
+  # Invariance ablation flags (P2 core). All zero = frozen-probe baseline.
+  adv_language_weight: 0.1
+  adv_population_weight: 0.1
+  adv_speaker_weight: 0.0
+  grl_gamma: 10.0             # GRL lambda schedule sharpness

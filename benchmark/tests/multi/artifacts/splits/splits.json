@@ -1,0 +1,80 @@
+{
+  "iid": {
+    "train": [
+      "Dem_English:eng:Pitt:001",
+      "Dem_English:eng:Pitt:050",
+      "Dem_German:deu:Pitt:001",
+      "Dem_German:deu:Pitt:050",
+      "Dem_Mandarin:zho:Pitt:001",
+      "Dem_Mandarin:zho:Pitt:050",
+      "FluencyBank:eng:interview:24",
+      "FluencyBank:eng:reading:01",
+      "FluencyBank:eng:reading:24"
+    ],
+    "dev": [
+      "FluencyBank:eng:reading:62"
+    ],
+    "test": [
+      "FluencyBank:eng:interview:01",
+      "FluencyBank:eng:interview:62"
+    ]
+  },
+  "lolo": {
+    "eng": {
+      "train": [
+        "Dem_German:deu:Pitt:001",
+        "Dem_German:deu:Pitt:050",
+        "Dem_Mandarin:zho:Pitt:001",
+        "Dem_Mandarin:zho:Pitt:050"
+      ],
+      "test": [
+        "Dem_English:eng:Pitt:001",
+        "Dem_English:eng:Pitt:050",
+        "FluencyBank:eng:interview:01",
+        "FluencyBank:eng:interview:24",
+        "FluencyBank:eng:interview:62",
+        "FluencyBank:eng:reading:01",
+        "FluencyBank:eng:reading:24",
+        "FluencyBank:eng:reading:62"
+      ]
+    }
+  },
+  "lopo": {
+    "dementia": {
+      "train": [
+        "FluencyBank:eng:interview:01",
+        "FluencyBank:eng:interview:24",
+        "FluencyBank:eng:interview:62",
+        "FluencyBank:eng:reading:01",
+        "FluencyBank:eng:reading:24",
+        "FluencyBank:eng:reading:62"
+      ],
+      "test": [
+        "Dem_English:eng:Pitt:001",
+        "Dem_English:eng:Pitt:050",
+        "Dem_German:deu:Pitt:001",
+        "Dem_German:deu:Pitt:050",
+        "Dem_Mandarin:zho:Pitt:001",
+        "Dem_Mandarin:zho:Pitt:050"
+      ]
+    },
+    "fluency": {
+      "train": [
+        "Dem_English:eng:Pitt:001",
+        "Dem_English:eng:Pitt:050",
+        "Dem_German:deu:Pitt:001",
+        "Dem_German:deu:Pitt:050",
+        "Dem_Mandarin:zho:Pitt:001",
+        "Dem_Mandarin:zho:Pitt:050"
+      ],
+      "test": [
+        "FluencyBank:eng:interview:01",
+        "FluencyBank:eng:interview:24",
+        "FluencyBank:eng:interview:62",
+        "FluencyBank:eng:reading:01",
+        "FluencyBank:eng:reading:24",
+        "FluencyBank:eng:reading:62"
+      ]
+    }
+  }
+}

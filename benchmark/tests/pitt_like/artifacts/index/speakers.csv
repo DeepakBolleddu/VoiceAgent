@@ -1,0 +1,13 @@
+speaker,corpus,language,population,group,age,sex,n_sessions,n_utts
+Pitt:eng:001,Pitt,eng,dementia,Control,70,female,2,2
+Pitt:eng:002,Pitt,eng,dementia,Control,70,female,2,2
+Pitt:eng:003,Pitt,eng,dementia,Control,70,female,2,2
+Pitt:eng:004,Pitt,eng,dementia,Control,70,female,2,2
+Pitt:eng:005,Pitt,eng,dementia,Control,70,female,2,2
+Pitt:eng:006,Pitt,eng,dementia,Control,70,female,2,2
+Pitt:eng:101,Pitt,eng,dementia,ProbableAD,70,female,2,2
+Pitt:eng:102,Pitt,eng,dementia,ProbableAD,70,female,2,2
+Pitt:eng:103,Pitt,eng,dementia,ProbableAD,70,female,2,2
+Pitt:eng:104,Pitt,eng,dementia,ProbableAD,70,female,2,2
+Pitt:eng:105,Pitt,eng,dementia,ProbableAD,70,female,2,2
+Pitt:eng:106,Pitt,eng,dementia,ProbableAD,70,female,2,2

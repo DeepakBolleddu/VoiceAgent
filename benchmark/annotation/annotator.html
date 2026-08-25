@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>VABench Difficulty Annotator</title>
+<style>
+  :root{--bg:#0f1216;--panel:#1a1f27;--fg:#e6e9ef;--mut:#9aa4b2;--acc:#5b9dff;--ok:#3fb950;--warn:#e3b341;}
+  *{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 system-ui,sans-serif}
+  header{padding:12px 18px;background:var(--panel);display:flex;gap:14px;align-items:center;flex-wrap:wrap;position:sticky;top:0;border-bottom:1px solid #2a3140}
+  header input,header select,button{background:#0d1117;color:var(--fg);border:1px solid #2a3140;border-radius:6px;padding:6px 10px}
+  button{cursor:pointer} button.primary{background:var(--acc);border-color:var(--acc);color:#04121f;font-weight:600}
+  button:disabled{opacity:.4;cursor:not-allowed}
+  main{max-width:900px;margin:20px auto;padding:0 18px}
+  .card{background:var(--panel);border:1px solid #2a3140;border-radius:10px;padding:18px;margin-bottom:16px}
+  .ctx{margin:2px 0;padding:6px 10px;border-radius:6px;color:var(--mut)}
+  .ctx .who{display:inline-block;min-width:46px;color:#6f7b8c;font-weight:600}
+  .ctx.par{color:#cdd6e0}.ctx.target{background:#12263f;color:#fff;border-left:3px solid var(--acc)}
+  .ctx.inv .who{color:var(--warn)}
+  h3{margin:.2em 0 .4em;font-size:.85rem;letter-spacing:.06em;text-transform:uppercase;color:var(--mut)}
+  .scale{display:flex;gap:8px;flex-wrap:wrap}
+  .scale label{flex:1;min-width:120px;border:1px solid #2a3140;border-radius:8px;padding:8px;cursor:pointer;transition:.1s}
+  .scale label:hover{border-color:var(--acc)} .scale input{margin-right:6px}
+  .scale label.sel{background:#12263f;border-color:var(--acc)}
+  .tags{display:flex;gap:8px;flex-wrap:wrap}
+  .tags label{border:1px solid #2a3140;border-radius:20px;padding:5px 12px;cursor:pointer}
+  .tags label.sel{background:#182a1a;border-color:var(--ok)}
+  .row{display:flex;gap:18px;align-items:center;flex-wrap:wrap;margin-top:8px}
+  .prog{color:var(--mut)} .prog b{color:var(--fg)}
+  audio{width:100%;margin-top:10px} kbd{background:#0d1117;border:1px solid #2a3140;border-radius:4px;padding:1px 6px}
+  .hint{color:var(--mut);font-size:.82rem;margin-top:6px}
+  #cond{font-weight:600;color:var(--acc)}
+</style>
+</head>
+<body>
+<header>
+  <strong>VABench Annotator</strong>
+  <label>Rater ID <input id="rater" placeholder="e.g. deu_r1" size="10"/></label>
+  <label>Condition
+    <select id="condition">
+      <option value="audio+transcript">audio+transcript</option>
+      <option value="transcript-only">transcript-only</option>
+    </select>
+  </label>
+  <label>Manifest <input type="file" id="manifest" accept=".json"/></label>
+  <label title="Optional: folder of 16k wav files (task-named subfolders)">Audio <input type="file" id="audiodir" webkitdirectory directory multiple/></label>
+  <span class="prog" id="prog"></span>
+  <button id="exportBtn" class="primary" disabled>Export CSVs</button>
+</header>
+<main>
+  <div class="card" id="cardCtx">
+    <h3>Conversation context — <span id="cond">audio+transcript</span></h3>
+    <div id="ctx"></div>
+    <audio id="player" controls hidden></audio>
+    <div class="hint" id="audiohint"></div>
+  </div>
+
+  <div class="card">
+    <h3>Tier 2 — difficulty of the highlighted participant turn (0–4)</h3>
+    <div class="scale" id="scale"></div>
+    <div class="hint">0 effortless · 1 mild · 2 moderate word-search/slowing · 3 severe, message delayed/partly lost · 4 breakdown (not communicated without repair). Keys <kbd>0</kbd>–<kbd>4</kbd>.</div>
+  </div>
+
+  <div class="card">
+    <h3>Tier 1 — repair events in/around this turn (tick all that apply)</h3>
+    <div class="tags" id="tags"></div>
+    <div class="row">
+      <span>Resolution:</span>
+      <div class="tags" id="reso"></div>
+    </div>
+    <div class="hint">Leave all unticked if there is no repair. Tags disabled in transcript-only? No — repair is transcript-visible, so annotate in both conditions.</div>
+  </div>
+
+  <div class="row">
+    <button id="prev">◀ Prev (k)</button>
+    <button id="next" class="primary">Next (j / space)</button>
+    <span class="prog">Autosaves in-memory; export when done. <b id="doneCount">0</b> rated.</span>
+  </div>
+</main>
+<script>
+const SCALE=[0,1,2,3,4];
+const EVENTS=["OI-open","OI-specific","OI-cand","RE-ASK","NON-UP","SISR"];
+const RESO=["RES+","RES-"];
+let M=null, items=[], i=0, ann={}, audioMap={};
+
+const $=id=>document.getElementById(id);
+function buildStatic(){
+  $("scale").innerHTML=SCALE.map(s=>`<label data-s="${s}"><input type="radio" name="score" value="${s}">${s}</label>`).join("");
+  $("tags").innerHTML=EVENTS.map(e=>`<label data-e="${e}">${e}</label>`).join("");
+  $("reso").innerHTML=RESO.map(r=>`<label data-r="${r}">${r}</label>`).join("");
+  $("scale").onclick=e=>{const l=e.target.closest("label");if(!l)return;setScore(+l.dataset.s);};
+  $("tags").onclick=e=>{const l=e.target.closest("label");if(!l)return;toggle("events",l.dataset.e,l);};
+  $("reso").onclick=e=>{const l=e.target.closest("label");if(!l)return;setReso(l.dataset.r,l);};
+}
+function cur(){return items[i];}
+function rec(){const it=cur();return ann[it.item_id]||(ann[it.item_id]={score:null,events:[],reso:null});}
+function setScore(s){rec().score=s;render();updateDone();}
+function toggle(field,val,el){const r=rec();const a=r[field];const k=a.indexOf(val);k<0?a.push(val):a.splice(k,1);el.classList.toggle("sel");}
+function setReso(v,el){const r=rec();r.reso=(r.reso===v?null:v);document.querySelectorAll("#reso label").forEach(x=>x.classList.toggle("sel",x.dataset.r===r.reso));}
+function updateDone(){$("doneCount").textContent=Object.values(ann).filter(a=>a.score!==null).length;}
+
+function render(){
+  const it=cur(), cond=$("condition").value; $("cond").textContent=cond;
+  $("prog").innerHTML=`Item <b>${i+1}</b>/${items.length} · ${it.language} · ${it.group||"?"}`;
+  $("ctx").innerHTML=it.context.map(c=>{
+    const isInv=/^I|EX|CLN|INT/.test(c.tier);
+    return `<div class="ctx ${c.target?'target':(isInv?'inv':'par')}"><span class="who">${c.tier}</span>${c.text||"<i>(silence)</i>"}</div>`;
+  }).join("");
+  // audio
+  const p=$("player");
+  if(cond==="audio+transcript" && it.start_ms!=null){
+    const f=audioMap[(it.audio_task||"").toLowerCase()+"/"+it.audio_stem]||audioMap[it.audio_stem];
+    if(f){p.hidden=false;p.src=URL.createObjectURL(f);p.dataset.s=it.start_ms;p.dataset.e=it.end_ms;
+      $("audiohint").textContent="Press play; clip auto-stops at turn end.";}
+    else{p.hidden=true;$("audiohint").textContent="No matching audio file loaded for "+it.audio_stem;}
+  } else {p.hidden=true;$("audiohint").textContent = cond==="transcript-only"?"Transcript-only condition (audio hidden by design).":"No timestamp for this item.";}
+  const r=rec();
+  document.querySelectorAll("#scale label").forEach(l=>l.classList.toggle("sel",+l.dataset.s===r.score));
+  document.querySelectorAll('input[name=score]').forEach(x=>x.checked=(+x.value===r.score));
+  document.querySelectorAll("#tags label").forEach(l=>l.classList.toggle("sel",r.events.includes(l.dataset.e)));
+  document.querySelectorAll("#reso label").forEach(l=>l.classList.toggle("sel",l.dataset.r===r.reso));
+}
+$("player").addEventListener("timeupdate",function(){
+  const s=+this.dataset.s/1000,e=+this.dataset.e/1000;
+  if(this.currentTime<s-0.05)this.currentTime=s;
+  if(this.currentTime>=e)this.pause();
+});
+$("player").addEventListener("play",function(){this.currentTime=+this.dataset.s/1000;});
+
+function go(d){i=Math.max(0,Math.min(items.length-1,i+d));render();}
+$("next").onclick=()=>go(1); $("prev").onclick=()=>go(-1);
+$("condition").onchange=render;
+document.onkeydown=e=>{
+  if(e.target.tagName==="INPUT"&&e.target.type!=="radio")return;
+  if(e.key>="0"&&e.key<="4"){setScore(+e.key);}
+  else if(e.key==="j"||e.key===" "){go(1);e.preventDefault();}
+  else if(e.key==="k"){go(-1);}
+};
+$("manifest").onchange=async e=>{
+  M=JSON.parse(await e.target.files[0].text()); items=M.items||M; i=0; ann={};
+  $("exportBtn").disabled=false; render(); updateDone();
+};
+$("audiodir").onchange=e=>{
+  audioMap={};
+  for(const f of e.target.files){
+    const parts=f.webkitRelativePath.split("/"); const stem=f.name.replace(/\.[^.]+$/,"");
+    const task=parts.length>=2?parts[parts.length-2].toLowerCase():"";
+    audioMap[task+"/"+stem]=f; audioMap[stem]=f;
+  }
+  $("audiohint").textContent=`Loaded ${e.target.files.length} audio files.`; render();
+};
+$("exportBtn").onclick=()=>{
+  const rater=$("rater").value||"rater"; const cond=$("condition").value;
+  const rrows=[["corpus","session","utt_index","rater","condition","score"]];
+  const erows=[["corpus","session","start_utt","end_utt","category","resolution"]];
+  for(const it of items){
+    const a=ann[it.item_id]; if(!a||a.score===null)continue;
+    rrows.push([it.corpus,it.session,it.utt_index,rater,cond,a.score]);
+    for(const ev of a.events)
+      erows.push([it.corpus,it.session,it.utt_index,it.utt_index,ev,a.reso||""]);
+  }
+  dl(`ratings_${rater}_${cond}.csv`,rrows); dl(`events_${rater}_${cond}.csv`,erows);
+};
+function dl(name,rows){
+  const csv=rows.map(r=>r.map(x=>`"${String(x).replace(/"/g,'""')}"`).join(",")).join("\n");
+  const a=document.createElement("a");a.href=URL.createObjectURL(new Blob([csv],{type:"text/csv"}));
+  a.download=name;a.click();
+}
+buildStatic();
+</script>
+</body>
+</html>

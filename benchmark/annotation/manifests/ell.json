@@ -1,0 +1,5844 @@
+{
+ "language": "ell",
+ "context_k": 2,
+ "items": [
+  {
+   "item_id": "Dem_Greek|43|151",
+   "corpus": "Dem_Greek",
+   "session": "43",
+   "utt_index": 151,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "43",
+   "audio_task": "",
+   "start_ms": 619840,
+   "end_ms": 631540,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 149,
+     "text": "\u039a\u03ce\u03c3\u03c4\u03b1\u03c2 \u03b1\u03b3\u03cc\u03c1\u03b1\u03c3\u03b5 \u03b3\u03ac\u03bb\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03c5\u03c1\u03af",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 150,
+     "text": "\u03a9\u03c1\u03b1\u03af\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 151,
+     "text": "\u039b\u03bf\u03b9\u03c0\u03cc\u03bd \u03b8\u03b1 \u03c3\u03b1\u03c2 \u03b4\u03ce\u03c3\u03c9 \u03c4\u03ce\u03c1\u03b1 \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf \u03c7\u03b1\u03c1\u03c4\u03af \u03ba\u03b1\u03b9 \u03b8\u03ad\u03bb\u03c9 \u03bd\u03b1 \u03bc\u03bf\u03c5 \u03c0\u03b5\u03af\u03c4\u03b5 \u03c0\u03bf\u03b9\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03b1 \u03bf\u03bd\u03cc\u03bc\u03b1\u03c4\u03b1 \u03c4\u03c9\u03bd \u03b6\u03ce\u03c9\u03bd \u03c3\u03c4\u03b9\u03c2 \u03b5\u03b9\u03ba\u03cc\u03bd\u03b5\u03c2",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 152,
+     "text": "\u0391\u03c5\u03c4\u03ac \u03b5\u03b4\u03ce \u03c0\u03bf\u03b9\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|62|7",
+   "corpus": "Dem_Greek",
+   "session": "62",
+   "utt_index": 7,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "62",
+   "audio_task": "",
+   "start_ms": 58980,
+   "end_ms": 61560,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 5,
+     "text": "\u039d\u03b1\u03b9 \u03b1\u03ba\u03c1\u03b9\u03b2\u03ce\u03c2 \u03b3\u03b9 \u03b1\u03c5\u03c4\u03cc \u03ba\u03b9\u03cc\u03bb\u03b1\u03c2 \u03b1\u03bb\u03bb\u03ac \u03c4\u03b7\u03bd \u03ac\u03c1\u03b5\u03c3\u03b5 \u03c0\u03b9\u03bf \u03c0\u03bf\u03bb\u03cd \u03b7 \u03b7\u03bb\u03b5\u03ba\u03c4\u03c1\u03bf\u03bd\u03b9\u03ba\u03ae",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 6,
+     "text": "\u039b\u03bf\u03b9\u03c0\u03cc\u03bd \u03b1\u03c5\u03c4\u03cc \u03c4\u03b9 \u03c1\u03cc\u03bb\u03bf \u03c0\u03b1\u03af\u03b6\u03b5\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 7,
+     "text": "\u0391\u03c5\u03c4\u03cc \u03c3\u03b1\u03c2 \u03bc\u03b5\u03c4\u03c1\u03ac\u03b5\u03b9 \u03b1\u03c0\u03bb\u03ac \u03c4\u03b7\u03bd \u03ba\u03af\u03bd\u03b7\u03c3\u03b7",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 8,
+     "text": "\u0394\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03af\u03c0\u03bf\u03c4\u03b1 \u03ac\u03bb\u03bb\u03bf",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|35|194",
+   "corpus": "Dem_Greek",
+   "session": "35",
+   "utt_index": 194,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "35",
+   "audio_task": "",
+   "start_ms": 596950,
+   "end_ms": 597670,
+   "context": [
+    {
+     "tier": "PAR3",
+     "utt_index": 192,
+     "text": "\u039f\u03b9 \u03b5\u03b9\u03ba\u03cc\u03bd\u03b5\u03c2",
+     "target": false
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 193,
+     "text": "\u03c4\u03b9\u03c2 \u03ad\u03c7\u03bf\u03c5\u03bc\u03b5 \u03c7\u03c4\u03c5\u03c0\u03c9\u03bc\u03ad\u03bd\u03b5\u03c2",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 194,
+     "text": "\u0394\u03b5\u03bd",
+     "target": true
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 195,
+     "text": "\u03a4\u03b9\u03c2 \u03ad\u03c7\u03bf\u03c5\u03bc\u03b5 \u03ba\u03ac\u03bd\u03b5\u03b9",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|40|152",
+   "corpus": "Dem_Greek",
+   "session": "40",
+   "utt_index": 152,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "40",
+   "audio_task": "",
+   "start_ms": 546650,
+   "end_ms": 561600,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 150,
+     "text": "\u039a\u03b1\u03b9 \u03c4\u03ce\u03c1\u03b1 \u03b8\u03ad\u03bb\u03c9 \u03bd\u03b1 \u03bc\u03bf\u03c5 \u03bc\u03b5\u03c4\u03c1\u03ae\u03c3\u03b5\u03c4\u03b5 \u03b1\u03bd\u03c4\u03af\u03c3\u03c4\u03c1\u03bf\u03c6\u03b1 \u03b1\u03c0\u03cc \u03c4\u03bf \u03c0\u03ac\u03bb\u03b9 \u03ad\u03c4\u03c3\u03b9 \u03cc\u03c0\u03c9\u03c2 \u03ba\u03ac\u03bd\u03b1\u03bc\u03b5 \u03c0\u03c1\u03b9\u03bd \u03b1\u03c0\u03cc \u03c4\u03bf \u03b5\u03af\u03ba\u03bf\u03c3\u03b9 \u03bc\u03ad\u03c7\u03c1\u03b9 \u03c4\u03bf \u03b1\u03bb\u03bb\u03ac \u03b1\u03bd\u03ac \u03ad\u03bd\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c6\u03bf\u03c1\u03ac \u03cc\u03c7\u03b9 \u03b1\u03bd\u03ac \u03b4\u03ad\u03ba\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 151,
+     "text": "\u0395\u03bd\u03c4\u03ac\u03be\u03b5\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR4",
+     "utt_index": 152,
+     "text": "\u03b5\u03af\u03ba\u03bf\u03c3\u03b9 \u03b4\u03b5\u03ba\u03b1\u03b5\u03bd\u03bd\u03ad\u03b1 \u03b4\u03b5\u03ba\u03b1\u03ad\u03be\u03b9 \u03b4\u03b5\u03ba\u03b1\u03c0\u03ad\u03bd\u03c4\u03b5 \u03b4\u03b5\u03ba\u03b1\u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1 \u03b4\u03b5\u03ba\u03b1\u03c4\u03c1\u03af\u03b1 \u03b4\u03ce\u03b4\u03b5\u03ba\u03b1 \u03ad\u03bd\u03c4\u03b5\u03ba\u03b1 \u03b4\u03ad\u03ba\u03b1",
+     "target": true
+    },
+    {
+     "tier": "PAR4",
+     "utt_index": 153,
+     "text": "\u03c0\u03ad\u03bd\u03c4\u03b5",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|674|181",
+   "corpus": "Dem_Greek",
+   "session": "674",
+   "utt_index": 181,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "674",
+   "audio_task": "",
+   "start_ms": 606980,
+   "end_ms": 608280,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 179,
+     "text": "\u0398\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 180,
+     "text": "\u0391\u03c6\u03b1\u03b9\u03c1\u03ce",
+     "target": false
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 181,
+     "text": "\u039d\u03b1 \u03b1\u03c6\u03b1\u03b9\u03c1\u03b5\u03af\u03c4\u03b5",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 182,
+     "text": "\u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1 \u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03c4\u03c1\u03af\u03b1 \u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03b4\u03cd\u03bf \u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03ad\u03bd\u03b1 \u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03b5\u03af\u03ba\u03bf\u03c3\u03b9 \u03b5\u03bd\u03bd\u03ad\u03b1 \u03b5\u03af\u03ba\u03bf\u03c3\u03b9 \u03bf\u03ba\u03c4\u03ce \u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03b5\u03bd\u03b5\u03bd\u03ae\u03bd\u03c4\u03b1 \u03b5\u03c0\u03c4\u03ac \u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03b5\u03bd\u03b5\u03bd\u03ae\u03bd\u03c4\u03b1 \u03ad\u03be\u03b9 \u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03b5\u03bd\u03b5\u03bd\u03ae\u03bd\u03c4\u03b1 \u03c0\u03ad\u03bd\u03c4\u03b5 \u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03b5\u03bd\u03b5\u03bd\u03ae\u03bd\u03c4\u03b1 \u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1 \u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03b5\u03bd\u03b5\u03bd\u03ae\u03bd\u03c4\u03b1 \u03c4\u03c1\u03af\u03b1 \u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03b5\u03bd\u03b5\u03bd\u03ae\u03bd\u03c4\u03b1 \u03b4\u03cd\u03bf \u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03b5\u03bd\u03b5\u03bd\u03ae\u03bd\u03c4\u03b1 \u03ad\u03bd\u03b1 \u03bc\u03ad\u03c7\u03c1\u03b9 \u03c0\u03cc\u03c3\u03bf",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|716|217",
+   "corpus": "Dem_Greek",
+   "session": "716",
+   "utt_index": 217,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "716",
+   "audio_task": "",
+   "start_ms": 852920,
+   "end_ms": 854560,
+   "context": [
+    {
+     "tier": "PAR3",
+     "utt_index": 215,
+     "text": "\u039a\u03b1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 216,
+     "text": "\u03a3\u03c4\u03b5\u03c7\u03ce\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae \u03c3\u03c4\u03b7\u03bd \u03bf\u03b9\u03ba\u03bf\u03b3\u03ad\u03bd\u03b5\u03b9\u03b1 \u03ad\u03c7\u03bf\u03c5\u03bd \u03c0\u03bf\u03bb\u03bb\u03ac \u03b4\u03c5\u03c3\u03ac\u03c1\u03b5\u03c3\u03c4\u03b1 \u03b1\u03bb\u03bb\u03ac",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 217,
+     "text": "\u03b5\u03c5\u03b5\u03bb\u03c0\u03b9\u03c3\u03c4\u03ce \u03b4\u03b7\u03bb\u03b1\u03b4\u03ae \u03cc\u03c4\u03b9 \u03b8\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9",
+     "target": true
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 218,
+     "text": "\u03b8\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03c5\u03c7\u03ac\u03c1\u03b9\u03c3\u03c4\u03bf",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|673|443",
+   "corpus": "Dem_Greek",
+   "session": "673",
+   "utt_index": 443,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "673",
+   "audio_task": "",
+   "start_ms": 1328250,
+   "end_ms": 1333190,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 441,
+     "text": "\u03a9\u03c1\u03b1\u03af\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 442,
+     "text": "\u039d\u03b1\u03b9 \u03c0\u03bf\u03c5 \u03ba\u03ac\u03bd\u03b5\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 443,
+     "text": "\u039c\u03ac\u03bb\u03bb\u03bf\u03bd \u03b7 \u03c0\u03bf\u03bd\u03b7\u03c1\u03ae \u0391\u03bb\u03b5\u03c0\u03bf\u03cd \u03bc\u03b5 \u03c4\u03bf",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 444,
+     "text": "\u038c\u03c7\u03b9 \u03c4\u03bf \u03b3\u03bf\u03c5\u03c1\u03bf\u03c5\u03bd\u03ac\u03ba\u03b9",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|700|6",
+   "corpus": "Dem_Greek",
+   "session": "700",
+   "utt_index": 6,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "700",
+   "audio_task": "",
+   "start_ms": 12180,
+   "end_ms": 14560,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 4,
+     "text": "\u03a3\u03b5 \u03c0\u03bf\u03b9\u03bf\u03bd \u03ac\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf \u03b5\u03af\u03bc\u03b1\u03c3\u03c4\u03b5 \u03c4\u03ce\u03c1\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 5,
+     "text": "\u0391\u03c0\u03cc \u03b5\u03af\u03c3\u03b1\u03b9 \u03b5\u03c3\u03cd",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 6,
+     "text": "\u0395\u03b3\u03ce \u03b5\u03af\u03bc\u03b1\u03b9 \u03bc\u03b9\u03c3\u03ae \u0392\u03b5\u03c1\u03b9\u03ce\u03c4\u03c3\u03b1 \u03ba\u03b1\u03b9 \u03bc\u03b9\u03c3\u03ae",
+     "target": true
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 7,
+     "text": "\u0386\u03bd\u03c4\u03b5",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|74|85",
+   "corpus": "Dem_Greek",
+   "session": "74",
+   "utt_index": 85,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "74",
+   "audio_task": "",
+   "start_ms": 369510,
+   "end_ms": 370630,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 83,
+     "text": "\u03bc\u03b1\u03c3\u03c4 \u03a9\u03c1\u03b1\u03af\u03b1 \u03c9\u03c1\u03b1\u03af\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 84,
+     "text": "\u039c\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03bc\u03bf\u03c5 \u03c0\u03b5\u03af\u03c4\u03b5 \u03c4\u03ce\u03c1\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 85,
+     "text": "\u03bc\u03ad\u03c3\u03b1 \u03c3\u03b5 \u03ad\u03bd\u03b1 \u03bb\u03b5\u03c0\u03c4\u03cc",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 86,
+     "text": "\u03cc\u03c3\u03bf \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b5\u03c2 \u03bb\u03ad\u03be\u03b5\u03b9\u03c2 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|711|135",
+   "corpus": "Dem_Greek",
+   "session": "711",
+   "utt_index": 135,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "711",
+   "audio_task": "",
+   "start_ms": 405670,
+   "end_ms": 406270,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 133,
+     "text": "\u039d\u03b1 \u03c3\u03ba\u03b5\u03c6\u03c4\u03ae\u03c3\u03c9 \u03cc\u03c4\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 134,
+     "text": "\u0386\u03c1\u03b1 \u03b4\u03b5\u03bd \u03b8\u03ad\u03bb\u03b5\u03c4\u03b5 \u03ac\u03c1\u03b1 \u03bd\u03b1 \u03c3\u03c5\u03bc\u03bc\u03b5\u03c4\u03ad\u03c7\u03b5\u03c4\u03b5 \u03c3\u03b5 \u03b1\u03c5\u03c4\u03cc",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 135,
+     "text": "\u03a4\u03bf",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 136,
+     "text": "\u0398\u03b1 \u03ae\u03b8\u03b5\u03bb\u03b1 \u03c0\u03ac\u03c1\u03b1 \u03c0\u03bf\u03bb\u03cd \u03bd\u03b1 \u03b5\u03c1\u03c7\u03cc\u03c3\u03bf\u03c5\u03bd",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|67|51",
+   "corpus": "Dem_Greek",
+   "session": "67",
+   "utt_index": 51,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "67",
+   "audio_task": "",
+   "start_ms": 219510,
+   "end_ms": 222110,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 49,
+     "text": "\u0395\u03bd\u03c4\u03ac\u03be\u03b5\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 50,
+     "text": "\u039b\u03bf\u03b9\u03c0\u03cc\u03bd",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 51,
+     "text": "\u03a4\u03ce\u03c1\u03b1 \u03b8\u03b1 \u03ae\u03b8\u03b5\u03bb\u03b1 \u03bd\u03b1 \u03c4\u03b1 \u03c3\u03c5\u03bd\u03b4\u03c5\u03ac\u03c3\u03bf\u03c5\u03bc\u03b5 \u03b1\u03c5\u03c4\u03ac \u03b4\u03cd\u03bf",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 52,
+     "text": "\u039c\u03b9\u03c3\u03cc \u03bb\u03b5\u03c0\u03c4\u03cc \u03bc\u03b9\u03c3\u03cc \u03bb\u03b5\u03c0\u03c4\u03cc \u03bd\u03b1 \u03c3\u03b1\u03c2 \u03c0\u03c9",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|67|38",
+   "corpus": "Dem_Greek",
+   "session": "67",
+   "utt_index": 38,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "67",
+   "audio_task": "",
+   "start_ms": 199130,
+   "end_ms": 200430,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 36,
+     "text": "\u03a9\u03c2 \u03c4\u03bf \u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03bf\u03ba\u03c4\u03ce \u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1 \u03ba\u03b1\u03c4\u03b5\u03b2\u03b1\u03af\u03bd\u03bf\u03bd\u03c4\u03b1\u03c2 \u03b4\u03ad\u03ba\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 37,
+     "text": "\u03a4\u03bf",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 38,
+     "text": "\u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03bf\u03ba\u03c4\u03ce \u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 39,
+     "text": "\u039c\u03ad\u03c7\u03c1\u03b9 \u03bd\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bc\u03b5 \u03c4\u03bf \u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03bf\u03ba\u03c4\u03ce \u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|700|30",
+   "corpus": "Dem_Greek",
+   "session": "700",
+   "utt_index": 30,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "700",
+   "audio_task": "",
+   "start_ms": 61940,
+   "end_ms": 62420,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 28,
+     "text": "\u038c\u03c0\u03c9\u03c2 \u03c0\u03b5\u03b9\u03c1\u03ac\u03b6\u03b5\u03b9 \u03ad\u03c7\u03b5\u03b9 \u03c3\u03c7\u03ad\u03c3\u03b7 \u03b1\u03bd \u03b2\u03ac\u03bb\u03c9 \u03c4\u03bf \u03ba\u03cc\u03bb\u03bb\u03bf \u03ba\u03b1\u03b9 \u03c0\u03ac\u03bd\u03c9 \u03ae \u03ad\u03c4\u03c3\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 29,
+     "text": "\u038c\u03c7\u03b9 \u03cc\u03c7\u03b9 \u03bc\u03b7\u03bd \u03b1\u03b3\u03c7\u03ce\u03bd\u03b5\u03c3\u03c4\u03b5 \u0391\u03c5\u03c4\u03cc \u03c4\u03af\u03c0\u03bf\u03c4\u03b1 \u03b4\u03bf\u03bd\u03ae\u03b8\u03b7\u03ba\u03b5 \u03c4\u03ce\u03c1\u03b1 \u03cc\u03c4\u03b9 \u03ac\u03bd\u03bf\u03b9\u03be\u03b5",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 30,
+     "text": "\u0394\u03b5\u03bd",
+     "target": true
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 31,
+     "text": "\u03a4\u03b9 \u03b8\u03b1 \u03ba\u03ac\u03bd\u03bf\u03c5\u03bc\u03b5 \u03ba\u03c5\u03c1\u03af\u03b1 \u03a7\u03c1\u03c5\u03c3\u03bf\u03cd\u03bb\u03b1 \u03c0\u03c1\u03ce\u03c4\u03b1",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|74|72",
+   "corpus": "Dem_Greek",
+   "session": "74",
+   "utt_index": 72,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "74",
+   "audio_task": "",
+   "start_ms": 331930,
+   "end_ms": 334870,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 70,
+     "text": "\u039a\u03ac\u03c0\u03bf\u03c5 \u03c3\u03c4\u03b7\u03bd \u03b1\u03ba\u03c1\u03bf\u03b8\u03b1\u03bb\u03b1\u03c3\u03c3\u03b9\u03ac \u03bd\u03bf\u03bc\u03af\u03b6\u03c9",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 71,
+     "text": "\u039a\u03b1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 72,
+     "text": "\u0388\u03c7\u03b5\u03b9 \u03ad\u03bd\u03b1 \u03bb\u03b9\u03bf\u03bd\u03c4\u03ac\u03c1\u03b9",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 73,
+     "text": "\u03c4\u03bf \u03ba\u03b5\u03c6\u03ac\u03bb\u03b9 \u03c4\u03bf\u03c5 \u03b2\u03b1\u03c3\u03b9\u03ba\u03ac \u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|74|59",
+   "corpus": "Dem_Greek",
+   "session": "74",
+   "utt_index": 59,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "74",
+   "audio_task": "",
+   "start_ms": 295370,
+   "end_ms": 296650,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 57,
+     "text": "\u03b5\u03b4\u03ce \u03c0\u03bf\u03b9\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03b1 \u03bf\u03bd\u03cc\u03bc\u03b1\u03c4\u03b1 \u03c4\u03c9\u03bd \u03b6\u03ce\u03c9\u03bd \u03c3\u03c4\u03b9\u03c2 \u03b5\u03b9\u03ba\u03cc\u03bd\u03b5\u03c2",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 58,
+     "text": "\u0395\u03af\u03bd\u03b1\u03b9 \u03b7 \u039a\u03b1\u03bc\u03ae\u03c1\u03b9\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 59,
+     "text": "\u03bf \u03a3\u03ba\u03cd\u03c1\u03bf\u03c2",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 60,
+     "text": "\u03ba\u03b1\u03b9 \u03b1\u03c5\u03c4\u03cc \u03b5\u03af\u03bd\u03b1\u03b9",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|61|145",
+   "corpus": "Dem_Greek",
+   "session": "61",
+   "utt_index": 145,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "61",
+   "audio_task": "",
+   "start_ms": 773180,
+   "end_ms": 773700,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 143,
+     "text": "\u03a3\u03c9\u03c3\u03c4\u03ac",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 144,
+     "text": "\u039d\u03b1\u03b9 \u03b2\u03ad\u03b2\u03b1\u03b9\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 145,
+     "text": "\u0391\u03c5\u03c4\u03cc",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 146,
+     "text": "\u039d\u03b1 \u03bc\u03bf\u03c5 \u03c0\u03b5\u03c1\u03b9\u03b2\u03b9\u03ac\u03c8\u03b5\u03c4\u03b5",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|674|209",
+   "corpus": "Dem_Greek",
+   "session": "674",
+   "utt_index": 209,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "674",
+   "audio_task": "",
+   "start_ms": 730380,
+   "end_ms": 736120,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 207,
+     "text": "\u0394\u03b7\u03bb\u03b1\u03b4\u03ae \u03b7 \u03b3\u03b9\u03b1\u03b3\u03b9\u03ac \u03bc\u03bf\u03c5 \u03c3\u03c4\u03b7\u03bd \u03ce\u03c1\u03b1 \u03ae\u03c4\u03b1\u03bd \u03c4\u03bf \u03ad\u03c4\u03c3\u03b9 \u03b4\u03cd\u03c3\u03ba\u03bf\u03bb\u03b1 \u03bd\u03b1 \u03c4\u03bf \u03c0\u03bf\u03cd\u03bc\u03b5",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 208,
+     "text": "\u0391\u03c0\u03bb\u03ac \u03bc\u03c0\u03bf\u03c1\u03ce \u03bd\u03b1 \u03c4\u03bf \u03b8\u03c5\u03bc\u03ac\u03bc\u03b1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 209,
+     "text": "\u03a9\u03c1\u03b1\u03af\u03b1 \u03c0\u03b1\u03c4\u03ad\u03c1\u03b1\u03c2 \u03bc\u03bf\u03c5 \u03c3\u03c4\u03bf \u03c4\u03c1\u03af\u03c4\u03bf \u03bd\u03b5\u03ba\u03c1\u03bf\u03c4\u03b1\u03c6\u03b5\u03af\u03bf \u03c4\u03bf\u03bd \u03c0\u03ae\u03c1\u03b5 \u03c3\u03c4\u03b7\u03bd",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 210,
+     "text": "\u03c0\u03bf\u03cd \u03c3\u03c4\u03bf \u03b4\u03b9\u03ac\u03bb\u03bf\u03b3\u03bf \u03b5\u03af\u03bd\u03b1\u03b9",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|674|48",
+   "corpus": "Dem_Greek",
+   "session": "674",
+   "utt_index": 48,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "674",
+   "audio_task": "",
+   "start_ms": 111210,
+   "end_ms": 111610,
+   "context": [
+    {
+     "tier": "PAR3",
+     "utt_index": 46,
+     "text": "\u039b\u03bf\u03b9\u03c0\u03cc\u03bd \u03c0\u03ac\u03c4\u03b5 \u03b5\u03ba\u03b5\u03af \u03c0\u03bf\u03c5 \u03ad\u03c7\u03b5\u03b9 \u03ba\u03ac\u03c4\u03b9 \u03b3\u03c1\u03b1\u03bc\u03bc\u03ad\u03c2 \u03c3\u03c4\u03bf \u03c0\u03ac\u03c4\u03c9\u03bc\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 47,
+     "text": "\u0395\u03bb\u03ac\u03c4\u03b5 \u03bd\u03b1 \u03c0\u03ac\u03bc\u03b5 \u03bc\u03b1\u03b6\u03af",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 48,
+     "text": "\u0391",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 49,
+     "text": "\u039b\u03af\u03b3\u03bf \u03c0\u03b9\u03bf",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|89|86",
+   "corpus": "Dem_Greek",
+   "session": "89",
+   "utt_index": 86,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "89",
+   "audio_task": "",
+   "start_ms": 334320,
+   "end_ms": 336140,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 84,
+     "text": "\u03b4\u03b5\u03ba\u03b1\u03b5\u03bd\u03bd\u03ad\u03b1 \u03b4\u03b5\u03ba\u03b1\u03bf\u03ba\u03c4\u03ce \u03b4\u03b5\u03ba\u03b1\u03b5\u03c0\u03c4\u03ac \u03b4\u03b5\u03ba\u03b1\u03ad\u03be\u03b9 \u03b4\u03b5\u03ba\u03b1\u03c0\u03ad\u03bd\u03c4\u03b5 \u03b4\u03b5\u03ba\u03b1\u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1 \u03b4\u03b5\u03ba\u03b1\u03c4\u03c1\u03af\u03b1 \u03b4\u03ce\u03b4\u03b5\u03ba\u03b1 \u03ad\u03bd\u03c4\u03b5\u03ba\u03b1 \u03b4\u03b5\u03ba\u03b1\u03b5\u03bd\u03bd\u03ad\u03b1 \u03bc\u03b7\u03b4\u03ad\u03bd",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 85,
+     "text": "\u03a4\u03ad\u03bb\u03b5\u03b9\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 86,
+     "text": "\u03a4\u03ad\u03bb\u03b5\u03b9\u03b1 \u039a\u03b1\u03b9 \u03c4\u03ce\u03c1\u03b1 \u03b8\u03ad\u03bb\u03c9",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 87,
+     "text": "\u03b8\u03ad\u03bb\u03c9 \u03c3\u03b5 \u03ad\u03bd\u03b1 \u03bb\u03b5\u03c0\u03c4\u03cc \u03bd\u03b1 \u03bc\u03bf\u03c5 \u03c0\u03b5\u03c1\u03b9\u03b3\u03c1\u03ac\u03c8\u03b5\u03c4\u03b5 \u03ad\u03bd\u03b1 \u03b5\u03c5\u03c7\u03ac\u03c1\u03b9\u03c3\u03c4\u03bf \u03b3\u03b5\u03b3\u03bf\u03bd\u03cc\u03c2 \u03c0\u03bf\u03c5 \u03c3\u03b1\u03c2 \u03ad\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9 \u03c3\u03c4\u03bf \u03bc\u03c5\u03b1\u03bb\u03cc",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|720|116",
+   "corpus": "Dem_Greek",
+   "session": "720",
+   "utt_index": 116,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "720",
+   "audio_task": "",
+   "start_ms": 408200,
+   "end_ms": 408920,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 114,
+     "text": "\u03a0\u03b5\u03af\u03c4\u03b5",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 115,
+     "text": "\u03a4\u03bf",
+     "target": false
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 116,
+     "text": "\u039f",
+     "target": true
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 117,
+     "text": "\u039f",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|695|113",
+   "corpus": "Dem_Greek",
+   "session": "695",
+   "utt_index": 113,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "695",
+   "audio_task": "",
+   "start_ms": 393870,
+   "end_ms": 397990,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 111,
+     "text": "\u03b4\u03b5\u03bd \u03c4\u03bf \u03ba\u03b1\u03c4\u03ac\u03bb\u03b1\u03b2\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 112,
+     "text": "\u039f \u039a\u03ce\u03c3\u03c4\u03b1\u03c2 \u03b1\u03b3\u03cc\u03c1\u03b1\u03c3\u03b5 \u03b3\u03ac\u03bb\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03c5\u03c1\u03af",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 113,
+     "text": "\u039f \u039a\u03ce\u03c3\u03c4\u03b1\u03c2 \u03b1\u03b3\u03cc\u03c1\u03b1\u03c3\u03b5 \u03c3\u03c0\u03af\u03c4\u03b9",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 114,
+     "text": "\u03c9\u03c2 \u03b8\u03b1 \u03c0\u03ac\u03bc\u03b5",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|74|108",
+   "corpus": "Dem_Greek",
+   "session": "74",
+   "utt_index": 108,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "74",
+   "audio_task": "",
+   "start_ms": 439030,
+   "end_ms": 440010,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 106,
+     "text": "\u03a6\u03bf\u03cd\u03c3\u03c4\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 107,
+     "text": "\u03a9\u03c1\u03b1\u03af\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 108,
+     "text": "\u0395",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 109,
+     "text": "\u03a4\u03ce\u03c1\u03b1 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03bc\u03bf\u03c5 \u03c0\u03b5\u03af\u03c4\u03b5",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|711|32",
+   "corpus": "Dem_Greek",
+   "session": "711",
+   "utt_index": 32,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "711",
+   "audio_task": "",
+   "start_ms": 118500,
+   "end_ms": 124300,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 30,
+     "text": "\u03c0\u03ac\u03c4\u03b5",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 31,
+     "text": "\u0398\u03b1 \u03c3\u03b5 \u03b4\u03b5\u03c7\u03c4\u03b5\u03af \u039d\u03b1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 32,
+     "text": "\u0398\u03b1 \u03c3\u03b5 \u03b4\u03b5\u03c7\u03c4\u03b5\u03af \u03ba\u03c5\u03c1\u03af\u03b1 \u03a4\u03c3\u03bf\u03bb\u03ac\u03ba\u03b7 \u03ba\u03b1\u03b9 \u03b1\u03c5\u03c4\u03ae \u03b8\u03b1",
+     "target": true
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 33,
+     "text": "\u0391\u03c5\u03c4\u03cc \u03b3\u03c1\u03ac\u03c6\u03b5\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03ba\u03b1\u03c1\u03b4\u03b9\u03b1\u03ba\u03bf\u03cd\u03c2 \u03c0\u03b1\u03bb\u03b1\u03b9\u03bf\u03cd\u03c2 \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03af\u03c0\u03bf\u03c4\u03b1",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|723|37",
+   "corpus": "Dem_Greek",
+   "session": "723",
+   "utt_index": 37,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "723",
+   "audio_task": "",
+   "start_ms": 98400,
+   "end_ms": 98920,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 35,
+     "text": "\u0391\u03c5\u03c4\u03cc \u03bc\u03b5\u03c4\u03c1\u03ac\u03b5\u03b9 \u03c0\u03bb\u03ad\u03bf\u03bd \u03c0\u03cc\u03c3\u03bf\u03b9 \u03c6\u03cd\u03b3\u03bf\u03c5\u03c2 \u03ad\u03c7\u03bf\u03c5\u03bc\u03b5 \u03cc\u03c4\u03b1\u03bd \u03c0\u03b5\u03c1\u03c0\u03b1\u03c4\u03ac\u03bc\u03b5 \u03c4\u03ad\u03c4\u03bf\u03b9\u03b1 \u03c0\u03c1\u03ac\u03b3\u03bc\u03b1\u03c4\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 36,
+     "text": "\u0391\u03c5\u03c4\u03cc \u03c4\u03bf \u03b1\u03c6\u03ae\u03bd\u03b5\u03c4\u03b5 \u03c4\u03ce\u03c1\u03b1 \u03b5\u03bb\u03b5\u03cd\u03b8\u03b5\u03c1\u03b1 \u03c4\u03bf \u03c7\u03ad\u03c1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 37,
+     "text": "\u039b\u03bf\u03b9\u03c0\u03cc\u03bd",
+     "target": true
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 38,
+     "text": "\u03a9\u03c1\u03b1\u03af\u03b1",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|67|110",
+   "corpus": "Dem_Greek",
+   "session": "67",
+   "utt_index": 110,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "67",
+   "audio_task": "",
+   "start_ms": 471800,
+   "end_ms": 475640,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 108,
+     "text": "\u0391\u03c0\u03cc \u03c6\u03c5 \u03a6\u03b5\u03b2\u03c1\u03bf\u03c5\u03ac\u03c1\u03b9\u03bf\u03c2",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 109,
+     "text": "\u03a4\u03ce\u03c1\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03b1 \u03ac\u03bb\u03bb\u03b1 \u03c6\u03b1\u03b3\u03b7\u03c4\u03ac \u03c0\u03bf\u03c5 \u03be\u03ad\u03c1\u03c9 \u03b5\u03b3\u03ce",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 110,
+     "text": "\u0395\u03c0\u03b5\u03b9\u03b4\u03ae \u03b5\u03af\u03bc\u03b1\u03b9 \u03bb\u03af\u03b3\u03bf \u03ba\u03c5\u03c1\u03ac \u03c4\u03b1 \u03c6\u03b1\u03b3\u03b7\u03c4\u03ac \u03c4\u03b1 \u03ac\u03bb\u03bb\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 111,
+     "text": "\u039a\u03ac\u03c4\u03b9 \u03ac\u03bb\u03bb\u03bf \u03cc\u03c7\u03b9",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|769|72",
+   "corpus": "Dem_Greek",
+   "session": "769",
+   "utt_index": 72,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "769",
+   "audio_task": "",
+   "start_ms": 601940,
+   "end_ms": 603460,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 70,
+     "text": "\u039b\u03bf\u03b9\u03c0\u03cc\u03bd \u03b8\u03ad\u03bb\u03c9 \u03bd\u03b1 \u03bc\u03b5\u03c4\u03c1\u03ae\u03c3\u03b5\u03c4\u03b5 \u03b1\u03bd\u03c4\u03af\u03c3\u03c4\u03c1\u03bf\u03c6\u03b1 \u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1 \u03ad\u03c9\u03c2 \u03c4\u03bf \u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03bf\u03b3\u03b4\u03cc\u03bd\u03c4\u03b1 \u03c0\u03ad\u03bd\u03c4\u03b5",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 71,
+     "text": "\u0398\u03b1 \u03bc\u03bf\u03c5 \u03c0\u03c9 \u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1 \u03ad\u03c9\u03c2 \u03c4\u03bf \u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03bf\u03b3\u03b4\u03cc\u03bd\u03c4\u03b1 \u03c0\u03ad\u03bd\u03c4\u03b5 \u039d\u03b1 \u03ba\u03b1\u03c4\u03b5\u03b2\u03b1\u03af\u03bd\u03bf\u03c5\u03bc\u03b5 \u03ad\u03bd\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 72,
+     "text": "\u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03b1\u03c0\u03bb\u03ce",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 73,
+     "text": "\u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1 \u03ad\u03c9\u03c2 \u03c4\u03bf \u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03bf\u03b3\u03b4\u03cc\u03bd\u03c4\u03b1 \u03c0\u03ad\u03bd\u03c4\u03b5",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|73|52",
+   "corpus": "Dem_Greek",
+   "session": "73",
+   "utt_index": 52,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "73",
+   "audio_task": "",
+   "start_ms": 375890,
+   "end_ms": 378070,
+   "context": [
+    {
+     "tier": "PAR4",
+     "utt_index": 50,
+     "text": "\u039b\u03b5\u03bf\u03bd\u03c4\u03ac\u03c1\u03b9 \u03c0\u03b9\u03c3\u03c4\u03b5\u03cd\u03b5\u03b9\u03c2 \u03b4\u03b5 \u03b5\u03bc\u03b5\u03af\u03c2 \u03b3\u03bb\u03c5\u03bd\u03cc\u03ba\u03b5\u03c1\u03bf\u03c2 \u03ba\u03b1\u03bc\u03ae\u03bb\u03b9\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 51,
+     "text": "\u0395\u03b5\u03b5 \u03ba\u03b1\u03b9 \u03c4\u03ce\u03c1\u03b1 \u03b8\u03b1 \u03ae\u03b8\u03b5\u03bb\u03b1 \u03bd\u03b1 \u03bc\u03bf\u03c5 \u03c0\u03b5\u03c1\u03b9\u03b3\u03c1\u03ac\u03c8\u03b5\u03c4\u03b5 \u03c4\u03b9 \u03b2\u03bb\u03ad\u03c0\u03b5\u03c4\u03b5 \u03c3\u03b5 \u03b1\u03c5\u03c4\u03ae\u03bd \u03c4\u03b7\u03bd \u03b5\u03b9\u03ba\u03cc\u03bd\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR4",
+     "utt_index": 52,
+     "text": "\u0388\u03bd\u03b1 \u03bb\u03b5\u03bf\u03bd\u03c4\u03ac\u03c1\u03b9 \u03bc\u03b5 \u03c4\u03bf",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 53,
+     "text": "\u03a9\u03c1\u03b1\u03af\u03b1",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|699|119",
+   "corpus": "Dem_Greek",
+   "session": "699",
+   "utt_index": 119,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "699",
+   "audio_task": "",
+   "start_ms": 429920,
+   "end_ms": 431520,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 117,
+     "text": "\u0391\u03c5\u03c4\u03cc \u039b\u03b9\u03bf\u03bd\u03c4\u03ac\u03c1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 118,
+     "text": "\u039b\u03b5\u03bf\u03bd\u03c4\u03ac\u03c1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 119,
+     "text": "\u0391\u03c5\u03c4\u03cc \u03b5\u03b4\u03ce \u03b5\u03af\u03bd\u03b1\u03b9",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 120,
+     "text": "\u0391\u03c5\u03c4\u03cc \u039c\u03b5 \u03c4\u03b7 \u03b8\u03ad\u03c1\u03b1",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|68|31",
+   "corpus": "Dem_Greek",
+   "session": "68",
+   "utt_index": 31,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "68",
+   "audio_task": "",
+   "start_ms": 85000,
+   "end_ms": 88140,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 29,
+     "text": "\u0398\u03b1 \u03c0\u03b9\u03ad\u03c3\u03b5\u03b9 \u03c0\u03bf\u03bb\u03cd \u03cc\u03c7\u03b9 \u03cc\u03c7\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 30,
+     "text": "\u03a4\u03b9 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03c5\u03c4\u03cc",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 31,
+     "text": "\u0391\u03c5\u03c4\u03cc \u03b5\u03af\u03bd\u03b1\u03b9 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03c4\u03b7 \u03ba\u03af\u03bd\u03b7\u03c3\u03ae \u03c3\u03b1\u03c2 \u03c4\u03ce\u03c1\u03b1",
+     "target": true
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 32,
+     "text": "\u0393\u03b9\u03b1 \u03c0\u03ac\u03c1 \u03c4\u03bf \u03b5\u03b4\u03ce \u03c0\u03ad\u03c1\u03b1 \u03bc\u03ae\u03c0\u03c9\u03c2 \u03bc\u03c0\u03bf\u03c1\u03ad\u03c3\u03b5\u03b9\u03c2",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|719|52",
+   "corpus": "Dem_Greek",
+   "session": "719",
+   "utt_index": 52,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "719",
+   "audio_task": "",
+   "start_ms": 353760,
+   "end_ms": 355940,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 50,
+     "text": "\u03a1\u03ae\u03c4\u03bf\u03c2 \u03a1\u03ae\u03c4\u03bf\u03c2",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 51,
+     "text": "\u039c\u03c0\u03c1\u03ac\u03b2\u03bf",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 52,
+     "text": "\u03a4\u03ce\u03c1\u03b1 \u03b8\u03ad\u03bb\u03c9 \u03bd\u03b1 \u03bc\u03bf\u03c5 \u03c0\u03b5\u03af\u03c4\u03b5",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 53,
+     "text": "\u039d\u03b1",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|674|64",
+   "corpus": "Dem_Greek",
+   "session": "674",
+   "utt_index": 64,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "674",
+   "audio_task": "",
+   "start_ms": 162780,
+   "end_ms": 164560,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 62,
+     "text": "\u03a9\u03c1\u03b1\u03af\u03b1 \u03b5\u03bb\u03ac\u03c4\u03b5 \u03ba\u03bf\u03bd\u03c4\u03ac \u03bc\u03bf\u03c5 \u03c0\u03ac\u03bb\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 63,
+     "text": "\u039b\u03bf\u03b9\u03c0\u03cc\u03bd \u03c4\u03ce\u03c1\u03b1 \u03b8\u03b1 \u03ba\u03ac\u03bd\u03bf\u03c5\u03bc\u03b5 \u03bc\u03af\u03b1 \u03b1\u03c6\u03b1\u03af\u03c1\u03b5\u03c3\u03b7 \u03ba\u03cd\u03c1\u03b9\u03b5 \u039a\u03ce\u03c3\u03c4\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 64,
+     "text": "\u0398\u03ad\u03bb\u03c9 \u03bd\u03b1 \u03b1\u03c6\u03b1\u03b9\u03c1\u03ad\u03c3\u03b5\u03c4\u03b5",
+     "target": true
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 65,
+     "text": "\u0391\u03c5\u03c4\u03cc \u03b8\u03b1 \u03c4\u03bf \u03b2\u03b3\u03ac\u03bb\u03b5\u03c4\u03b5",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|764|16",
+   "corpus": "Dem_Greek",
+   "session": "764",
+   "utt_index": 16,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "764",
+   "audio_task": "",
+   "start_ms": 105310,
+   "end_ms": 106390,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 14,
+     "text": "\u0395\u03bd\u03c4\u03ac\u03be\u03b5\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 15,
+     "text": "\u039d\u03b1\u03b9 \u03c0\u03ac\u03bc\u03b5 \u03c0\u03ac\u03bc\u03b5",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 16,
+     "text": "\u0395\u03af\u03bd\u03b1\u03b9 \u03b7\u03bb\u03b9\u03ba\u03c9\u03bc\u03ad\u03bd\u03b1 \u03ae",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 17,
+     "text": "\u038c\u03c0\u03c9\u03c2 \u03b8\u03ad\u03bb\u03b5\u03c4\u03b5",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|720|212",
+   "corpus": "Dem_Greek",
+   "session": "720",
+   "utt_index": 212,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "720",
+   "audio_task": "",
+   "start_ms": 736510,
+   "end_ms": 737390,
+   "context": [
+    {
+     "tier": "PAR3",
+     "utt_index": 210,
+     "text": "\u03a7",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 211,
+     "text": "\u03a7",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 212,
+     "text": "\u03a7",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 213,
+     "text": "\u03a7",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|74|125",
+   "corpus": "Dem_Greek",
+   "session": "74",
+   "utt_index": 125,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "74",
+   "audio_task": "",
+   "start_ms": 512400,
+   "end_ms": 514900,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 123,
+     "text": "\u039c\u03b5 \u03c4\u03bf \u03ac\u03bb\u03bb\u03bf",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 124,
+     "text": "\u0391",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 125,
+     "text": "\u0398\u03b1 \u03ae\u03b8\u03b5\u03bb\u03b1 \u03c4\u03ce\u03c1\u03b1 \u03b1\u03c1\u03b1 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03bc\u03bf\u03c5 \u03bc\u03b5\u03c4\u03c1\u03ae\u03c3\u03b5\u03c4\u03b5",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 126,
+     "text": "\u03b1\u03c0 \u03c4\u03bf \u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1 \u03c9\u03c2 \u03c4\u03bf \u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03bf\u03b3\u03b4\u03cc\u03bd\u03c4\u03b1 \u03c0\u03ad\u03bd\u03c4\u03b5 \u03b1\u03bd\u03c4\u03af\u03c3\u03c4\u03c1\u03bf\u03c6\u03bf \u03ba\u03b1\u03c4\u03ac \u03b5\u03bd",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|727|205",
+   "corpus": "Dem_Greek",
+   "session": "727",
+   "utt_index": 205,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "727",
+   "audio_task": "",
+   "start_ms": 604610,
+   "end_ms": 618460,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 203,
+     "text": "\u03a9\u03c1\u03b1\u03af\u03b1 \u03c0\u03ac\u03bc\u03b5 \u03ba\u03b1\u03b9 \u03ac\u03bb\u03bb\u03b5\u03c2",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 204,
+     "text": "\u03a7\u03b1\u03c1\u03c4\u03af",
+     "target": false
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 205,
+     "text": "\u03a4\u03b9 \u03b5\u03af\u03c0\u03b1 \u03ba\u03bf\u03c1\u03b5\u03cd\u03c9",
+     "target": true
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 206,
+     "text": "\u03a4\u03ce\u03c1\u03b1",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|67|30",
+   "corpus": "Dem_Greek",
+   "session": "67",
+   "utt_index": 30,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "67",
+   "audio_task": "",
+   "start_ms": 187490,
+   "end_ms": 188310,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 28,
+     "text": "\u039a\u03b1\u03b8\u03af\u03c3\u03c4\u03b5 \u03bc\u03cc\u03bd\u03bf \u03bb\u03af\u03b3\u03bf \u03b5\u03ba\u03b5\u03af \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03c3\u03b1\u03c2 \u03b4\u03bf\u03c5\u03bd",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 29,
+     "text": "\u039b\u03bf\u03b9\u03c0\u03cc\u03bd \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 30,
+     "text": "\u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 31,
+     "text": "\u03a9\u03c1\u03b1\u03af\u03b1 \u03a0\u03b1\u03af\u03c1\u03bd\u03bf\u03c5\u03bc\u03b5",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|62|116",
+   "corpus": "Dem_Greek",
+   "session": "62",
+   "utt_index": 116,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "62",
+   "audio_task": "",
+   "start_ms": 460960,
+   "end_ms": 464300,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 114,
+     "text": "\u0389\u03b8\u03b5\u03bb\u03b1 \u03bd\u03b1 \u03bc\u03bf\u03c5 \u03c0\u03b5\u03af\u03c4\u03b5 \u03c0\u03bf\u03b9\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03b1 \u03bf\u03bd\u03cc\u03bc\u03b1\u03c4\u03b1 \u03c4\u03c9\u03bd \u03b6\u03ce\u03c9\u03bd \u03c3\u03c4\u03b9\u03c2 \u03b5\u03b9\u03ba\u03cc\u03bd\u03b5\u03c2",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 115,
+     "text": "\u039b\u03b9\u03bf\u03bd\u03c4\u03ac\u03c1\u03b9 \u03c1\u03b9\u03bd\u03cc\u03ba\u03b5\u03c1\u03bf\u03c2 \u03ba\u03b1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 116,
+     "text": "\u03c0\u03ce\u03c2 \u03c4\u03bf \u03bb\u03ad\u03bc\u03b5 \u03b1\u03c5\u03c4\u03cc \u03c3\u03c4\u03bf \u03c3\u03b7\u03bc\u03b5\u03c1\u03b9\u03bd\u03cc",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 117,
+     "text": "\u039a\u03b1\u03bc\u03af\u03bb\u03b1",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|43|171",
+   "corpus": "Dem_Greek",
+   "session": "43",
+   "utt_index": 171,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "43",
+   "audio_task": "",
+   "start_ms": 689560,
+   "end_ms": 690540,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 169,
+     "text": "\u0391\u03c5\u03c4\u03cc \u03b5\u03af\u03bd\u03b1\u03b9 \u03ad\u03bd\u03b1 \u03ac\u03b3\u03c1\u03b9\u03bf",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 170,
+     "text": "\u0391\u03c5\u03c4\u03cc \u03c0\u03ac\u03b5\u03b9 \u03b1\u03c0\u03cc \u03b5\u03b4\u03ce \u03bc\u03ad\u03c7\u03c1\u03b9 \u03b5\u03ba\u03b5\u03af",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 171,
+     "text": "\u03a4\u03b9 \u03bd\u03b1 \u03c0\u03c9",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 172,
+     "text": "\u0395\u03af\u03bd\u03b1\u03b9 \u03ad\u03bd\u03b1 \u03ac\u03b3\u03c1\u03b9\u03bf \u03b6\u03ce\u03bf \u03cc\u03bb\u03b1 \u03b1\u03c5\u03c4\u03ae \u03b7 \u03b6\u03c9\u03ae",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|739|114",
+   "corpus": "Dem_Greek",
+   "session": "739",
+   "utt_index": 114,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "739",
+   "audio_task": "",
+   "start_ms": 317980,
+   "end_ms": 320380,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 112,
+     "text": "\u039d\u03bf\u03ae\u03c4\u03c9\u03c2",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 113,
+     "text": "\u03a4\u03bf \u03bc\u03cc\u03bd\u03bf \u03c0\u03bf\u03c5 \u03be\u03ad\u03c1\u03c9 \u03b5\u03af\u03bd\u03b1\u03b9 \u03cc\u03c4\u03b9 \u03bf \u0393\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03c5\u03c4\u03cc\u03c2 \u03c0\u03bf\u03c5 \u03b8\u03b1 \u03b2\u03bf\u03b7\u03b8\u03ae\u03c3\u03b5\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 114,
+     "text": "\u03a4\u03bf \u03bc\u03cc\u03bd\u03bf \u03c0\u03bf\u03c5 \u03c3\u03b1\u03c2 \u03c0\u03c9 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03c5\u03c4\u03cc \u03c0\u03bf\u03c5",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 115,
+     "text": "\u03a9\u03c1\u03b1\u03af\u03b1",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|74|56",
+   "corpus": "Dem_Greek",
+   "session": "74",
+   "utt_index": 56,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "74",
+   "audio_task": "",
+   "start_ms": 281660,
+   "end_ms": 283840,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 54,
+     "text": "\u039a\u03ce\u03c3\u03c4\u03b1\u03c2 \u03b1\u03b3\u03cc\u03c1\u03c9\u03c3\u03b5 \u03b3\u03ac\u03bb\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03c5\u03c1\u03af",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 55,
+     "text": "\u03a9\u03c1\u03b1\u03af\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 56,
+     "text": "\u0398\u03b1 \u03ae\u03b8\u03b5\u03bb\u03b1 \u03bd\u03b1 \u03bc\u03bf\u03c5 \u03c0\u03b5\u03af\u03c4\u03b5 \u03c4\u03ce\u03c1\u03b1",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 57,
+     "text": "\u03b5\u03b4\u03ce \u03c0\u03bf\u03b9\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03b1 \u03bf\u03bd\u03cc\u03bc\u03b1\u03c4\u03b1 \u03c4\u03c9\u03bd \u03b6\u03ce\u03c9\u03bd \u03c3\u03c4\u03b9\u03c2 \u03b5\u03b9\u03ba\u03cc\u03bd\u03b5\u03c2",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|74|60",
+   "corpus": "Dem_Greek",
+   "session": "74",
+   "utt_index": 60,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "74",
+   "audio_task": "",
+   "start_ms": 297410,
+   "end_ms": 298670,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 58,
+     "text": "\u0395\u03af\u03bd\u03b1\u03b9 \u03b7 \u039a\u03b1\u03bc\u03ae\u03c1\u03b9\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 59,
+     "text": "\u03bf \u03a3\u03ba\u03cd\u03c1\u03bf\u03c2",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 60,
+     "text": "\u03ba\u03b1\u03b9 \u03b1\u03c5\u03c4\u03cc \u03b5\u03af\u03bd\u03b1\u03b9",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 61,
+     "text": "\u03ba\u03b1\u03b9 \u03b1\u03c5\u03c4\u03cc",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|720|62",
+   "corpus": "Dem_Greek",
+   "session": "720",
+   "utt_index": 62,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "720",
+   "audio_task": "",
+   "start_ms": 213920,
+   "end_ms": 214580,
+   "context": [
+    {
+     "tier": "PAR3",
+     "utt_index": 60,
+     "text": "\u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1 \u039d\u03b1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 61,
+     "text": "\u03a0\u03cc\u03c3\u03bf \u03ba\u03ac\u03bd\u03b5\u03b9 \u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1 \u03bc\u03b5\u03af\u03bf\u03bd \u03b4\u03ad\u03ba\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 62,
+     "text": "\u0395\u03af\u03bd\u03b1\u03b9",
+     "target": true
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 63,
+     "text": "\u03c7\u03af\u03bb\u03b9\u03b1 \u03b5\u03c5\u03c1\u03ce",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|674|210",
+   "corpus": "Dem_Greek",
+   "session": "674",
+   "utt_index": 210,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "674",
+   "audio_task": "",
+   "start_ms": 737130,
+   "end_ms": 738820,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 208,
+     "text": "\u0391\u03c0\u03bb\u03ac \u03bc\u03c0\u03bf\u03c1\u03ce \u03bd\u03b1 \u03c4\u03bf \u03b8\u03c5\u03bc\u03ac\u03bc\u03b1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 209,
+     "text": "\u03a9\u03c1\u03b1\u03af\u03b1 \u03c0\u03b1\u03c4\u03ad\u03c1\u03b1\u03c2 \u03bc\u03bf\u03c5 \u03c3\u03c4\u03bf \u03c4\u03c1\u03af\u03c4\u03bf \u03bd\u03b5\u03ba\u03c1\u03bf\u03c4\u03b1\u03c6\u03b5\u03af\u03bf \u03c4\u03bf\u03bd \u03c0\u03ae\u03c1\u03b5 \u03c3\u03c4\u03b7\u03bd",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 210,
+     "text": "\u03c0\u03bf\u03cd \u03c3\u03c4\u03bf \u03b4\u03b9\u03ac\u03bb\u03bf\u03b3\u03bf \u03b5\u03af\u03bd\u03b1\u03b9",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 211,
+     "text": "\u03c3\u03c4\u03b7 \u0398\u03b7\u03b2\u03cc\u03ba\u03bf\u03c4\u03b1",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|68|230",
+   "corpus": "Dem_Greek",
+   "session": "68",
+   "utt_index": 230,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "68",
+   "audio_task": "",
+   "start_ms": 696140,
+   "end_ms": 697280,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 228,
+     "text": "\u03a4\u03ce\u03c1\u03b1 \u03c4\u03ce\u03c1\u03b1 \u03c4\u03ce\u03c1\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 229,
+     "text": "\u0386\u03c1\u03b1 \u03b5\u03af\u03c3\u03c4\u03b5 \u03ba\u03b1\u03b9 \u03c7\u03c1\u03ae\u03c3\u03b9\u03bc\u03bf\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 230,
+     "text": "\u0394\u03b7\u03bb\u03b1\u03b4\u03ae \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 231,
+     "text": "\u0392\u03bf\u03b7\u03b8\u03ac\u03c4\u03b5",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|686|149",
+   "corpus": "Dem_Greek",
+   "session": "686",
+   "utt_index": 149,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "686",
+   "audio_task": "",
+   "start_ms": 465990,
+   "end_ms": 466850,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 147,
+     "text": "\u03a4\u03bf \u03bc\u03cc\u03bd\u03bf \u03c0\u03bf\u03c5 \u03be\u03ad\u03c1\u03c9",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 148,
+     "text": "\u039f",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 149,
+     "text": "\u0393\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 150,
+     "text": "\u0395\u03af\u03bd\u03b1\u03b9 \u03b1\u03c5\u03c4\u03cc\u03c2 \u03c0\u03bf\u03c5 \u03b8\u03b1 \u03b2\u03bf\u03b7\u03b8\u03ae\u03c3\u03b5\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|720|117",
+   "corpus": "Dem_Greek",
+   "session": "720",
+   "utt_index": 117,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "720",
+   "audio_task": "",
+   "start_ms": 408920,
+   "end_ms": 409000,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 115,
+     "text": "\u03a4\u03bf",
+     "target": false
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 116,
+     "text": "\u039f",
+     "target": false
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 117,
+     "text": "\u039f",
+     "target": true
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 118,
+     "text": "\u039f",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|716|240",
+   "corpus": "Dem_Greek",
+   "session": "716",
+   "utt_index": 240,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "716",
+   "audio_task": "",
+   "start_ms": 898600,
+   "end_ms": 906160,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 238,
+     "text": "\u039a\u03b1\u03b9 \u03b5\u03af\u03bc\u03b1\u03b9 \u03c0\u03b5\u03c1\u03ae\u03c6\u03b1\u03bd\u03b7 \u03b3\u03b9 \u03b1\u03c5\u03c4\u03cc \u03ba\u03b1\u03b9 \u03b5\u03af\u03bd\u03b1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 239,
+     "text": "\u03ba\u03b1\u03b9 \u03b5\u03c0\u03b5\u03b9\u03b4\u03ae \u03c4\u03bf \u03ad\u03c7\u03b5\u03b9 \u03b1\u03c5\u03c4\u03cc\u03c2",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 240,
+     "text": "\u03c4\u03bf \u03ad\u03c7\u03b5\u03b9 \u03c3\u03c5\u03bd\u03b5\u03b9\u03b4\u03b7\u03c4\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03b5\u03b9 \u03ba\u03b1\u03b9 \u03be\u03ad\u03c1\u03b5\u03b9 \u03cc\u03c4\u03b9 \u03b7 \u03bc\u03b1\u03bc\u03ac \u03c4\u03b7\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03bd\u03c4\u03ac\u03be\u03b5\u03b9 \u03c3' \u03b1\u03c5\u03c4\u03cc \u03ba\u03b1\u03b9 \u03b3\u03b9 \u03b1\u03c5\u03c4\u03cc \u03b5\u03af\u03bc\u03b1\u03b9",
+     "target": true
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 241,
+     "text": "\u03b1\u03c0\u03cc \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae \u03b5\u03af\u03bc\u03b1\u03b9 \u03ba\u03b1\u03b9 \u03bb\u03af\u03b3\u03bf \u03b5\u03c5\u03c7\u03b1\u03c1\u03b9\u03c3\u03c4\u03b7\u03bc\u03ad\u03bd\u03b7 \u03a9\u03c1\u03b1\u03af\u03b1 \u03b8\u03ad\u03bb\u03c9 \u03bd\u03b1 \u03bc\u03bf\u03c5 \u03c0\u03b5\u03af\u03c4\u03b5 \u03c4\u03b9 \u03ba\u03ac\u03bd\u03b5\u03c4\u03b5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03c4\u03bf \u03c0\u03c1\u03c9\u03af",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|711|128",
+   "corpus": "Dem_Greek",
+   "session": "711",
+   "utt_index": 128,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "711",
+   "audio_task": "",
+   "start_ms": 389950,
+   "end_ms": 396490,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 126,
+     "text": "\u039d\u03b1\u03b9 \u03b1\u03c5\u03c4\u03cc \u03b8\u03b1 \u03bc\u03bf\u03c5 \u03c4\u03bf \u03bb\u03ad\u03c4\u03b5 \u03b5\u03bc\u03ad\u03bd\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 127,
+     "text": "\u0391\u03bb\u03bb\u03ac \u03b8\u03b1 \u03c0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03ad\u03c7\u03bf\u03c5\u03bc\u03b5 \u03ba\u03b1\u03b9 \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03b1 \u03b1\u03c0\u03cc \u03b1\u03c5\u03c4\u03ac \u03c4\u03b1 \u03c0\u03c1\u03ac\u03b3\u03bc\u03b1\u03c4\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 128,
+     "text": "\u0391\u03bd \u03b8\u03ad\u03bb\u03b5\u03c4\u03b5 \u03bd\u03b1 \u03c3\u03c5\u03bc\u03bc\u03b5\u03c4\u03ad\u03c7\u03b5\u03c4\u03b5 \u03bd\u03b1 \u03ad\u03c7\u03c9 \u03c4\u03bf \u03bd\u03bf\u03cd\u03bc\u03b5\u03c1\u03cc \u03c3\u03b1\u03c2",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 129,
+     "text": "\u039e\u03ad\u03c1\u03c9 \u03c4\u03b7\u03bd \u03b1\u03b9\u03c4\u03af\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bd \u03ba\u03bf\u03b9\u03bc\u03ac \u03bc\u03bf\u03c5",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|73|18",
+   "corpus": "Dem_Greek",
+   "session": "73",
+   "utt_index": 18,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "73",
+   "audio_task": "",
+   "start_ms": 223600,
+   "end_ms": 224940,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 16,
+     "text": "\u039b\u03af\u03b3\u03bf \u03b1\u03c5\u03c4\u03ac \u03c4\u03b1 \u03b4\u03cd\u03bf",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 17,
+     "text": "\u0394\u03b7\u03bb\u03b1\u03b4\u03ae \u03b8\u03b1 \u03c0\u03b5\u03c1\u03c0\u03b1\u03c4\u03ae\u03c3\u03b5\u03c4\u03b5 \u03cc\u03c0\u03c9\u03c2 \u03c0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03c0\u03bf\u03cd\u03bc\u03b5 \u03c4\u03bf \u03ad\u03bd\u03b1 \u03c3\u03b7\u03bc\u03b5\u03af\u03bf \u03c3\u03c4\u03bf \u03ac\u03bb\u03bb\u03bf",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 18,
+     "text": "\u0398\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c0\u03b1\u03b8\u03ae\u03c3\u03b1\u03bc\u03b5",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 19,
+     "text": "\u03a3\u03b1\u03c2 \u03ad\u03c1\u03b8\u03b5\u03b9 \u03b5\u03c0\u03b9\u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03b7 \u03b7 \u03ce\u03c1\u03b1",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|74|78",
+   "corpus": "Dem_Greek",
+   "session": "74",
+   "utt_index": 78,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "74",
+   "audio_task": "",
+   "start_ms": 345880,
+   "end_ms": 347680,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 76,
+     "text": "\u039f\u03c5\u03c1\u03ac \u03b5\u03af\u03bd\u03b1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 77,
+     "text": "\u039d\u03b1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 78,
+     "text": "\u039a\u03b1\u03b9 \u03b1\u03c5\u03c4\u03cc \u03b5\u03af\u03bd\u03b1\u03b9 \u03bc\u03b9\u03b1 \u03b3\u03ac\u03c4\u03b1",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 79,
+     "text": "\u03cc\u03c7\u03b9",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|716|204",
+   "corpus": "Dem_Greek",
+   "session": "716",
+   "utt_index": 204,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "716",
+   "audio_task": "",
+   "start_ms": 822950,
+   "end_ms": 823650,
+   "context": [
+    {
+     "tier": "PAR3",
+     "utt_index": 202,
+     "text": "\u0388\u03bd\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 203,
+     "text": "\u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 204,
+     "text": "\u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1",
+     "target": true
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 205,
+     "text": "\u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|72|25",
+   "corpus": "Dem_Greek",
+   "session": "72",
+   "utt_index": 25,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "72",
+   "audio_task": "",
+   "start_ms": 115180,
+   "end_ms": 116240,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 23,
+     "text": "\u03a9\u03c1\u03b1\u03af\u03b1 \u03a4\u03ad\u03bb\u03b5\u03b9\u03b1 \u03ba\u03cd\u03c1\u03b9\u03b5 \u0392\u03b1\u03c3\u03af\u03bb\u03b7",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 24,
+     "text": "\u0395\u03bb\u03ac\u03c4\u03b5 \u03c4\u03ce\u03c1\u03b1 \u03bd\u03b1 \u03ba\u03ac\u03c4\u03c3\u03b5\u03c4\u03b5 \u03bb\u03af\u03b3\u03bf \u03b4\u03af\u03c0\u03bb\u03b1 \u03bc\u03bf\u03c5",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 25,
+     "text": "\u0398\u03b1 \u03c3\u03b1\u03c2 \u03c0\u03c9 \u03ba\u03ac\u03c0\u03bf\u03b9\u03b5\u03c2",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 26,
+     "text": "\u03c0\u03c1\u03bf\u03c4\u03ac\u03c3\u03b5\u03b9\u03c2 \u03ba\u03b1\u03b9 \u03b8\u03ad\u03bb\u03c9 \u03bd\u03b1 \u03c4\u03b9\u03c2 \u03b5\u03c0\u03b1\u03bd\u03b1\u03bb\u03ac\u03b2\u03b5\u03c4\u03b5 \u03bc\u03b5\u03c4\u03ac \u03b1\u03c0\u03cc \u03bc\u03ad\u03bd\u03b1 \u039a\u03b1\u03b9 \u03c0\u03c1\u03ac\u03b3\u03bc\u03b1 \u03ba\u03ac\u03c4\u03b9",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|89|37",
+   "corpus": "Dem_Greek",
+   "session": "89",
+   "utt_index": 37,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "89",
+   "audio_task": "",
+   "start_ms": 146710,
+   "end_ms": 149630,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 35,
+     "text": "\u0397 \u03b3\u03ac\u03c4\u03b1 \u03ba\u03c1\u03c5\u03b2\u03cc\u03c4\u03b1\u03bd \u03c0\u03ac\u03bd\u03c4\u03b1 \u03ba\u03ac\u03c4\u03c9 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u03ba\u03b1\u03bd\u03b1\u03c0\u03ad \u03cc\u03c4\u03b1\u03bd \u03b2\u03c1\u03af\u03c3\u03ba\u03bf\u03bd\u03c4\u03b1\u03bd \u03c3\u03ba\u03c5\u03bb\u03b9\u03ac \u03bc\u03ad\u03c3\u03b1 \u03c3\u03c4\u03bf \u03b4\u03c9\u03bc\u03ac\u03c4\u03b9\u03bf",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 36,
+     "text": "\u0397",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 37,
+     "text": "\u0393\u03ac\u03c4\u03b1 \u03ba\u03c1\u03c5\u03b2\u03cc\u03c4\u03b1\u03bd \u03c0\u03ac\u03bd\u03c4\u03b1 \u03ba\u03ac\u03c4\u03c9 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u03ba\u03b1\u03bd\u03b1\u03c0\u03ad \u03cc\u03c4\u03b1\u03bd",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 38,
+     "text": "\u03a3\u03c4\u03bf \u03b4\u03c9\u03bc\u03ac\u03c4\u03b9\u03bf \u03b2\u03c1\u03b9\u03c3\u03ba\u03cc\u03c4\u03b1\u03bd \u03c3\u03ba\u03c5\u03bb",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|74|64",
+   "corpus": "Dem_Greek",
+   "session": "74",
+   "utt_index": 64,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "74",
+   "audio_task": "",
+   "start_ms": 308190,
+   "end_ms": 309710,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 62,
+     "text": "\u03b1\u03c5\u03c4\u03cc",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 63,
+     "text": "\u03a0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b4\u03b5\u03bd\u03c4\u03ac\u03c1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 64,
+     "text": "\u0391\u03c5\u03c4\u03cc \u03bf \u03a1\u03b9\u03bd\u03cc\u03ba\u03b1\u03b9\u03bf\u03c2",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 65,
+     "text": "\u03ba\u03b1\u03b9 \u03b1\u03c5\u03c4\u03cc \u03b7 \u039a\u03b1\u03bc\u03ae\u03c1\u03b9\u03b1",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|83|14",
+   "corpus": "Dem_Greek",
+   "session": "83",
+   "utt_index": 14,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "83",
+   "audio_task": "",
+   "start_ms": 92040,
+   "end_ms": 93860,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 12,
+     "text": "\u03b4\u03ad\u03ba\u03b1 \u03cc\u03c0\u03c9\u03c2 \u03ba\u03ac\u03bd\u03b1\u03bc\u03b5 \u03ba\u03b1\u03b9 \u03c0\u03c1\u03b9\u03bd",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 13,
+     "text": "\u0388\u03c4\u03c3\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 14,
+     "text": "\u038c\u03c4\u03b1\u03bd \u03bc\u03b5\u03c4\u03c1\u03ae\u03c3\u03b5\u03c4\u03b5 \u03ba\u03b1\u03b9 \u03c0\u03c1\u03b9\u03bd \u03b1\u03c0\u03cc \u03c4\u03bf \u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 15,
+     "text": "\u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1 \u03bc\u03ad\u03c7\u03c1\u03b9 \u03c4\u03bf \u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03bf\u03ba\u03c4\u03ce \u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1 \u03b1\u03bd\u03ac \u03b4\u03ad\u03ba\u03b1 \u03cc\u03bc\u03c9\u03c2",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|63|139",
+   "corpus": "Dem_Greek",
+   "session": "63",
+   "utt_index": 139,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "63",
+   "audio_task": "",
+   "start_ms": 703380,
+   "end_ms": 705580,
+   "context": [
+    {
+     "tier": "PAR3",
+     "utt_index": 137,
+     "text": "\u039a\u03b1\u03b9 \u03b4\u03b5\u03bd \u03be\u03ad\u03c1\u03c9 \u03b1\u03bd \u03c4\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 138,
+     "text": "\u03a4\u03ce\u03c1\u03b1 \u03cc\u03bc\u03c9\u03c2 \u03bc\u03b5 \u03c4\u03bf\u03c5\u03c2 \u03c5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ad\u03c2 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03c4\u03bf\u03c5 \u03bc\u03b9\u03bb\u03ac\u03c4\u03b5",
+     "target": false
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 139,
+     "text": "\u03a4\u03ce\u03c1\u03b1 \u03bc\u03b5 \u03c4\u03bf\u03c5\u03c2 \u03c5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ad\u03c2 \u03cc\u03c4\u03b9",
+     "target": true
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 140,
+     "text": "\u0395\u03b4\u03ce \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u0391\u03bc\u03b5\u03c1\u03b9\u03ba\u03ae \u03b5\u03af\u03bd\u03b1\u03b9 \u03ba\u03ac\u03c4\u03b9 \u03b6\u03b5\u03c5\u03b3\u03ac\u03c1\u03b9\u03b1 \u03b3\u03bd\u03ce\u03c3\u03c4\u03b1 \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b9\u03c2 \u03b3\u03c5\u03bd\u03b1\u03af\u03ba\u03b5\u03c2 \u03bc\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03b4\u03b9\u03ba\u03ac \u03bc\u03bf\u03c5 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u0391\u03bc\u03b5\u03c1\u03b9\u03ba\u03ae \u03b3\u03b9\u03b1\u03c4\u03af \u03c4\u03bf\u03c5\u03c2 \u03c3\u03c5\u03bd\u03b1\u03bd\u03c4\u03bf\u03cd\u03bc\u03b5 \u03c4\u03bf\u03c5\u03c2 \u03b2\u03bb\u03ad\u03c0\u03bf\u03c5\u03bc\u03b5 \u03b4\u03b7\u03bb\u03b1\u03b4\u03ae \u03cc\u03c7\u03b9 \u03bd\u03bf\u03bc\u03af\u03b6\u03bf\u03c5\u03bc\u03b5 \u03c4\u03bf\u03c5\u03c2 \u03b2\u03bb\u03ad\u03c0\u03bf\u03c5\u03bc\u03b5 \u03ba\u03b1\u03b9",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|74|84",
+   "corpus": "Dem_Greek",
+   "session": "74",
+   "utt_index": 84,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "74",
+   "audio_task": "",
+   "start_ms": 367930,
+   "end_ms": 369510,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 82,
+     "text": "\u039a\u03bf\u03c7\u03cd\u03bb\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 83,
+     "text": "\u03bc\u03b1\u03c3\u03c4 \u03a9\u03c1\u03b1\u03af\u03b1 \u03c9\u03c1\u03b1\u03af\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 84,
+     "text": "\u039c\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03bc\u03bf\u03c5 \u03c0\u03b5\u03af\u03c4\u03b5 \u03c4\u03ce\u03c1\u03b1",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 85,
+     "text": "\u03bc\u03ad\u03c3\u03b1 \u03c3\u03b5 \u03ad\u03bd\u03b1 \u03bb\u03b5\u03c0\u03c4\u03cc",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|673|435",
+   "corpus": "Dem_Greek",
+   "session": "673",
+   "utt_index": 435,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "673",
+   "audio_task": "",
+   "start_ms": 1313490,
+   "end_ms": 1315430,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 433,
+     "text": "\u0395\u03af\u03c7\u03b1\u03bc\u03b5 \u03bc\u03b9\u03b1 \u03b5\u03b9\u03ba\u03cc\u03bd\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 434,
+     "text": "\u03cc\u03c7\u03b9 \u03b7 \u0391\u03bb\u03b5\u03c0\u03bf\u03cd \u03ba\u03b1\u03b9 \u03c4\u03bf",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 435,
+     "text": "\u0397 \u0391\u03bb\u03b5\u03c0\u03bf\u03cd \u03ba\u03b1\u03b9 \u03c4\u03bf",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 436,
+     "text": "\u03a0\u03bf\u03b9\u03bf \u03ae\u03c4\u03b1\u03bd \u03c4\u03bf \u03ac\u03bb\u03bb\u03bf",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|68|18",
+   "corpus": "Dem_Greek",
+   "session": "68",
+   "utt_index": 18,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "68",
+   "audio_task": "",
+   "start_ms": 65620,
+   "end_ms": 66860,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 16,
+     "text": "\u039c\u03bf\u03c5",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 17,
+     "text": "\u039b\u03bf\u03b9\u03c0\u03cc\u03bd \u03b8\u03b1 \u03c3\u03c0\u03b5\u03c1\u03ac\u03c3\u03c9 \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf \u03bb\u03bf\u03c5\u03bb\u03bf\u03cd\u03b4\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 18,
+     "text": "\u0395\u03af\u03bd\u03b1\u03b9 \u03c3\u03b1\u03bd",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 19,
+     "text": "\u03b1 \u03b4\u03b5\u03bd \u03b4\u03b5\u03bd \u03bc\u03ac\u03c7\u03b9",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|40|27",
+   "corpus": "Dem_Greek",
+   "session": "40",
+   "utt_index": 27,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "40",
+   "audio_task": "",
+   "start_ms": 88320,
+   "end_ms": 89960,
+   "context": [
+    {
+     "tier": "PAR3",
+     "utt_index": 25,
+     "text": "\u0391\u03bd \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 26,
+     "text": "\u0392\u03ac\u03bb\u03c4\u03b5 \u03c3\u03c4\u03bf \u03ba\u03bf\u03b9\u03bb\u03ac\u03bd\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 27,
+     "text": "\u03a9\u03c1\u03b1\u03af\u03b1 \u03b1\u03c0\u03cc \u03c4\u03bf \u03c4\u03c1\u03b9\u03ac\u03bd\u03c4\u03b1",
+     "target": true
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 28,
+     "text": "\u0391\u03c0\u03cc \u03c4\u03bf \u03c4\u03c1\u03b9\u03ac\u03bd\u03c4\u03b1",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|63|117",
+   "corpus": "Dem_Greek",
+   "session": "63",
+   "utt_index": 117,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "63",
+   "audio_task": "",
+   "start_ms": 630700,
+   "end_ms": 634000,
+   "context": [
+    {
+     "tier": "PAR3",
+     "utt_index": 115,
+     "text": "\u03ba\u03b1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 116,
+     "text": "\u03a4\u03ce\u03c1\u03b1 \u03c4\u03b9 \u03b4\u03bf\u03c5\u03bb\u03b5\u03b9\u03ac \u03ba\u03ac\u03bd\u03b5\u03b9 \u03c3\u03c4\u03b7\u03bd \u0391\u03b3\u03b3\u03bb\u03af\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 117,
+     "text": "\u0391\u03c5\u03c4\u03cc\u03c2 \u03b5\u03af\u03c7\u03b5 \u03c0\u03ac\u03b5\u03b9 \u03c3\u03c4\u03bf",
+     "target": true
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 118,
+     "text": "\u03a0\u03b1\u03bd\u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b9\u03bf \u03ad\u03ba\u03b1\u03bd\u03b5 \u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1 \u03c0\u03ad\u03bd\u03c4\u03b5 \u03c7\u03c1\u03cc\u03bd\u03b9\u03b1 \u03b5\u03ba\u03b5\u03af \u03c3\u03b5 \u03ad\u03bd\u03b1 \u03b5\u03b9\u03b4\u03b9\u03ba\u03cc \u03c0\u03b1\u03bd\u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b9\u03bf \u03ba\u03b1\u03b9 \u03ad\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9 \u03cc\u03bc\u03c9\u03c2 \u03c3\u03b5 \u03b5\u03c5\u03c1\u03c9\u03c0\u03b1\u03ca\u03ba\u03ae \u03b4\u03bf\u03c5\u03bb\u03b5\u03b9\u03ac \u03ba\u03b1\u03b9 \u03ad\u03c6\u03c5\u03b3\u03b5 \u03c4\u03ce\u03c1\u03b1 \u03b4\u03bf\u03c5\u03bb\u03b5\u03cd\u03b5\u03b9 \u03b5\u03ba\u03b5\u03af \u03c0\u03ad\u03c1\u03b1",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|40|16",
+   "corpus": "Dem_Greek",
+   "session": "40",
+   "utt_index": 16,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "40",
+   "audio_task": "",
+   "start_ms": 54160,
+   "end_ms": 55380,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 14,
+     "text": "\u039d\u03b1\u03b9 \u03bd\u03b1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 15,
+     "text": "\u03a4\u03ad\u03bb\u03b5\u03b9\u03b1 \u03c9\u03c1\u03b1\u03af\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 16,
+     "text": "\u03a9\u03c1\u03b1\u03af\u03b1 \u03a9\u03c1\u03b1\u03af\u03b1 \u039b\u03bf\u03b9\u03c0\u03cc\u03bd",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 17,
+     "text": "\u03a4\u03ce\u03c1\u03b1 \u03b8\u03ad\u03bb\u03c9",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|43|169",
+   "corpus": "Dem_Greek",
+   "session": "43",
+   "utt_index": 169,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "43",
+   "audio_task": "",
+   "start_ms": 681440,
+   "end_ms": 684220,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 167,
+     "text": "\u0392\u03bb\u03ad\u03c0\u03c9 \u03ad\u03bd\u03b1 \u03c3\u03ba\u03c5\u03bb\u03af \u03b5\u03b4\u03ce",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 168,
+     "text": "\u03b5\u03af\u03bd\u03b1\u03b9 \u03c3\u03ba\u03c5\u03bb\u03af \u03b1\u03c5\u03c4\u03cc",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 169,
+     "text": "\u0391\u03c5\u03c4\u03cc \u03b5\u03af\u03bd\u03b1\u03b9 \u03ad\u03bd\u03b1 \u03ac\u03b3\u03c1\u03b9\u03bf",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 170,
+     "text": "\u0391\u03c5\u03c4\u03cc \u03c0\u03ac\u03b5\u03b9 \u03b1\u03c0\u03cc \u03b5\u03b4\u03ce \u03bc\u03ad\u03c7\u03c1\u03b9 \u03b5\u03ba\u03b5\u03af",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|73|2",
+   "corpus": "Dem_Greek",
+   "session": "73",
+   "utt_index": 2,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "73",
+   "audio_task": "",
+   "start_ms": 77090,
+   "end_ms": 81230,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 0,
+     "text": "\u0398\u03b1 \u03c3\u03b1\u03c2 \u03c7\u03b1\u03b9\u03c1\u03b5\u03c4\u03ae\u03c3\u03c9 \u03bb\u03af\u03b3\u03bf \u03b1\u03c5\u03c4\u03cc\u03bd \u03c4\u03bf\u03bd \u03b1\u03b9\u03c3\u03b8\u03b7\u03c4\u03ae\u03c1\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c3\u03b1\u03bd \u03c1\u03cc\u03b9 \u03bc\u03b5\u03c4\u03ac \u03b7 \u03b1\u03c0\u03bb\u03ac \u03ba\u03af\u03bd\u03b7\u03c3\u03ae \u03c3\u03b1\u03c2 \u03bb\u03ad\u03b3\u03b5\u03b9\u03c2 \u03c3\u03c4\u03bf\u03bd \u03c5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ae \u03c0\u03bf\u03c5 \u03b2\u03c1\u03af\u03c3\u03ba\u03b5\u03c3\u03c4\u03b5 \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03af\u03c0\u03bf\u03c4\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 1,
+     "text": "\u03a9\u03c1\u03b1\u03af\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 2,
+     "text": "\u039b\u03bf\u03b9\u03c0\u03cc\u03bd \u03b8\u03b1 \u03ae\u03b8\u03b5\u03bb\u03b1 \u03bd\u03b1 \u03ba\u03ac\u03bd\u03bf\u03c5\u03bc\u03b5 \u03b1\u03c1\u03c7\u03b9\u03ba\u03ac \u03b1\u03c5\u03c4\u03cc \u03bc\u03b5 \u03c4\u03bf",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 3,
+     "text": "\u03b8\u03b1 \u03c3\u03c4\u03b1\u03b8\u03b5\u03af\u03c4\u03b5 \u03b5\u03b4\u03ce \u03cc\u03c4\u03b1\u03bd \u03c3\u03b1\u03c2 \u03c0\u03c9",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|673|345",
+   "corpus": "Dem_Greek",
+   "session": "673",
+   "utt_index": 345,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "673",
+   "audio_task": "",
+   "start_ms": 1061830,
+   "end_ms": 1062590,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 343,
+     "text": "\u0392\u03bf\u03c5\u03c1\u03bf\u03c5\u03bd\u03ac\u03ba\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 344,
+     "text": "\u0393\u03ac\u03b9\u03b4\u03b1\u03c1\u03bf\u03c2",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 345,
+     "text": "\u0393\u03b1",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 346,
+     "text": "\u038c\u03c7\u03b9 \u03bb\u03bf\u03c5\u03bb\u03bf\u03cd\u03b4\u03b9\u03b1",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|711|311",
+   "corpus": "Dem_Greek",
+   "session": "711",
+   "utt_index": 311,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "711",
+   "audio_task": "",
+   "start_ms": 1182700,
+   "end_ms": 1189520,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 309,
+     "text": "\u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1 \u03ad\u03bd\u03b1 \u03ad\u03bd\u03b1 \u03bc\u03ad\u03c7\u03c1\u03b9 \u03c4\u03bf \u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03bf\u03b3\u03b4\u03cc\u03bd\u03c4\u03b1 \u03c0\u03ad\u03bd\u03c4\u03b5",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 310,
+     "text": "\u03a0\u03ac\u03bc\u03b5",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 311,
+     "text": "\u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1 \u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03c4\u03c1\u03af\u03b1 \u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03b4\u03cd\u03bf \u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03ad\u03bd\u03b1 \u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 312,
+     "text": "\u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03b5\u03bd\u03b5\u03bd\u03ae\u03bd\u03c4\u03b1 \u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03bf\u03b3\u03b4\u03cc\u03bd\u03c4\u03b1 \u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03b5\u03b2\u03b4\u03bf\u03bc\u03ae\u03bd\u03c4\u03b1 \u03bc\u03ad\u03c7\u03c1\u03b9 \u03c0\u03cc\u03c3\u03bf \u03b5\u03af\u03c0\u03b1\u03c4\u03b5",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|716|136",
+   "corpus": "Dem_Greek",
+   "session": "716",
+   "utt_index": 136,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "716",
+   "audio_task": "",
+   "start_ms": 490660,
+   "end_ms": 494640,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 134,
+     "text": "\u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u03ae\u03bb\u03b9\u03bf \u03be\u03b5\u03be \u03c0\u03c1\u03cc\u03c3\u03c6\u03b1\u03c4\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 135,
+     "text": "\u0388\u03c7\u03b5\u03b9 \u0393\u03b9\u03b1 \u03c0\u03b5\u03af\u03c4\u03b5 \u03c4\u03bf",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 136,
+     "text": "\u0386\u03c3\u03c0\u03c1\u03b7 \u03c0\u03ad\u03c4\u03c1\u03b1 \u03be\u03ad\u03be \u03b1\u03c3\u03c0\u03c1\u03ae",
+     "target": true
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 137,
+     "text": "\u039e\u03ad\u03c1\u03b5\u03b9\u03c2 \u03be\u03ad\u03c1\u03b5\u03b9\u03c2 \u03bd\u03b1 \u03bc\u03c0\u03bf\u03c1\u03ce \u03bd\u03b1 \u03c4\u03bf \u03c0\u03c9 \u03be\u03ad\u03c1\u03b5\u03b9\u03c2 \u03be\u03ad\u03c1\u03b5\u03b9\u03c2 \u03ba\u03b1\u03b9 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u03ae\u03bb\u03b9\u03bf \u03ba\u03b1\u03b9 \u03bf \u03be\u03b1\u03c3\u03c4\u03c1\u03cc\u03c4\u03b7\u03c1\u03b1\u03c2",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|699|133",
+   "corpus": "Dem_Greek",
+   "session": "699",
+   "utt_index": 133,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "699",
+   "audio_task": "",
+   "start_ms": 486570,
+   "end_ms": 486830,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 131,
+     "text": "\u03a0\u03b5\u03af\u03c4\u03b5 \u03bc\u03bf\u03c5 \u03c4\u03b9 \u03b2\u03bb\u03ad\u03c0\u03b5\u03c4\u03b5",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 132,
+     "text": "\u0395\u03af\u03bd\u03b1\u03b9 \u03c3\u03b1\u03bd \u03c4\u03bf \u039b\u03b5\u03bf\u03bd\u03c4\u03ac\u03c1\u03b9 \u03b1\u03b4\u03b5\u03c1\u03c6\u03b9\u03ac",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 133,
+     "text": "\u0395\u03af\u03bd\u03b1\u03b9",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 134,
+     "text": "\u03a4\u03bf \u03b2\u03bb\u03ad\u03c0\u03bf\u03c5\u03bc\u03b5 \u03c4\u03ce\u03c1\u03b1",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|716|124",
+   "corpus": "Dem_Greek",
+   "session": "716",
+   "utt_index": 124,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "716",
+   "audio_task": "",
+   "start_ms": 449340,
+   "end_ms": 454900,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 122,
+     "text": "\u0394\u03b5\u03bd \u03c4\u03bf",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 123,
+     "text": "\u03a3\u03c5\u03b3\u03ba\u03c1\u03b1\u03c4\u03ae\u03c3\u03b1\u03bc\u03b5",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 124,
+     "text": "\u0394\u03b5\u03bd \u03c4\u03bf \u03c3\u03c5\u03b3\u03ba\u03c1\u03ac\u03c4\u03b7\u03c3\u03b5 \u03b3\u03b9\u03b1\u03c4\u03af \u03b4\u03b5\u03bd \u03ba\u03b1\u03c4\u03ac\u03bb\u03b1\u03b2\u03b1 \u03cc\u03c4\u03b9 \u03c0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03b1\u03c5\u03c4\u03cc \u03c0\u03bf\u03c5 \u03bb\u03b5\u03c2",
+     "target": true
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 125,
+     "text": "\u039d\u03b1\u03b9",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|720|121",
+   "corpus": "Dem_Greek",
+   "session": "720",
+   "utt_index": 121,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "720",
+   "audio_task": "",
+   "start_ms": 422160,
+   "end_ms": 425220,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 119,
+     "text": "\u039b\u03bf\u03b9\u03c0\u03cc\u03bd",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 120,
+     "text": "\u0391\u03c5\u03c4\u03ac \u03b5\u03b4\u03ce \u03c4\u03b1 \u03b6\u03ce\u03b1 \u03c0\u03bf\u03b9\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 121,
+     "text": "\u0388\u03c7\u03b5\u03b9 \u03c4\u03bf \u03bb\u03b9\u03bf\u03bd\u03c4\u03ac\u03c1\u03b9 \u03c4\u03bf \u03c1\u03b9\u03bb\u03bf\u03ba\u03ad\u03c6\u03b1\u03c1\u03bf \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bd",
+     "target": true
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 122,
+     "text": "\u03ba\u03b1\u03bc\u03ae\u03bb\u03b1",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|720|134",
+   "corpus": "Dem_Greek",
+   "session": "720",
+   "utt_index": 134,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "720",
+   "audio_task": "",
+   "start_ms": 464830,
+   "end_ms": 471630,
+   "context": [
+    {
+     "tier": "PAR3",
+     "utt_index": 132,
+     "text": "\u039a\u03ac\u03bd\u03bf\u03c5\u03bd\u03b5 \u0392\u03c1\u03af\u03c3\u03ba\u03bf\u03c5\u03bd\u03b5 \u03c3\u03b5",
+     "target": false
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 133,
+     "text": "\u038c\u03c4\u03b9 \u03b2\u03bb\u03ad\u03c0\u03c9 \u03c4\u03bf \u03bb\u03b9\u03bf\u03bd\u03c4\u03ac\u03c1\u03b9 \u03b5\u03bd\u03c4\u03ac\u03be\u03b5\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 134,
+     "text": "\u038c\u03c4\u03b9 \u03b1\u03c5\u03c4\u03cc \u03b5\u03af\u03bd\u03b1\u03b9 \u03ad\u03bd\u03b1\u03bd \u03c0\u03b5\u03c1\u03b4\u03b5\u03bc\u03ad\u03bd\u03bf \u03c4\u03bf \u03bf\u03c0\u03bf\u03af\u03bf \u03b5\u03af\u03bd\u03b1\u03b9",
+     "target": true
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 135,
+     "text": "\u03c4\u03bf \u03bf\u03c0\u03bf\u03af\u03bf \u03c0\u03bf\u03bb\u03bb\u03ac \u03c0\u03c1\u03ac\u03b3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b1 \u03bf\u03c0\u03bf\u03af\u03b1 \u03b5\u03b3\u03ce \u03b4\u03b5\u03bd \u03bc\u03c0\u03bf\u03c1\u03ce \u03bd\u03b1",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|686|147",
+   "corpus": "Dem_Greek",
+   "session": "686",
+   "utt_index": 147,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "686",
+   "audio_task": "",
+   "start_ms": 464010,
+   "end_ms": 465690,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 145,
+     "text": "\u03a4\u03bf",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 146,
+     "text": "\u039c\u03cc\u03bd\u03bf \u03c0\u03bf\u03c5 \u03be\u03ad\u03c1\u03c9 \u03b5\u03af\u03bd\u03b1\u03b9 \u03cc\u03c4\u03b9 \u03bf \u0393\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03c5\u03c4\u03cc\u03c2 \u03c0\u03bf\u03c5 \u03b8\u03b1 \u03b2\u03bf\u03b7\u03b8\u03ae\u03c3\u03b5\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 147,
+     "text": "\u03a4\u03bf \u03bc\u03cc\u03bd\u03bf \u03c0\u03bf\u03c5 \u03be\u03ad\u03c1\u03c9",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 148,
+     "text": "\u039f",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|40|17",
+   "corpus": "Dem_Greek",
+   "session": "40",
+   "utt_index": 17,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "40",
+   "audio_task": "",
+   "start_ms": 57320,
+   "end_ms": 59520,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 15,
+     "text": "\u03a4\u03ad\u03bb\u03b5\u03b9\u03b1 \u03c9\u03c1\u03b1\u03af\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 16,
+     "text": "\u03a9\u03c1\u03b1\u03af\u03b1 \u03a9\u03c1\u03b1\u03af\u03b1 \u039b\u03bf\u03b9\u03c0\u03cc\u03bd",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 17,
+     "text": "\u03a4\u03ce\u03c1\u03b1 \u03b8\u03ad\u03bb\u03c9",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 18,
+     "text": "\u0391\u03c5\u03c4\u03cc \u03c4\u03ce\u03c1\u03b1 \u03bc\u03bf\u03c5 \u03b5\u03af\u03c0\u03b1\u03c4\u03b5 \u03b4\u03b5\u03bd \u03c4\u03bf \u03c0\u03ac\u03c4\u03b5 \u03ba\u03b1\u03bb\u03ac \u03bc\u03b5 \u03c4\u03b7\u03bd \u03b1\u03c1\u03b9\u03b8\u03bc\u03b7\u03c4\u03b9\u03ba\u03ae",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|711|92",
+   "corpus": "Dem_Greek",
+   "session": "711",
+   "utt_index": 92,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "711",
+   "audio_task": "",
+   "start_ms": 311310,
+   "end_ms": 311790,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 90,
+     "text": "\u039d\u03b1\u03b9 \u0391\u03bd \u03b8\u03ad\u03bb\u03b5\u03c4\u03b5 \u03bd\u03b1 \u03c3\u03b1\u03c2 \u03ad\u03c7\u03c9 \u03c5\u03c0\u03cc\u03c8\u03b7 \u03bc\u03bf\u03c5 \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03c4\u03bf \u03ba\u03b1\u03bd\u03bf\u03bd\u03af\u03c3\u03bf\u03c5\u03bc\u03b5 \u03ce\u03c3\u03c4\u03b5 \u03bd\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 91,
+     "text": "\u039c\u03b5\u03b3\u03ac\u03bb\u03b7 \u03c0\u03c1\u03bf\u03b2\u03bb\u03ae\u03bc\u03b1\u03c4\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 92,
+     "text": "\u039d\u03b1",
+     "target": true
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 93,
+     "text": "\u0394\u03b5\u03bd \u03c0\u03b9\u03cc\u03bd\u03b5\u03c3\u03c4\u03b5 \u03c0\u03ac\u03bb\u03b9 \u03c4\u03af\u03c0\u03bf\u03c4\u03b1",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|673|15",
+   "corpus": "Dem_Greek",
+   "session": "673",
+   "utt_index": 15,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "673",
+   "audio_task": "",
+   "start_ms": 62440,
+   "end_ms": 64160,
+   "context": [
+    {
+     "tier": "PAR3",
+     "utt_index": 13,
+     "text": "\u0391\u03c5\u03c4\u03cc \u03c4\u03bf \u03b2\u03c1\u03b1\u03c7\u03b9\u03bf\u03bb\u03ac\u03ba\u03b9 \u03b8\u03b1 \u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03ac\u03c8\u03b5\u03b9 \u03c4\u03b7\u03bd \u03ba\u03af\u03bd\u03b7\u03c3\u03b7 \u03b4\u03b7\u03bb\u03b1\u03b4\u03ae \u03ad\u03ba\u03b1\u03bd\u03b5 \u03b5\u03af\u03ba\u03bf\u03c3\u03b9 \u03b2\u03ae\u03bc\u03b1\u03c4\u03b1 \u03ad\u03ba\u03b1\u03bd\u03b5 \u03c0\u03b5\u03bd\u03ae\u03bd\u03c4\u03b1 \u03b2\u03ae\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03c4\u03b1\u03bb\u03ac\u03b2\u03b1\u03c4\u03b5",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 14,
+     "text": "\u039a\u03b1\u03b9 \u03c4\u03bf \u03b2\u03c1\u03b1\u03c7\u03b9\u03bf\u03bb\u03ac\u03ba\u03b9 \u03b1\u03ba\u03cc\u03bc\u03b1 \u03b3\u03c1\u03ac\u03c6\u03b5\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 15,
+     "text": "\u0391\u03c5\u03c4\u03cc \u03b3\u03c1\u03ac\u03c6\u03b5\u03b9 \u03c4\u03b1",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 16,
+     "text": "\u0392\u03ad\u03b2\u03b1\u03b9\u03b1",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|716|200",
+   "corpus": "Dem_Greek",
+   "session": "716",
+   "utt_index": 200,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "716",
+   "audio_task": "",
+   "start_ms": 801290,
+   "end_ms": 802930,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 198,
+     "text": "\u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 199,
+     "text": "\u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 200,
+     "text": "\u0393\u03b9\u03b1\u03c4\u03af \u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1",
+     "target": true
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 201,
+     "text": "\u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03b5\u03bd\u03b5\u03bd\u03ae\u03bd\u03c4\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|673|290",
+   "corpus": "Dem_Greek",
+   "session": "673",
+   "utt_index": 290,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "673",
+   "audio_task": "",
+   "start_ms": 911290,
+   "end_ms": 915210,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 288,
+     "text": "\u03c9\u03c1\u03b1\u03af\u03b1 \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 289,
+     "text": "\u03a0\u03bf\u03bb\u03cd \u03c9\u03c1\u03b1\u03af\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 290,
+     "text": "\u0392\u03ad\u03b2\u03b1\u03b9\u03b1 \u03ba\u03b1\u03b9 \u03b5\u03ba\u03b5\u03af\u03bd\u03bf \u03b5\u03ba\u03b5\u03af \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03bf \u03b3\u03bb\u03ac\u03c3\u03c4\u03c1\u03bf \u03bc\u03b5 \u03c4\u03bf",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 291,
+     "text": "\u03a4\u03b9 \u03bb\u03bf\u03c5\u03bb\u03bf\u03cd\u03bb\u03b9 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03c5\u03c4\u03cc",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|40|43",
+   "corpus": "Dem_Greek",
+   "session": "40",
+   "utt_index": 43,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "40",
+   "audio_task": "",
+   "start_ms": 111940,
+   "end_ms": 112520,
+   "context": [
+    {
+     "tier": "PAR3",
+     "utt_index": 41,
+     "text": "\u039d\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 42,
+     "text": "\u0391\u03c0\u03cc",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 43,
+     "text": "\u03a4\u03bf \u03b4\u03ad\u03ba\u03b1",
+     "target": true
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 44,
+     "text": "\u0391\u03c0\u03cc \u03c4\u03bf \u03c4\u03c1\u03b9\u03ac\u03bd\u03c4\u03b1 \u03bc\u03ad\u03c7\u03c1\u03b9 \u03c4\u03bf \u03b4\u03ad\u03ba\u03b1",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|716|103",
+   "corpus": "Dem_Greek",
+   "session": "716",
+   "utt_index": 103,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "716",
+   "audio_task": "",
+   "start_ms": 385780,
+   "end_ms": 387080,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 101,
+     "text": "\u039b\u03af\u03b3\u03bf \u03ba\u03cd\u03c1\u03b9\u03b5 \u03a6\u03b9\u03bd\u03c4\u03b1\u03bb\u03b9\u03ac",
+     "target": false
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 102,
+     "text": "\u039f",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 103,
+     "text": "\u039a\u03cd\u03c1\u03b9\u03bf\u03c2 \u03bc\u03b1\u03c2 \u03bf \u03ba\u03cd\u03c1\u03b9\u03b5",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 104,
+     "text": "\u03a0\u03ac\u03bc\u03b5",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|674|220",
+   "corpus": "Dem_Greek",
+   "session": "674",
+   "utt_index": 220,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "674",
+   "audio_task": "",
+   "start_ms": 772120,
+   "end_ms": 778260,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 218,
+     "text": "\u03a0\u03c1\u03ce\u03c4\u03b1 \u03b1\u03c0 \u03cc\u03bb\u03b1 \u03ad\u03c6\u03b1\u03b3\u03b1 \u03c4\u03bf \u03b3\u03b9\u03b1\u03bf\u03cd\u03c1\u03c4\u03b9 \u03bc\u03bf\u03c5 \u03bc\u03b1\u03b6\u03af \u03bc\u03b5 \u03c4\u03bf",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 219,
+     "text": "\u03ba\u03ac\u03c4\u03b9 \u03c0\u03bf\u03c5 \u03b2\u03ac\u03b6\u03c9 \u03bc\u03ad\u03c3\u03b1 \u03c4\u03bf\u03c5 \u03b4\u03b5\u03bd \u03b8\u03c5\u03bc\u03ac\u03bc\u03b1\u03b9 \u03bd\u03b1 \u03c4\u03bf \u03c0\u03c9",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 220,
+     "text": "\u039c\u03c0\u03b1\u03c2 \u03c0\u03b5\u03c1\u03b9\u03c0\u03c4\u03ce\u03c3\u03b5\u03b9 \u03c3\u03c4\u03b7 \u03c3\u03c5\u03bd\u03ad\u03c7\u03b5\u03b9\u03b1 \u03ad\u03c6\u03b1\u03b3\u03b1 \u03c4\u03bf \u03c1\u03b9\u03b6\u03bf\u03b3\u03ba\u03b1\u03bd\u03cc \u03bc\u03bf\u03c5 \u03c0\u03bf\u03c5",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 221,
+     "text": "\u03b5\u03af\u03bc\u03b1\u03c3\u03c4\u03b5 \u03bc\u03b9\u03b1 \u03b1\u03bd\u03c4\u03b9\u03b1\u03b3\u03bd\u03ae \u03b3\u03c5\u03bd\u03b1\u03af\u03ba\u03b1 \u03b3\u03b9\u03b1 \u03bc\u03ad\u03bd\u03b1",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|739|294",
+   "corpus": "Dem_Greek",
+   "session": "739",
+   "utt_index": 294,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "739",
+   "audio_task": "",
+   "start_ms": 1018730,
+   "end_ms": 1019250,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 292,
+     "text": "\u03a4\u03c1\u03c5\u03c0\u03b1\u03c4\u03ce \u03bc\u03ac\u03bb\u03bb\u03bf\u03bd \u03bd\u03b1 \u03c0\u03c9 \u03c4\u03b7 \u03c3\u03c9\u03c3\u03c4\u03ae \u03bb\u03ad\u03be\u03b7",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 293,
+     "text": "\u039a\u03b1\u03b9 \u03b1\u03c5\u03c4\u03bf\u03af \u03bd\u03b1 \u03c3\u03c4\u03ad\u03ba\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b5\u03ba\u03b5\u03af",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 294,
+     "text": "\u0395\u03b4\u03ce",
+     "target": true
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 295,
+     "text": "\u03bc\u03bf\u03c5 \u03bc\u03c5\u03c1\u03af\u03b6\u03b5\u03b9",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|74|86",
+   "corpus": "Dem_Greek",
+   "session": "74",
+   "utt_index": 86,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "74",
+   "audio_task": "",
+   "start_ms": 370630,
+   "end_ms": 373230,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 84,
+     "text": "\u039c\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03bc\u03bf\u03c5 \u03c0\u03b5\u03af\u03c4\u03b5 \u03c4\u03ce\u03c1\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 85,
+     "text": "\u03bc\u03ad\u03c3\u03b1 \u03c3\u03b5 \u03ad\u03bd\u03b1 \u03bb\u03b5\u03c0\u03c4\u03cc",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 86,
+     "text": "\u03cc\u03c3\u03bf \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b5\u03c2 \u03bb\u03ad\u03be\u03b5\u03b9\u03c2 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 87,
+     "text": "\u03c0\u03bf\u03c5 \u03bd\u03b1 \u03b1\u03c1\u03c7\u03af\u03b6\u03bf\u03c5\u03bd \u03b1\u03c0\u03cc \u03c4\u03bf \u03b3\u03c1\u03ac\u03bc\u03bc\u03b1 \u03a6",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|74|11",
+   "corpus": "Dem_Greek",
+   "session": "74",
+   "utt_index": 11,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "74",
+   "audio_task": "",
+   "start_ms": 122830,
+   "end_ms": 125070,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 9,
+     "text": "\u039d\u03b1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 10,
+     "text": "\u039d\u03b1\u03b9 \u03c9\u03c1\u03b1\u03af\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 11,
+     "text": "\u039b\u03bf\u03b9\u03c0\u03cc\u03bd \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03c4\u03ce\u03c1\u03b1",
+     "target": true
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 12,
+     "text": "\u039d\u03b1\u03b9",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|711|144",
+   "corpus": "Dem_Greek",
+   "session": "711",
+   "utt_index": 144,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "711",
+   "audio_task": "",
+   "start_ms": 428810,
+   "end_ms": 432370,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 142,
+     "text": "\u0394\u03b7\u03bb\u03b1\u03b4\u03ae \u03c4\u03b7\u03c2 \u03b4\u03b9\u03ba\u03ae\u03c2 \u03c3\u03b1\u03c2 \u03ac\u03c0\u03bf\u03c8\u03b7\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03c3\u03c5\u03c3\u03c4\u03ae\u03bc\u03b1\u03c4\u03bf\u03c2",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 143,
+     "text": "\u0391\u03c5\u03c4\u03cc \u03b5\u03bc\u03b5\u03af\u03c2 \u03b8\u03ad\u03bb\u03bf\u03c5\u03bc\u03b5 \u03bd\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 144,
+     "text": "\u03a5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03c0\u03b5\u03c1\u03af\u03c0\u03c4\u03c9\u03c3\u03b7 \u03bd\u03b1",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 145,
+     "text": "\u0397 \u03bb\u03bf\u03b3\u03b9\u03ba\u03ae \u03bc\u03bf\u03c5 \u03b5\u03af\u03bd\u03b1\u03b9 \u03be\u03b5\u03c1\u03ac",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|89|56",
+   "corpus": "Dem_Greek",
+   "session": "89",
+   "utt_index": 56,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "89",
+   "audio_task": "",
+   "start_ms": 194450,
+   "end_ms": 201310,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 54,
+     "text": "\u03a0\u03bf\u03bb\u03cd",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 55,
+     "text": "\u03a9\u03c1\u03b1\u03af\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 56,
+     "text": "\u039a\u03b1\u03b9 \u03c4\u03ce\u03c1\u03b1 \u03b8\u03ad\u03bb\u03c9 \u03bd\u03b1 \u03bc\u03bf\u03c5 \u03c0\u03b5\u03af\u03c4\u03b5 \u03c3\u03b5 \u03ad\u03bd\u03b1 \u03bb\u03b5\u03c0\u03c4\u03cc \u03cc\u03c3\u03b5\u03c2 \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b5\u03c2 \u03bb\u03ad\u03be\u03b5\u03b9\u03c2 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03c0\u03bf\u03c5 \u03bd\u03b1 \u03b1\u03c1\u03c7\u03af\u03c3\u03bf\u03c5\u03bd",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 57,
+     "text": "\u03b3\u03c1\u03ac\u03bc\u03bc\u03b1",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|686|188",
+   "corpus": "Dem_Greek",
+   "session": "686",
+   "utt_index": 188,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "686",
+   "audio_task": "",
+   "start_ms": 592420,
+   "end_ms": 593700,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 186,
+     "text": "\u03a3\u03b1\u03c2 \u03b4\u03ce\u03c3\u03c9 \u03ad\u03bd\u03b1 \u03bb\u03b5\u03c0\u03c4\u03cc \u03b8\u03ad\u03bb\u03c9 \u03bc\u03ad\u03c3\u03b1 \u03c3\u03b5 \u03ad\u03bd\u03b1 \u03bb\u03b5\u03c0\u03c4\u03cc \u03bd\u03b1 \u03bc\u03bf\u03c5 \u03c0\u03b5\u03af\u03c4\u03b5 \u03cc\u03c3\u03bf \u03c4\u03bf \u03b4\u03c5\u03bd\u03b1\u03c4\u03cc\u03bd \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b5\u03c2 \u03bb\u03ad\u03be\u03b5\u03b9\u03c2 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03c0\u03bf\u03c5 \u03bd\u03b1 \u03b1\u03c1\u03c7\u03af\u03c3\u03bf\u03c5\u03bd \u03b1\u03c0\u03cc \u03c4\u03bf \u03b3\u03c1\u03ac\u03bc\u03bc\u03b1 \u03c3",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 187,
+     "text": "\u03a3",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 188,
+     "text": "\u0394\u03b5\u03bd \u03b8\u03ad\u03bb\u03c9 \u03bd\u03b1 \u03c0\u03b5\u03af\u03c4\u03b5",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 189,
+     "text": "\u03bb\u03ad\u03be\u03b5\u03b9\u03c2",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|74|74",
+   "corpus": "Dem_Greek",
+   "session": "74",
+   "utt_index": 74,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "74",
+   "audio_task": "",
+   "start_ms": 338290,
+   "end_ms": 338990,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 72,
+     "text": "\u0388\u03c7\u03b5\u03b9 \u03ad\u03bd\u03b1 \u03bb\u03b9\u03bf\u03bd\u03c4\u03ac\u03c1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 73,
+     "text": "\u03c4\u03bf \u03ba\u03b5\u03c6\u03ac\u03bb\u03b9 \u03c4\u03bf\u03c5 \u03b2\u03b1\u03c3\u03b9\u03ba\u03ac \u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 74,
+     "text": "\u03b1\u03c5\u03c4\u03cc \u03b5\u03af\u03bd\u03b1\u03b9",
+     "target": true
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 75,
+     "text": "\u03b7",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|65|110",
+   "corpus": "Dem_Greek",
+   "session": "65",
+   "utt_index": 110,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "65",
+   "audio_task": "",
+   "start_ms": 370220,
+   "end_ms": 378500,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 108,
+     "text": "\u039d\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 109,
+     "text": "\u0391\u03c1\u03c7\u03af\u03c3\u03c9 \u03c4\u03ce\u03c1\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 110,
+     "text": "\u03a6\u03c9\u03c4\u03b9\u03ac \u03c6\u03ac\u03c1\u03bc\u03b1\u03ba\u03b1 \u03ae",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 111,
+     "text": "\u03c4\u03b9",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|68|130",
+   "corpus": "Dem_Greek",
+   "session": "68",
+   "utt_index": 130,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "68",
+   "audio_task": "",
+   "start_ms": 466740,
+   "end_ms": 468480,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 128,
+     "text": "\u0391\u03bd \u03b1\u03c1\u03c7\u03af\u03c3\u03b5\u03b9\u03c2 \u03bd\u03b1 \u03be\u03b5\u03c7\u03bd\u03ac\u03c2 \u03b5\u03b9\u03b4\u03b9\u03ba\u03ac \u03bf\u03b9 \u03c5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03bc\u03bf\u03af \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03bf\u03bb\u03cd \u03b4\u03cd\u03c3\u03ba\u03bf\u03bb\u03bf",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 129,
+     "text": "\u039c\u03b5\u03c4\u03c1\u03ac\u03c9 \u03c4\u03b1 \u03bb\u03b5\u03c6\u03c4\u03ac \u03bc\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03bb\u03ad\u03c9 \u03b1 \u03c0\u03b1\u03c1\u03b1\u03c0\u03ac\u03bd\u03c9 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03b1 \u03bc\u03b5\u03c4\u03c1\u03ac \u03bc\u03bf\u03c5 \u03b2\u03b3\u03b1\u03af\u03bd\u03bf\u03c5\u03bd \u03bb\u03b5\u03b9\u03c8\u03ac",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 130,
+     "text": "\u0391\u03c5\u03c4\u03ac \u03c0\u03b1\u03b8\u03b1\u03af\u03bd\u03bf\u03c5\u03bd \u03b4\u03b7\u03bb\u03b1\u03b4\u03ae \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 131,
+     "text": "\u0392\u03ad\u03b2\u03b1\u03b9\u03b1 \u03bb\u03bf\u03b9\u03c0\u03cc\u03bd \u03b8\u03b1 \u03c3\u03b1\u03c2",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|83|54",
+   "corpus": "Dem_Greek",
+   "session": "83",
+   "utt_index": 54,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "83",
+   "audio_task": "",
+   "start_ms": 410450,
+   "end_ms": 411570,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 52,
+     "text": "\u039c\u03bf\u03c5 \u03ad\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9 \u03c3\u03c4\u03bf \u03bc\u03c5\u03b1\u03bb\u03cc",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 53,
+     "text": "\u039a\u03ac\u03c4\u03b9 \u03c0\u03bf\u03c5 \u03ad\u03c7\u03b5\u03c4\u03b5 \u03b6\u03ae\u03c3\u03b5\u03b9 \u03ba\u03b1\u03b9 \u03c3\u03b1\u03c2 \u03ad\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9 \u03c3\u03c4\u03bf \u03bc\u03c5\u03b1\u03bb\u03cc \u03ba\u03b1\u03b9 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03c5\u03c7\u03ac\u03c1\u03b9\u03c3\u03c4\u03bf",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 54,
+     "text": "\u0395\u03c5\u03c7\u03ac\u03c1\u03b9\u03c3\u03c4\u03bf \u03b5\u03af\u03bd\u03b1\u03b9",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 55,
+     "text": "\u039a\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03bc\u03ad\u03bd\u03b1 \u03ba\u03b1\u03b9 \u03ad\u03c1\u03c7\u03bf\u03bd\u03c4\u03b1\u03b9 \u03ba\u03b9\u03cc\u03bb\u03b1\u03c2",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|67|7",
+   "corpus": "Dem_Greek",
+   "session": "67",
+   "utt_index": 7,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "67",
+   "audio_task": "",
+   "start_ms": 64130,
+   "end_ms": 65170,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 5,
+     "text": "\u038c\u03c7\u03b9 \u03cc\u03c7\u03b9 \u0394\u03b5\u03bd \u03b8\u03b1 \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03c3\u03b1\u03bc\u03b5 \u03bd\u03b1 \u03b2\u03c1\u03bf\u03cd\u03bc\u03b5",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 6,
+     "text": "\u039c\u03b7 \u03c4\u03bf \u03ad\u03c7\u03bf\u03c5\u03bd\u03b5 \u03c4\u03cc\u03c3\u03bf \u03ac\u03bd\u03c4\u03c1\u03b5\u03c2 \u03bf \u0392\u03c1\u03cd\u03c3\u03c3\u03bf\u03c2",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 7,
+     "text": "\u03a4\u03b9 \u03ad\u03bb\u03b5\u03b3\u03b1",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 8,
+     "text": "\u03bd\u03b1\u03b9",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|674|104",
+   "corpus": "Dem_Greek",
+   "session": "674",
+   "utt_index": 104,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "674",
+   "audio_task": "",
+   "start_ms": 251840,
+   "end_ms": 253780,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 102,
+     "text": "\u0395\u03c3\u03ac\u03c2",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 103,
+     "text": "\u039a\u03b1\u03b9 \u03c0\u03bf\u03bb\u03cd \u03ba\u03b1\u03bb\u03ac \u03ba\u03ac\u03bd\u03bf\u03c5\u03bc\u03b5 \u03bd\u03b1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 104,
+     "text": "\u0393\u03b9\u03b1\u03c4\u03af \u03c4\u03bf \u03ba\u03c1\u03ac\u03c4\u03bf\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 105,
+     "text": "\u0395\u03bd\u03c4\u03ac\u03be\u03b5\u03b9 \u03c0\u03c1\u03bf\u03c7\u03c9\u03c1\u03ac\u03bc\u03b5",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|716|186",
+   "corpus": "Dem_Greek",
+   "session": "716",
+   "utt_index": 186,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "716",
+   "audio_task": "",
+   "start_ms": 728400,
+   "end_ms": 728680,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 184,
+     "text": "\u03a0\u03ac\u03bd\u03c4\u03c9\u03bd \u03c4\u03ce\u03c1\u03b1 \u03c3\u03c4\u03b1\u03bc\u03b1\u03c4\u03ac\u03c9 \u03c4\u03ce\u03c1\u03b1 \u03b4\u03b5\u03bd \u03be\u03ad\u03c1\u03c9",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 185,
+     "text": "\u038c\u03c7\u03b9 \u03b4\u03b5\u03bd \u03be\u03ad\u03c1\u03c9 \u03be\u03ad\u03c1\u03c9",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 186,
+     "text": "\u0391\u03bb\u03bb\u03ac",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 187,
+     "text": "\u0394\u03b5\u03bd \u03c3\u03b1\u03c2 \u03ad\u03c1\u03c7\u03bf\u03bd\u03c4\u03b1\u03b9 \u03ac\u03bb\u03bb\u03b1",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|98|104",
+   "corpus": "Dem_Greek",
+   "session": "98",
+   "utt_index": 104,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "98",
+   "audio_task": "",
+   "start_ms": 503750,
+   "end_ms": 506190,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 102,
+     "text": "\u039a\u03b1\u03b9 \u03c4\u03ce\u03c1\u03b1 \u03b8\u03ad\u03bb\u03c9 \u03bd\u03b1 \u03c0\u03b5\u03af\u03c4\u03b5 \u03ad\u03bd\u03b1 \u03b4\u03c5\u03c3\u03ac\u03c1\u03b5\u03c3\u03c4\u03bf \u03b3\u03b5\u03b3\u03bf\u03bd\u03cc\u03c2 \u03c0\u03bf\u03c5 \u03c3\u03b1\u03c2 \u03ad\u03c7\u03b5\u03b9 \u03c3\u03c5\u03bc\u03b2\u03b5\u03af",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 103,
+     "text": "\u03a4\u03bf \u03b4\u03c5\u03c3\u03ac\u03c1\u03b5\u03c3\u03c4\u03bf \u03ae\u03c4\u03b1\u03bd \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf \u03b1\u03c0\u03cc\u03c4\u03bf\u03bc\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 104,
+     "text": "\u03a0\u03bf\u03c5 \u03b4\u03b5\u03bd \u03bc\u03b1\u03c2 \u03c4\u03b1 \u03bb\u03ad\u03b3\u03b1\u03bd\u03b5 \u03c4\u03cc\u03c4\u03b5 \u03c0\u03bf\u03c5",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 105,
+     "text": "\u03a0\u03b1\u03bb\u03b9\u03ac \u03bb\u03ad\u03b3\u03b1\u03bd\u03b5 \u03ad\u03c4\u03c3\u03b9 \u03b1\u03bb\u03bb\u03ac \u03b4\u03b5\u03bd \u03bc\u03b1\u03c2 \u03c4\u03b1 \u03bb\u03ad\u03b3\u03b1\u03bd\u03b5",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|673|442",
+   "corpus": "Dem_Greek",
+   "session": "673",
+   "utt_index": 442,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "673",
+   "audio_task": "",
+   "start_ms": 1327090,
+   "end_ms": 1328250,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 440,
+     "text": "\u03a0\u03bf\u03bd\u03b7\u03c1\u03ae \u0391\u03bb\u03b5\u03c0\u03bf\u03cd",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 441,
+     "text": "\u03a9\u03c1\u03b1\u03af\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 442,
+     "text": "\u039d\u03b1\u03b9 \u03c0\u03bf\u03c5 \u03ba\u03ac\u03bd\u03b5\u03b9",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 443,
+     "text": "\u039c\u03ac\u03bb\u03bb\u03bf\u03bd \u03b7 \u03c0\u03bf\u03bd\u03b7\u03c1\u03ae \u0391\u03bb\u03b5\u03c0\u03bf\u03cd \u03bc\u03b5 \u03c4\u03bf",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|716|230",
+   "corpus": "Dem_Greek",
+   "session": "716",
+   "utt_index": 230,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "716",
+   "audio_task": "",
+   "start_ms": 882000,
+   "end_ms": 882800,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 228,
+     "text": "\u0388\u03c7\u03b5\u03b9 \u03c7\u03c9\u03c1\u03b9\u03c3\u03bc\u03cc \u03b7 \u03ba\u03cc\u03c1\u03b7 \u03bc\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03b3\u03b9 \u03b1\u03c5\u03c4\u03cc \u03b5\u03af\u03bc\u03b1\u03b9 \u03ba\u03b1\u03b9 \u03b1\u03bd\u03b1\u03c3\u03c4\u03b1\u03c4\u03c9\u03bc\u03ad\u03bd\u03b7 \u03ad\u03c4\u03c3\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 229,
+     "text": "\u0394\u03c5\u03c3\u03c4\u03c5\u03c7\u03ce\u03c2",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 230,
+     "text": "\u03a4\u03ce\u03c1\u03b1 \u03b8\u03ad\u03bb\u03c9",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 231,
+     "text": "\u039a\u03b1\u03b9 \u03c4\u03bf",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|713|13",
+   "corpus": "Dem_Greek",
+   "session": "713",
+   "utt_index": 13,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "713",
+   "audio_task": "",
+   "start_ms": 54400,
+   "end_ms": 58900,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 11,
+     "text": "\u0391\u03bb\u03bb\u03ac \u03b4\u03b5\u03bd \u03c0\u03b5\u03b9\u03c1\u03ac\u03b6\u03b5\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 12,
+     "text": "\u039b\u03bf\u03b9\u03c0\u03cc\u03bd \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf \u03b8\u03b1 \u03b1\u03c1\u03b8\u03bf\u03b4\u03bf\u03bd\u03b7\u03b8\u03b5\u03af \u03cc\u03c4\u03b1\u03bd \u03b1\u03bd\u03bf\u03af\u03b3\u03b5\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 13,
+     "text": "\u039b\u03bf\u03b9\u03c0\u03cc\u03bd \u03c4\u03ce\u03c1\u03b1 \u03c4\u03b9 \u03b8\u03b1 \u03ba\u03ac\u03bd\u03c9 \u03b8\u03ad\u03bb\u03c9 \u03bd\u03b1 \u03c3\u03c4\u03b1\u03b8\u03b5\u03af\u03c4\u03b5",
+     "target": true
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 14,
+     "text": "\u039c\u03cc\u03bb\u03b9\u03c2 \u03c3\u03b1\u03c2 \u03c0\u03c9 \u03b8\u03ad\u03bb\u03c9 \u03bd\u03b1 \u03be\u03b5\u03ba\u03b9\u03bd\u03ae\u03c3\u03b5\u03c4\u03b5 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c7\u03c9\u03c1\u03ae\u03c3\u03b5\u03c4\u03b5 \u03bc\u03ad\u03c7\u03c1\u03b9 \u03c4\u03bf\u03bd \u03c4\u03bf\u03af\u03c7\u03bf \u03bc\u03b5\u03c4\u03ac \u03bd\u03b1 \u03b3\u03c5\u03c1\u03af\u03c3\u03b5\u03c4\u03b5",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|67|162",
+   "corpus": "Dem_Greek",
+   "session": "67",
+   "utt_index": 162,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "67",
+   "audio_task": "",
+   "start_ms": 682660,
+   "end_ms": 685180,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 160,
+     "text": "\u039f \u03bc\u03b5\u03b3\u03ac\u03bb\u03bf\u03c2 \u03bc\u03bf\u03c5 \u03b3\u03b9\u03bf\u03c2 \u03c3\u03b5 \u03b1\u03bd\u03c4\u03af\u03c7\u03b7\u03bc\u03b1 \u03ad\u03c7\u03b1\u03c3\u03b5 \u03c4\u03bf \u03c7\u03ad\u03c1\u03b9 \u03c4\u03bf\u03c5",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 161,
+     "text": "\u0394\u03b7\u03bb\u03b1\u03b4\u03ae \u03ba\u03ac\u03c0\u03bf\u03c5 \u03c0\u03ae\u03b3\u03b5 \u03bc\u03b5 \u03c4\u03bf \u03b1\u03c5\u03c4\u03bf\u03ba\u03af\u03bd\u03b7\u03c4\u03bf",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 162,
+     "text": "\u03a4\u03bf \u03b1\u03c5\u03c4\u03bf\u03ba\u03af\u03bd\u03b7\u03c4\u03bf \u03c4\u03c1\u03ac\u03ba\u03b1\u03c1\u03b5 \u03c3\u03b5 \u03ad\u03bd\u03b1",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 163,
+     "text": "\u03b5\u03c0\u03af\u03c0\u03b5\u03b4\u03bf",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|62|18",
+   "corpus": "Dem_Greek",
+   "session": "62",
+   "utt_index": 18,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "62",
+   "audio_task": "",
+   "start_ms": 153990,
+   "end_ms": 155670,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 16,
+     "text": "\u03a3\u03c5\u03b3\u03b3\u03bd\u03ce\u03bc\u03b7 \u03a3\u03c5\u03b3\u03b3\u03bd\u03ce\u03bc\u03b7 \u03b3\u03b9 \u03b1\u03c5\u03c4\u03cc",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 17,
+     "text": "\u0394\u03b5\u03bd \u03c0\u03b5\u03b9\u03c1\u03ac\u03b6\u03b5\u03b9 \u03c4\u03af\u03c0\u03bf\u03c4\u03b1 \u0395\u03af\u03c3\u03c4\u03b5 \u03bf\u03b9 \u03ac\u03c4\u03bf\u03b9\u03bc\u03bf\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 18,
+     "text": "\u038c\u03c4\u03b1\u03bd \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03b4\u03b5\u03bd \u03c0\u03b5\u03b9 \u03b1\u03c5\u03c4\u03cc",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 19,
+     "text": "\u039a\u03ac\u03c0\u03bf\u03c5 \u03b4\u03b5\u03bd \u03ba\u03ac\u03bd\u03b5\u03b9 \u03b5\u03c0\u03b1\u03c6\u03ae",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|40|25",
+   "corpus": "Dem_Greek",
+   "session": "40",
+   "utt_index": 25,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "40",
+   "audio_task": "",
+   "start_ms": 84280,
+   "end_ms": 86520,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 23,
+     "text": "\u038c\u03c0\u03c9\u03c2 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 24,
+     "text": "\u03b1\u03bd\u03b7\u03c3\u03c5\u03c7\u03b5\u03af\u03c4\u03b5 \u03ba\u03b1\u03b8\u03cc\u03bb\u03bf\u03c5",
+     "target": false
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 25,
+     "text": "\u0391\u03bd \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 26,
+     "text": "\u0392\u03ac\u03bb\u03c4\u03b5 \u03c3\u03c4\u03bf \u03ba\u03bf\u03b9\u03bb\u03ac\u03bd\u03b9",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|64|77",
+   "corpus": "Dem_Greek",
+   "session": "64",
+   "utt_index": 77,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "64",
+   "audio_task": "",
+   "start_ms": 324630,
+   "end_ms": 325170,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 75,
+     "text": "\u039c\u03bf\u03c3\u03c0\u03ac\u03c1\u03b9 \u03c3\u03c4\u03bf \u03ba\u03b5\u03c6\u03ac\u03bb\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 76,
+     "text": "\u03a4\u03ce\u03c1\u03b1 \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf \u03ba\u03b5\u03c6\u03ac\u03bb\u03b9 \u03b1\u03bd\u03ae\u03ba\u03b5\u03b9 \u03c3' \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf \u03b6\u03ce\u03bf \u03cc\u03c7\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 77,
+     "text": "\u039c\u03ae\u03c0\u03c9\u03c2",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 78,
+     "text": "\u0395\u03af\u03bd\u03b1\u03b9 \u03ba\u03b1\u03b9 \u03bc\u03b1\u03c5\u03c1\u03cc \u03ac\u03c3\u03c0\u03c1\u03bf \u03b7 \u03b5\u03b9\u03ba\u03cc\u03bd\u03b1 \u03ba\u03b9 \u03b5\u03b3\u03ce \u03b4\u03c5\u03c3\u03ba\u03bf\u03bb\u03b5\u03cd\u03bf\u03bc\u03b1\u03b9",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|74|118",
+   "corpus": "Dem_Greek",
+   "session": "74",
+   "utt_index": 118,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "74",
+   "audio_task": "",
+   "start_ms": 471330,
+   "end_ms": 479520,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 116,
+     "text": "\u0395",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 117,
+     "text": "\u03a0\u03b1\u03b8\u03b1\u03af\u03bd\u03c9 \u03ba\u03b1\u03b9 \u03bc\u03c0\u03bb\u03b1\u03ba\u03ac\u03c9",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 118,
+     "text": "\u03a3\u03ba\u03cd\u03c9\u03c1\u03bf\u03c2 \u03ba\u03b1\u03bd\u03ad\u03b2\u03b1 \u03b3\u03ac\u03c4\u03b1 \u03ba\u03cc\u03c4\u03b1",
+     "target": true
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 119,
+     "text": "\u03ba\u03bf\u03c4\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|739|177",
+   "corpus": "Dem_Greek",
+   "session": "739",
+   "utt_index": 177,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "739",
+   "audio_task": "",
+   "start_ms": 518450,
+   "end_ms": 518930,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 175,
+     "text": "\u03a4\u03bf \u03b2\u03ac\u03bb\u03bf\u03c5\u03bc\u03b5 \u03c3\u03c4\u03bf \u03c0\u03b9\u03bf \u03c7\u03b1\u03bb\u03b1\u03c1\u03cc",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 176,
+     "text": "\u039d\u03b1\u03b9 \u03be\u03ad\u03c1\u03c9",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 177,
+     "text": "\u0393\u03b9\u03b1\u03c4\u03af",
+     "target": true
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 178,
+     "text": "\u039e\u03cd\u03bd\u03b5\u03b9 \u03b5\u03ba\u03b5\u03af \u03c0\u03ad\u03c1\u03b1 \u03ba\u03b9 \u03b1\u03c5\u03c4\u03cc",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|720|135",
+   "corpus": "Dem_Greek",
+   "session": "720",
+   "utt_index": 135,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "720",
+   "audio_task": "",
+   "start_ms": 471630,
+   "end_ms": 477690,
+   "context": [
+    {
+     "tier": "PAR3",
+     "utt_index": 133,
+     "text": "\u038c\u03c4\u03b9 \u03b2\u03bb\u03ad\u03c0\u03c9 \u03c4\u03bf \u03bb\u03b9\u03bf\u03bd\u03c4\u03ac\u03c1\u03b9 \u03b5\u03bd\u03c4\u03ac\u03be\u03b5\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 134,
+     "text": "\u038c\u03c4\u03b9 \u03b1\u03c5\u03c4\u03cc \u03b5\u03af\u03bd\u03b1\u03b9 \u03ad\u03bd\u03b1\u03bd \u03c0\u03b5\u03c1\u03b4\u03b5\u03bc\u03ad\u03bd\u03bf \u03c4\u03bf \u03bf\u03c0\u03bf\u03af\u03bf \u03b5\u03af\u03bd\u03b1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 135,
+     "text": "\u03c4\u03bf \u03bf\u03c0\u03bf\u03af\u03bf \u03c0\u03bf\u03bb\u03bb\u03ac \u03c0\u03c1\u03ac\u03b3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b1 \u03bf\u03c0\u03bf\u03af\u03b1 \u03b5\u03b3\u03ce \u03b4\u03b5\u03bd \u03bc\u03c0\u03bf\u03c1\u03ce \u03bd\u03b1",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 136,
+     "text": "\u03a9\u03c1\u03b1\u03af\u03b1 \u039d\u03cc\u03c3\u03c4\u03bf",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|35|82",
+   "corpus": "Dem_Greek",
+   "session": "35",
+   "utt_index": 82,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "35",
+   "audio_task": "",
+   "start_ms": 178570,
+   "end_ms": 179030,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 80,
+     "text": "\u0398\u03b1 \u03c0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03ba\u03b1\u03b8\u03af\u03c3\u03b5\u03c4\u03b5 \u03b5\u03b4\u03ce",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 81,
+     "text": "\u039a\u03b1\u03b9 \u03cc\u03c4\u03b1\u03bd \u03b8\u03b1 \u03c3\u03b1\u03c2 \u03c0\u03c9 \u03bd\u03b1 \u03be\u03b5\u03ba\u03b9\u03bd\u03ae\u03c3\u03b5\u03c4\u03b5 \u03b8\u03b1 \u03c0\u03b5\u03c1\u03c0\u03b1\u03c4\u03ae\u03c3\u03b5\u03c4\u03b5 \u03bc\u03ad\u03c7\u03c1\u03b9 \u03b5\u03ba\u03b5\u03af \u03c0\u03bf\u03c5",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 82,
+     "text": "\u0395\u03af\u03bd\u03b1\u03b9",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 83,
+     "text": "\u03a4\u03bf \u03b2\u03bb\u03ad\u03c0\u03b5\u03c4\u03b5 \u03b5\u03b4\u03ce \u03bd\u03b1 \u03c3\u03b1\u03c2 \u03b4\u03b5\u03af\u03be\u03c9",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|68|131",
+   "corpus": "Dem_Greek",
+   "session": "68",
+   "utt_index": 131,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "68",
+   "audio_task": "",
+   "start_ms": 470220,
+   "end_ms": 471440,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 129,
+     "text": "\u039c\u03b5\u03c4\u03c1\u03ac\u03c9 \u03c4\u03b1 \u03bb\u03b5\u03c6\u03c4\u03ac \u03bc\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03bb\u03ad\u03c9 \u03b1 \u03c0\u03b1\u03c1\u03b1\u03c0\u03ac\u03bd\u03c9 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03b1 \u03bc\u03b5\u03c4\u03c1\u03ac \u03bc\u03bf\u03c5 \u03b2\u03b3\u03b1\u03af\u03bd\u03bf\u03c5\u03bd \u03bb\u03b5\u03b9\u03c8\u03ac",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 130,
+     "text": "\u0391\u03c5\u03c4\u03ac \u03c0\u03b1\u03b8\u03b1\u03af\u03bd\u03bf\u03c5\u03bd \u03b4\u03b7\u03bb\u03b1\u03b4\u03ae \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 131,
+     "text": "\u0392\u03ad\u03b2\u03b1\u03b9\u03b1 \u03bb\u03bf\u03b9\u03c0\u03cc\u03bd \u03b8\u03b1 \u03c3\u03b1\u03c2",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 132,
+     "text": "\u039e\u03ad\u03c1\u03c9 \u03cc\u03c4\u03b9 \u03bc\u03b5",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|43|157",
+   "corpus": "Dem_Greek",
+   "session": "43",
+   "utt_index": 157,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "43",
+   "audio_task": "",
+   "start_ms": 641280,
+   "end_ms": 641840,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 155,
+     "text": "\u03a3\u03ba\u03c5\u03bb\u03af \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03c5\u03c4\u03cc",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 156,
+     "text": "\u03a3\u03ba\u03c5\u03bb\u03af \u03b5\u03af\u03bd\u03b1\u03b9 \u03bd\u03b1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 157,
+     "text": "\u0391\u03c5\u03c4\u03cc \u03b5\u03af\u03bd\u03b1\u03b9",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 158,
+     "text": "\u03a0\u03ce\u03c2 \u03ad\u03bb\u03b5\u03b3\u03b1\u03bd \u03b1\u03c5\u03c4\u03cc \u03c1\u03b5 \u0393\u03b5\u03c9\u03bc\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|708|142",
+   "corpus": "Dem_Greek",
+   "session": "708",
+   "utt_index": 142,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "708",
+   "audio_task": "",
+   "start_ms": 709880,
+   "end_ms": 711420,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 140,
+     "text": "\u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03ad\u03bd\u03b1 \u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1 \u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03c0\u03ad\u03bd\u03c4\u03b5 \u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03ad\u03be\u03b9 \u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03b5\u03c0\u03c4\u03ac",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 141,
+     "text": "\u0398\u03ad\u03bb\u03c9 \u03bd\u03b1 \u03bc\u03bf\u03c5 \u03c0\u03b5\u03af\u03c4\u03b5 \u03c4\u03ce\u03c1\u03b1 \u03ad\u03bd\u03b1 \u03b5\u03c5\u03c7\u03ac\u03c1\u03b9\u03c3\u03c4\u03bf \u03b3\u03b5\u03b3\u03bf\u03bd\u03cc\u03c2 \u03c0\u03bf\u03c5 \u03c3\u03b1\u03c2 \u03ad\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9 \u03c3\u03c4\u03bf \u03bc\u03c5\u03b1\u03bb\u03cc",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 142,
+     "text": "\u0395\u03c5\u03c7\u03ac\u03c1\u03b9\u03c3\u03c4\u03bf \u03b3\u03b5\u03b3\u03bf\u03bd\u03cc\u03c2",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 143,
+     "text": "\u0391\u03bd\u03b7\u03c3\u03c5\u03c7\u03b5\u03af \u03b3\u03b9\u03b1 \u03b5\u03bc\u03ad\u03bd\u03b1 \u03c0\u03ac\u03c1\u03b1 \u03c0\u03bf\u03bb\u03cd",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|62|29",
+   "corpus": "Dem_Greek",
+   "session": "62",
+   "utt_index": 29,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "62",
+   "audio_task": "",
+   "start_ms": 180280,
+   "end_ms": 183640,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 27,
+     "text": "\u03a0\u03b1\u03af\u03c1\u03bd\u03b5\u03b9 \u0395\u03af\u03bd\u03b1\u03b9 \u03c4\u03ad\u03c7\u03bd\u03b7 \u0391\u03bb\u03bb\u03ac",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 28,
+     "text": "\u0395\u03bd\u03c4\u03ac\u03be\u03b5\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 29,
+     "text": "\u0395\u03c0\u03b5\u03b9\u03b4\u03ae \u03b3\u03b9\u03b1 \u03c4\u03bf \u03c7\u03b1\u03af\u03c1\u03b9 \u03c4\u03b7\u03c2 \u03c0\u03ae\u03b3\u03b1\u03b9\u03bd\u03b5 \u03b5\u03af\u03c0\u03b1\u03bc\u03b5 \u03cc\u03bb\u03bf\u03b9 \u03bc\u03b1\u03b6\u03af \u03bb\u03ad\u03b3\u03b1\u03bc\u03b5",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 30,
+     "text": "\u03bd\u03b1\u03b9 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03ad\u03c7\u03bd\u03b7",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|716|216",
+   "corpus": "Dem_Greek",
+   "session": "716",
+   "utt_index": 216,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "716",
+   "audio_task": "",
+   "start_ms": 847120,
+   "end_ms": 851240,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 214,
+     "text": "\u039c\u03ad\u03bd\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 215,
+     "text": "\u039a\u03b1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 216,
+     "text": "\u03a3\u03c4\u03b5\u03c7\u03ce\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae \u03c3\u03c4\u03b7\u03bd \u03bf\u03b9\u03ba\u03bf\u03b3\u03ad\u03bd\u03b5\u03b9\u03b1 \u03ad\u03c7\u03bf\u03c5\u03bd \u03c0\u03bf\u03bb\u03bb\u03ac \u03b4\u03c5\u03c3\u03ac\u03c1\u03b5\u03c3\u03c4\u03b1 \u03b1\u03bb\u03bb\u03ac",
+     "target": true
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 217,
+     "text": "\u03b5\u03c5\u03b5\u03bb\u03c0\u03b9\u03c3\u03c4\u03ce \u03b4\u03b7\u03bb\u03b1\u03b4\u03ae \u03cc\u03c4\u03b9 \u03b8\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|719|47",
+   "corpus": "Dem_Greek",
+   "session": "719",
+   "utt_index": 47,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "719",
+   "audio_task": "",
+   "start_ms": 311470,
+   "end_ms": 312990,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 45,
+     "text": "\u039b\u03b9\u03bf\u03bd\u03c4\u03ac\u03c1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 46,
+     "text": "\u039a\u03b1\u03bd\u03b5\u03af\u03bb\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 47,
+     "text": "\u03a4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf \u03c4\u03bf \u03b4\u03b1\u03c3\u03ad\u03c9",
+     "target": true
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 48,
+     "text": "\u0393\u03b9\u03b1 \u03b4\u03b5\u03af\u03c4\u03b5 \u03c4\u03bf \u03bb\u03af\u03b3\u03bf",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|714|90",
+   "corpus": "Dem_Greek",
+   "session": "714",
+   "utt_index": 90,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "714",
+   "audio_task": "",
+   "start_ms": 494500,
+   "end_ms": 499040,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 88,
+     "text": "\u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1 \u03ad\u03bd\u03b1 \u03ad\u03bd\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 89,
+     "text": "\u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03c4\u03c1\u03af\u03b1 \u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03b4\u03cd\u03bf \u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03ad\u03bd\u03b1 \u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03b5\u03bd\u03b5\u03bd\u03ae\u03bd\u03c4\u03b1 \u03b5\u03bd\u03bd\u03ad\u03b1 \u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03bf\u03b3\u03b4\u03cc\u03bd\u03c4\u03b1 \u03bf\u03ba\u03c4\u03ce \u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03bf\u03b3\u03b4\u03cc\u03bd\u03c4\u03b1 \u03b5\u03c0\u03c4\u03ac \u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03bf\u03b3\u03b4\u03cc\u03bd\u03c4\u03b1 \u03ad\u03be\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 90,
+     "text": "\u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03bf\u03b3\u03b4\u03cc\u03bd\u03c4\u03b1 \u03c0\u03ad\u03bd\u03c4\u03b5 \u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03bf\u03ba\u03c4\u03ce \u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1 \u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03bf\u03b3\u03b4\u03cc\u03bd\u03c4\u03b1",
+     "target": true
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 91,
+     "text": "\u039c\u03ad\u03c7\u03c1\u03b9 \u03c4\u03bf \u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03bf\u03ba\u03c4\u03ce \u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1 \u03bd\u03bf\u03bc\u03af\u03b6\u03c9 \u03bc\u03bf\u03c5 \u03b5\u03af\u03c0\u03b1\u03c4\u03b5",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|713|2",
+   "corpus": "Dem_Greek",
+   "session": "713",
+   "utt_index": 2,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "713",
+   "audio_task": "",
+   "start_ms": 9560,
+   "end_ms": 9860,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 0,
+     "text": "\u03a0\u03ac\u03b5\u03b9 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b8\u03b1 \u03b2\u03ac\u03bb\u03bf\u03c5\u03bc\u03b5 \u03b1\u03c5\u03c4\u03cc \u03b5\u03b4\u03ce \u03c4\u03bf \u03b2\u03c1\u03bf\u03c7\u03b9\u03bf\u03bb\u03ac\u03ba\u03b9 \u03c4\u03bf \u03bf\u03c0\u03bf\u03af\u03bf \u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03ac\u03c6\u03b5\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03ba\u03b1\u03c1\u03b4\u03b9\u03b1\u03ba\u03bf\u03cd\u03c2 \u03c3\u03c6\u03b1\u03bb\u03bc\u03bf\u03cd\u03c2 \u03ba\u03b1\u03b9 \u03c0\u03cc\u03c3\u03bf \u03b2\u03ae\u03bc\u03b1\u03c4\u03b1 \u03ba\u03ac\u03bd\u03b1\u03bc\u03b5",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 1,
+     "text": "\u03a4\u03bf \u03c6\u03bf\u03c1\u03ac\u03bd\u03b5 \u03cc\u03bb\u03bf\u03b9 \u03bf\u03b9 \u03b1\u03b8\u03bb\u03b7\u03c4\u03ad\u03c2 \u03c4\u03ce\u03c1\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03c2 \u03bc\u03cc\u03b4\u03b1\u03c2 \u03b1\u03c5\u03c4\u03ac",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 2,
+     "text": "\u03a4\u03b1",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 3,
+     "text": "\u039a\u03b1\u03c4\u03b1\u03bb\u03b1\u03b2\u03b1\u03af\u03bd\u03c9 \u03b1\u03b8\u03bb\u03ae\u03c4\u03c1\u03b9\u03b1 \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|711|139",
+   "corpus": "Dem_Greek",
+   "session": "711",
+   "utt_index": 139,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "711",
+   "audio_task": "",
+   "start_ms": 416790,
+   "end_ms": 418570,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 137,
+     "text": "\u039d\u03b1\u03b9 \u03b1\u03bb\u03bb\u03ac \u03b5\u03b3\u03ce \u03ad\u03c1\u03c7\u03bf\u03bc\u03b1\u03b9 \u03c3\u03c4\u03b1 \u03c0\u03bb\u03b1\u03af\u03c3\u03b9\u03b1 \u03c4\u03bf\u03c5 \u03c0\u03c1\u03bf\u03b3\u03c1\u03ac\u03bc\u03bc\u03b1\u03c4\u03bf\u03c2 \u0394\u03b7\u03bb\u03b1\u03b4\u03ae \u03b5\u03bc\u03ad\u03bd\u03b1 \u03c4\u03bf \u03c0\u03c1\u03cc\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1 \u03bc\u03b5 \u03c0\u03bb\u03b7\u03c1\u03ce\u03bd\u03b5\u03b9 \u03b3\u03b9 \u03b1\u03c5\u03c4\u03cc",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 138,
+     "text": "\u0394\u03b5\u03c2",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 139,
+     "text": "\u038c\u03c4\u03b1\u03bd \u03be\u03ad\u03c1\u03b5\u03b9\u03c2 \u03c4\u03b7\u03bd \u03b1\u03b9\u03c4\u03af\u03b1",
+     "target": true
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 140,
+     "text": "\u039d\u03b1\u03b9 \u03b1\u03bb\u03bb\u03ac \u03c0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03c4\u03b7\u03bd \u03b5\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03bf\u03c5\u03bc\u03b5 \u03bc\u03b5 \u03c4\u03b1 \u03c3\u03c5\u03c3\u03c4\u03ae\u03bc\u03b1\u03c4\u03b1 \u03b1\u03c5\u03c4\u03ac",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|719|87",
+   "corpus": "Dem_Greek",
+   "session": "719",
+   "utt_index": 87,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "719",
+   "audio_task": "",
+   "start_ms": 652360,
+   "end_ms": 653400,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 85,
+     "text": "\u03a4\u03ce\u03c1\u03b1 \u03b8\u03ad\u03bb\u03c9 \u03bd\u03b1 \u03bc\u03bf\u03c5 \u03c0\u03b5\u03af\u03c4\u03b5 \u03ad\u03bd\u03b1 \u03b5\u03c5\u03c7\u03ac\u03c1\u03b9\u03c3\u03c4\u03bf \u03b3\u03b5\u03b3\u03bf\u03bd\u03cc\u03c2 \u03c0\u03bf\u03c5 \u03c3\u03b1\u03c2 \u03ad\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9 \u03c3\u03c4\u03bf \u03bc\u03c5\u03b1\u03bb\u03cc",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 86,
+     "text": "\u038c\u03c4\u03b9 \u03b7 \u03c3\u03cd\u03bd\u03bf\u03c1\u03b1 \u03c4\u03b5\u03bb\u03b5\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5 \u03c4\u03b7\u03bd \u03c0\u03c1\u03c9\u03c4\u03bf\u03b2\u03bf\u03c5\u03bb\u03af\u03b1 \u03c4\u03bf\u03c5 \u03b3\u03b9\u03bf\u03cd \u03bc\u03bf\u03c5 \u03b1\u03c0\u03ad\u03bd\u03b1\u03bd\u03c4\u03b9 \u03b1\u03c0\u03cc \u03be\u03cd\u03bb\u03b9\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 87,
+     "text": "\u03a9\u03c1\u03b1\u03af\u03b1 \u03a4\u03ce\u03c1\u03b1",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 88,
+     "text": "\u03a0\u03b5\u03c1\u03b9\u03bc\u03ad\u03bd\u03b1\u03bd \u03c4\u03bf \u03b3\u03b9\u03bf\u03c2 \u03bc\u03bf\u03c5 \u03bd\u03b1 \u03b5\u03c0\u03b9\u03c3\u03c4\u03c1\u03ad\u03c8\u03b5\u03b9 \u03b1\u03c0\u03cc \u03ad\u03bd\u03b1 \u03c4\u03b1\u03be\u03af\u03b4\u03b9",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|703|79",
+   "corpus": "Dem_Greek",
+   "session": "703",
+   "utt_index": 79,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "703",
+   "audio_task": "",
+   "start_ms": 858510,
+   "end_ms": 867430,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 77,
+     "text": "\u039a\u03b1\u03b9 \u03c0\u03ae\u03b3\u03b1 \u03c3\u03c4\u03bf \u03b3\u03ac\u03bc\u03bf \u03ba\u03b1\u03b9 \u03bc\u03b5 \u03c3\u03ae\u03ba\u03c9\u03c3\u03b5 \u03bd\u03b1 \u03c7\u03bf\u03c1\u03ad\u03c8\u03b5\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 78,
+     "text": "\u039b\u03ad\u03b5\u03b9 \u03cc\u03c7\u03b9 \u03b7 \u03c4\u03c3\u03af\u03b1 \u03b8\u03b1 \u03c7\u03bf\u03c1\u03ad\u03c8\u03b5\u03b9 \u03bc\u03b1\u03b6\u03af \u03bc\u03bf\u03c5",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 79,
+     "text": "\u03a4\u03ce\u03c1\u03b1 \u03c4\u03bf \u03c0\u03b1\u03b9\u03b4\u03af \u03ad\u03c4\u03c3\u03b9 \u03c3\u03c4\u03ac\u03b8\u03b7\u03ba\u03b5 \u03c3\u03b7\u03ba\u03ce\u03b8\u03b7\u03ba\u03b1 \u03c4\u03bf \u03ad\u03ba\u03b1\u03bd\u03b5 \u03c4\u03bf \u03c7\u03b1\u03c1\u03c4\u03af \u03b1\u03c5\u03c4\u03cc \u03bc\u03b5 \u03ad\u03bc\u03b5\u03b9\u03bd\u03b5 \u03ad\u03bc\u03b5\u03b9\u03bd\u03b5 \u03b4\u03b7\u03bb\u03b1\u03b4\u03ae \u03bc\u03b5 \u03c3\u03c6\u03b9\u03b3\u03bc\u03ac\u03c4\u03b9\u03c3\u03b5 \u03b1\u03bb\u03bb\u03ac",
+     "target": true
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 80,
+     "text": "\u03a4\u03bf \u03cc\u03c1\u03b8\u03b9\u03bd\u03bf \u03bc\u03bf\u03c5 \u03c0\u03b5\u03af\u03c4\u03b5 \u03c4\u03b9 \u03ba\u03ac\u03bd\u03b5\u03c4\u03b5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03c4\u03bf \u03c0\u03c1\u03c9\u03af",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|73|79",
+   "corpus": "Dem_Greek",
+   "session": "73",
+   "utt_index": 79,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "73",
+   "audio_task": "",
+   "start_ms": 543820,
+   "end_ms": 548180,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 77,
+     "text": "\u03a9\u03c1\u03b1\u03af\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 78,
+     "text": "\u03a4\u03ce\u03c1\u03b1 \u03b8\u03b1 \u03ae\u03b8\u03b5\u03bb\u03b1 \u03bd\u03b1 \u03bc\u03b5\u03c4\u03c1\u03ae\u03c3\u03b5\u03c4\u03b5 \u03b1\u03bd\u03c4\u03af\u03c3\u03c4\u03c1\u03bf\u03c6\u03b1 \u03b1\u03c0\u03cc \u03c4\u03bf \u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1 \u03c9\u03c2 \u03c4\u03bf \u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03bf\u03b3\u03b4\u03cc\u03bd\u03c4\u03b1 \u03c0\u03ad\u03bd\u03c4\u03b5 \u03ba\u03b1\u03c4\u03b5\u03b2\u03b1\u03af\u03bd\u03bf\u03bd\u03c4\u03b1\u03c2 \u03ba\u03b1\u03c4\u03ac \u03ad\u03bd\u03b1 \u03ba\u03ac\u03b8\u03b5 \u03c6\u03bf\u03c1\u03ac",
+     "target": false
+    },
+    {
+     "tier": "PAR4",
+     "utt_index": 79,
+     "text": "\u0391\u03c0\u03cc \u03c4\u03bf \u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 80,
+     "text": "\u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1 \u03c9\u03c2 \u03c4\u03bf \u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03bf\u03b3\u03b4\u03cc\u03bd\u03c4\u03b1 \u03c0\u03ad\u03bd\u03c4\u03b5 \u03ba\u03b1\u03b9 \u03b8\u03b1 \u03ba\u03b1\u03c4\u03b5\u03b2\u03b1\u03af\u03bd\u03b5\u03c4\u03b5 \u03ad\u03bd\u03b1 \u03ba\u03ac\u03b8\u03b5 \u03c6\u03bf\u03c1\u03ac",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|65|80",
+   "corpus": "Dem_Greek",
+   "session": "65",
+   "utt_index": 80,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "65",
+   "audio_task": "",
+   "start_ms": 248700,
+   "end_ms": 251100,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 78,
+     "text": "\u0386\u03c3\u03c0\u03c1\u03b7 \u03c0\u03ad\u03c4\u03c1\u03b1 \u03be\u03b5\u03be\u03b1\u03c3\u03c0\u03c1\u03ae \u03ba\u03b1\u03b9 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u03ae\u03bb\u03b9\u03bf \u03be\u03b5\u03be\u03b1\u03c3\u03c0\u03c1\u03cc\u03c4\u03b5\u03c1\u03b7",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 79,
+     "text": "\u03a4\u03bf \u03c3\u03c0\u03af\u03c4\u03b9 \u03c4\u03bf\u03c5 \u03ba\u03c5\u03c1\u03af\u03bf\u03c5 \u0394\u03b7\u03bc\u03ae\u03c4\u03c1\u03b7 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c7\u03b1\u03c1\u03b9\u03c4\u03c9\u03bc\u03ad\u03bd\u03bf",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 80,
+     "text": "\u03a4\u03bf \u03c3\u03c0\u03af\u03c4\u03b9 \u03c4\u03bf\u03c5 \u03ba\u03c5\u03c1\u03af\u03bf\u03c5 \u0394\u03b7\u03bc\u03ae\u03c4\u03c1\u03b7",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 81,
+     "text": "\u039f",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|716|133",
+   "corpus": "Dem_Greek",
+   "session": "716",
+   "utt_index": 133,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "716",
+   "audio_task": "",
+   "start_ms": 485340,
+   "end_ms": 487360,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 131,
+     "text": "\u0393\u03ac\u03c4\u03b1 \u03ba\u03c1\u03c5\u03b2\u03cc\u03c4\u03b1\u03bd \u03ba\u03ac\u03c4\u03c9 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u03ba\u03b1\u03bd\u03b1\u03c0\u03ad \u039a\u03ac\u03c4\u03c9 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 132,
+     "text": "\u03a9\u03c1\u03b1\u03af\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 133,
+     "text": "\u0386\u03c3\u03c0\u03c1\u03b7 \u03c0\u03ad\u03c4\u03c1\u03b1 \u03be\u03ad\u03be \u03b1\u03c3\u03c0\u03c1\u03ae",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 134,
+     "text": "\u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u03ae\u03bb\u03b9\u03bf \u03be\u03b5\u03be \u03c0\u03c1\u03cc\u03c3\u03c6\u03b1\u03c4\u03b1",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|68|199",
+   "corpus": "Dem_Greek",
+   "session": "68",
+   "utt_index": 199,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "68",
+   "audio_task": "",
+   "start_ms": 616260,
+   "end_ms": 621040,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 197,
+     "text": "\u039a\u03b1\u03b9 \u03bc'\u03b1\u03c1\u03ad\u03c3\u03b5\u03b9 \u03b5\u03ba\u03b5\u03af",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 198,
+     "text": "\u039a\u03b1\u03b9 \u03c4\u03b1 \u03ac\u03bb\u03bb\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03bf\u03c5 \u03bc\u03b5 \u03c4\u03bf\u03c5\u03c2 \u03c0\u03af\u03bd\u03b1\u03ba\u03b5\u03c2 \u03c0\u03bf\u03c5 \u03bc\u03b1\u03c2 \u03b4\u03b5\u03af\u03c7\u03bd\u03bf\u03c5\u03bc\u03b5 \u03ba\u03b1\u03b9 \u03be\u03ad\u03c1\u03c9 \u03c0\u03bf\u03bb\u03bb\u03bf\u03cd\u03c2 \u03b6\u03c9\u03b3\u03c1\u03ac\u03c6\u03bf\u03c5\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03ad\u03c4\u03bf\u03b9\u03bf",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 199,
+     "text": "\u039d\u03b1\u03b9 \u03b1\u03bb\u03bb\u03ac \u03c0\u03bf\u03bb\u03bb\u03ad\u03c2 \u03c6\u03bf\u03c1\u03ad\u03c2 \u03ba\u03bf\u03bb\u03bb\u03ac\u03b6\u03bf\u03c5\u03bd \u0391\u03c5\u03c4\u03ac \u03c4\u03b1 \u03be\u03b5\u03c7\u03bd\u03ac\u03c9 \u03b5\u03b3\u03ce \u03c4\u03ce\u03c1\u03b1 \u03a0\u03bf\u03b9\u03bf\u03c2 \u03ae\u03c4\u03b1\u03bd \u03bf \u039b\u03af\u03c4\u03c1\u03b1\u03c2 \u03ae\u03c4\u03b1\u03bd",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 200,
+     "text": "\u03a6\u03c5\u03c3\u03b9\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03cc \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03c5\u03c4\u03cc \u03b5\u03bd\u03c4\u03ac\u03be\u03b5\u03b9",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|699|116",
+   "corpus": "Dem_Greek",
+   "session": "699",
+   "utt_index": 116,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "699",
+   "audio_task": "",
+   "start_ms": 422940,
+   "end_ms": 425580,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 114,
+     "text": "\u03a4\u03af\u03b3\u03c1\u03b5\u03c2 \u03bb\u03ad\u03b3\u03b5\u03c4\u03b1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 115,
+     "text": "\u0391\u03c5\u03c4\u03cc \u03c4\u03bf\u03c5 \u03bb\u03ad\u03b3\u03b5\u03c4\u03b1\u03b9 \u039b\u03b5\u03bf\u03bd\u03c4\u03ac\u03c1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 116,
+     "text": "\u0391\u03c5\u03c4\u03cc \u03c4\u03bf\u03c5 \u03bb\u03ad\u03b3\u03b5\u03c4\u03b1\u03b9",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 117,
+     "text": "\u0391\u03c5\u03c4\u03cc \u039b\u03b9\u03bf\u03bd\u03c4\u03ac\u03c1\u03b9",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|40|104",
+   "corpus": "Dem_Greek",
+   "session": "40",
+   "utt_index": 104,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "40",
+   "audio_task": "",
+   "start_ms": 274240,
+   "end_ms": 288560,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 102,
+     "text": "\u039c\u03b5\u03c4\u03ac",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 103,
+     "text": "\u0398\u03b1 \u03c3\u03b1\u03c2 \u03b4\u03ce\u03c3\u03c9 \u03b5\u03b3\u03ce \u03c4\u03ce\u03c1\u03b1 \u03ba\u03ac\u03c0\u03bf\u03b9\u03b5\u03c2 \u03b5\u03b9\u03ba\u03cc\u03bd\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03b8\u03ad\u03bb\u03c9 \u03bd\u03b1 \u03c4\u03b9\u03c2 \u03b4\u03b5\u03af\u03c4\u03b5 \u03ba\u03b1\u03b9 \u03bd\u03b1 \u03bc\u03bf\u03c5 \u03c0\u03bf\u03c5\u03b5\u03af\u03c4\u03b5 \u03c4\u03b1 \u03bf\u03bd\u03cc\u03bc\u03b1\u03c4\u03b1 \u03c4\u03c9\u03bd \u03b6\u03ce\u03c9\u03bd \u03c0\u03bf\u03c5 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bc\u03ad\u03c3\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR4",
+     "utt_index": 104,
+     "text": "\u039a\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03bf\u03c5\u03b5\u03af\u03c4\u03b5 \u03c4\u03b1 \u03bf\u03bd\u03cc\u03bc\u03b1\u03c4\u03b1 \u03c4\u03c9\u03bd \u03b6\u03ce\u03c9\u03bd \u03c0\u03bf\u03c5 \u039a\u03b1\u03c1\u03bc\u03af\u03bb\u03b1 \u03a4\u03af\u03b4\u03c1\u03b7\u03c2",
+     "target": true
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 105,
+     "text": "\u03a9\u03c1\u03b1\u03af \u03ad\u03bb\u03b1\u03b9",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|695|6",
+   "corpus": "Dem_Greek",
+   "session": "695",
+   "utt_index": 6,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "695",
+   "audio_task": "",
+   "start_ms": 57370,
+   "end_ms": 58650,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 4,
+     "text": "\u039c\u03bf\u03c5",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 5,
+     "text": "\u039a\u03b1\u03bb\u03ac \u03b4\u03b5\u03bd \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03b1\u03c0\u03cc \u03c0\u03bf\u03cd \u03c4\u03bf \u03c0\u03ae\u03c1\u03b1\u03c4\u03b5",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 6,
+     "text": "\u0391\u03c5\u03c4\u03cc \u03c4\u03bf \u03c0\u03ae\u03c1\u03b1",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 7,
+     "text": "\u0395\u03af\u03bd\u03b1\u03b9 \u03c3\u03c4\u03bf",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|59|67",
+   "corpus": "Dem_Greek",
+   "session": "59",
+   "utt_index": 67,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "59",
+   "audio_task": "",
+   "start_ms": 385940,
+   "end_ms": 389940,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 65,
+     "text": "\u0394\u03b5\u03bd \u03c0\u03b5\u03b9\u03c1\u03ac\u03b6\u03b5\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 66,
+     "text": "\u0395\u03af\u03bd\u03b1\u03b9 \u03bf\u03cd\u03c4\u03c9\u03c2 \u03ba\u03b1\u03b9 \u03cc\u03bb\u03bf\u03c2 \u03bc\u03b1\u03c5\u03c1\u03cc \u03ac\u03c3\u03c0\u03c1\u03bf \u03ba\u03b1\u03b9 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b4\u03cd\u03c3\u03ba\u03bf\u03bb\u03b7",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 67,
+     "text": "\u039b\u03bf\u03b9\u03c0\u03cc\u03bd \u03c4\u03ce\u03c1\u03b1 \u03ba\u03cd\u03c1\u03b9\u03b5 \u0397\u03bb\u03af\u03b1 \u03b8\u03ad\u03bb\u03c9 \u03bd\u03b1 \u03bc\u03bf\u03c5",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 68,
+     "text": "\u0398\u03b1 \u03b1\u03c6\u03ae\u03c3\u03c9 \u03b5\u03b3\u03ce \u03c4\u03bf \u03c7\u03c1\u03cc\u03bd\u03bf \u03b3\u03b9\u03b1 \u03ad\u03bd\u03b1 \u03bb\u03b5\u03c0\u03c4\u03cc",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|715|46",
+   "corpus": "Dem_Greek",
+   "session": "715",
+   "utt_index": 46,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "715",
+   "audio_task": "",
+   "start_ms": 151440,
+   "end_ms": 152720,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 44,
+     "text": "\u03a4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 45,
+     "text": "\u03a4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 46,
+     "text": "\u0391\u03c5\u03c4\u03cc \u03b5\u03af\u03bd\u03b1\u03b9",
+     "target": true
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 47,
+     "text": "\u039c\u03b5\u03af\u03bf\u03bd",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|719|56",
+   "corpus": "Dem_Greek",
+   "session": "719",
+   "utt_index": 56,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "719",
+   "audio_task": "",
+   "start_ms": 368960,
+   "end_ms": 374340,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 54,
+     "text": "\u039c\u03bf\u03c5 \u03c0\u03b5\u03c1\u03b9\u03b3\u03c1\u03ac\u03c8\u03b5\u03c4\u03b5 \u03c4\u03b9 \u03b2\u03bb\u03ad\u03c0\u03b5\u03c4\u03b5 \u03c3' \u03b1\u03c5\u03c4\u03ae\u03bd \u03b5\u03b4\u03ce \u03c4\u03b7\u03bd \u03b5\u03b9\u03ba\u03cc\u03bd\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 55,
+     "text": "\u0388\u03bd\u03b1 \u03bb\u03b9\u03bf\u03bd\u03c4\u03ac\u03c1\u03b9 \u03ba\u03b1\u03b9 \u03c4\u03bf \u03bb\u03b9\u03bf\u03bd\u03c4\u03b1\u03c1\u03ac\u03ba\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 56,
+     "text": "\u0391\u03bb\u03bb\u03ac \u03c4\u03bf \u03ac\u03bb\u03bb\u03bf \u03c0\u03c1\u03ac\u03b3\u03bc\u03b1 \u03b5\u03b4\u03ce \u03b1\u03bd\u03ac\u03bc\u03b5\u03c3\u03b1 \u03b1\u03c6\u03bf\u03cd \u03b4\u03b5\u03bd \u03be\u03ad\u03c1\u03c9 \u03c4\u03b9 \u03c0\u03c1\u03ac\u03b3\u03bc\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 57,
+     "text": "\u0391\u03bb\u03bb\u03ac \u03c4\u03bf \u03ba\u03b1\u03bb\u03cc \u03bd\u03b1 \u03bc\u03bf\u03b9\u03ac\u03b6\u03b5\u03b9 \u03b4\u03b5\u03bd \u03bc\u03bf\u03b9\u03ac\u03b6\u03b5\u03b9 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b6\u03c9\u03bd\u03c4\u03b1\u03bd\u03cc \u03c0\u03b5\u03c1\u03af\u03b5\u03c1\u03b3\u03bf \u03c0\u03bf\u03c5 \u03b8\u03b1 \u03c4\u03bf \u03bc\u03ac\u03b8\u03c9 \u03b4\u03b5\u03bd \u03be\u03ad\u03c1\u03c9 \u03ad\u03bd\u03b1 \u03bb\u03b9\u03bf\u03bd\u03c4\u03ac\u03ba\u03b9 \u03ad\u03bd\u03b1 \u03bb\u03b9\u03bf\u03bd\u03c4\u03b1\u03c1\u03ac\u03ba\u03b9",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|739|171",
+   "corpus": "Dem_Greek",
+   "session": "739",
+   "utt_index": 171,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "739",
+   "audio_task": "",
+   "start_ms": 510610,
+   "end_ms": 512450,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 169,
+     "text": "\u0391\u03bb\u03bb\u03ac \u03bd\u03b1\u03b9 \u03ad\u03c4\u03c3\u03b9 \u03ba\u03ac\u03bd\u03c9 \u03ba\u03b9 \u03b1\u03bd \u03b8\u03ad\u03bb\u03c9 \u0391\u03bb\u03bb\u03ac \u03c4\u03b1 \u03c8\u03ae\u03bd\u03bf\u03c5\u03bc\u03b5",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 170,
+     "text": "\u039b\u03bf\u03b9\u03c0\u03cc\u03bd \u03c4\u03ce\u03c1\u03b1 \u03ba\u03cd\u03c1\u03b9\u03b5 \u03a7\u03c1\u03ae\u03c3\u03c4\u03bf \u03b8\u03ad\u03bb\u03c9 \u03bd\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 171,
+     "text": "\u039c\u03ae\u03c0\u03c9\u03c2 \u03bc\u03b5 \u03ad\u03c3\u03c0\u03b9\u03be\u03b5 \u03bb\u03af\u03b3\u03bf \u03b3\u03b9\u03b1\u03c4\u03af",
+     "target": true
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 172,
+     "text": "\u03a3\u03b1\u03c2",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|716|205",
+   "corpus": "Dem_Greek",
+   "session": "716",
+   "utt_index": 205,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "716",
+   "audio_task": "",
+   "start_ms": 823650,
+   "end_ms": 824670,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 203,
+     "text": "\u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 204,
+     "text": "\u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 205,
+     "text": "\u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 206,
+     "text": "\u03a9\u03c1\u03b1\u03af\u03b1",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|75|14",
+   "corpus": "Dem_Greek",
+   "session": "75",
+   "utt_index": 14,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "75",
+   "audio_task": "",
+   "start_ms": 43960,
+   "end_ms": 47880,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 12,
+     "text": "\u0393\u03b9\u03b1\u03c4\u03af \u03ad\u03c0\u03c1\u03b5\u03c0\u03b5 \u03bd\u03b1 \u03b6\u03ae\u03c3\u03bf\u03c5\u03bd \u03ba\u03b1\u03b9 \u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03b1\u03ba\u03cc\u03bc\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 13,
+     "text": "\u0394\u03b5\u03bd \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03c3\u03b5 \u03bd\u03b1 \u03c4\u03b1 \u03b2\u03b3\u03ac\u03bb\u03b5\u03b9 \u03c0\u03ad\u03c1\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 14,
+     "text": "\u039d\u03b1\u03b9 \u0389\u03c4\u03b1\u03bd \u03bf \u03c0\u03bf\u03c1\u03bf\u03c0\u03cc\u03bb\u03b7\u03c2 \u03ba\u03b1\u03b9",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 15,
+     "text": "\u0394\u03c5\u03c3\u03c4\u03c5\u03c7\u03ce\u03c2 \u03ae\u03c4\u03b1\u03bd \u03c7\u03c1\u03ae\u03c3\u03b9\u03bc\u03bf",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|43|175",
+   "corpus": "Dem_Greek",
+   "session": "43",
+   "utt_index": 175,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "43",
+   "audio_task": "",
+   "start_ms": 699560,
+   "end_ms": 701180,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 173,
+     "text": "\u039a\u03b1\u03bb\u03cc\u03c2",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 174,
+     "text": "\u039a\u03b1\u03bb\u03cc\u03c2 \u03bd\u03b1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 175,
+     "text": "\u039a\u03b1\u03b9 \u03b1\u03c5\u03c4\u03cc \u03b5\u03b4\u03ce \u03b5\u03af\u03bd\u03b1\u03b9",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 176,
+     "text": "\u0386\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03c5\u03c4\u03cc \u03b5\u03af\u03bd\u03b1\u03b9",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|55|0",
+   "corpus": "Dem_Greek",
+   "session": "55",
+   "utt_index": 0,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "55",
+   "audio_task": "",
+   "start_ms": 0,
+   "end_ms": 1080,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 0,
+     "text": "\u039b\u03bf\u03b9\u03c0\u03cc\u03bd",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 1,
+     "text": "\u03ba\u03b1\u03b8\u03af\u03c3\u03c4\u03b5 \u03ba\u03b1\u03b9 \u03ad\u03bd\u03b1\u03bd \u03c7\u03c1\u03cc\u03bd\u03bf \u03c0\u03b1\u03c1\u03b1\u03c0\u03ac\u03bd\u03c9",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|713|86",
+   "corpus": "Dem_Greek",
+   "session": "713",
+   "utt_index": 86,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "713",
+   "audio_task": "",
+   "start_ms": 513950,
+   "end_ms": 517390,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 84,
+     "text": "\u03a9\u03c1\u03b1\u03af\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 85,
+     "text": "\u03a4\u03ce\u03c1\u03b1 \u03b8\u03ad\u03bb\u03c9 \u03b1\u03c0\u03cc \u03c4\u03bf \u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1 \u03bd\u03b1 \u03bc\u03b5\u03c4\u03c1\u03ae\u03c3\u03bf\u03c5\u03bc\u03b5 \u03b1\u03bd\u03c4\u03af\u03c3\u03c4\u03c1\u03bf\u03c6\u03b1 \u03b1\u03c6\u03b1\u03b9\u03c1\u03ce\u03bd\u03c4\u03b1\u03c2 \u03c9\u03c2 \u03c4\u03bf \u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03bf\u03b3\u03b4\u03cc\u03bd\u03c4\u03b1 \u03c0\u03ad\u03bd\u03c4\u03b5",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 86,
+     "text": "\u0394\u03b7\u03bb\u03b1\u03b4\u03ae \u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1 \u03b1\u03bd\u03c4\u03af\u03c3\u03c4\u03c1\u03bf\u03c6\u03b1 \u03bc\u03ad\u03c7\u03c1\u03b9 \u03c4\u03bf",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 87,
+     "text": "\u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1 \u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03c4\u03c1\u03af\u03b1 \u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03b4\u03cd\u03bf \u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03ad\u03bd\u03b1",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|61|124",
+   "corpus": "Dem_Greek",
+   "session": "61",
+   "utt_index": 124,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "61",
+   "audio_task": "",
+   "start_ms": 732300,
+   "end_ms": 733780,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 122,
+     "text": "\u039a\u03ce\u03c3\u03c4\u03b1\u03c2 \u03b1\u03b3\u03cc\u03c1\u03b1\u03c3\u03b5 \u03b3\u03ac\u03bb\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03c5\u03c1\u03af",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 123,
+     "text": "\u03a9\u03c1\u03b1\u03af\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 124,
+     "text": "\u039b\u03bf\u03b9\u03c0\u03cc\u03bd \u03b8\u03b1 \u03ae\u03b8\u03b5\u03bb\u03b1",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 125,
+     "text": "\u03bc\u03c0\u03bf\u03c1\u03ce",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|63|110",
+   "corpus": "Dem_Greek",
+   "session": "63",
+   "utt_index": 110,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "63",
+   "audio_task": "",
+   "start_ms": 603300,
+   "end_ms": 603920,
+   "context": [
+    {
+     "tier": "PAR3",
+     "utt_index": 108,
+     "text": "\u038c\u03c4\u03b9 \u03bf \u03b3\u03b9\u03bf\u03c2 \u03bf \u03b3\u03b9\u03bf\u03c2 \u03bc\u03b1\u03c2 \u03b1\u03c2 \u03c0\u03bf\u03cd\u03bc\u03b5 \u03bf \u03a3\u03c4\u03c5\u03bd \u03b4\u03b5\u03bd \u03b5\u03af\u03c7\u03b5 \u03ba\u03b1\u03bb\u03ae \u03b4\u03bf\u03c5\u03bb\u03b5\u03b9\u03ac \u03ba\u03b1\u03b9 \u03ad\u03c6\u03c5\u03b3\u03b5 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03b5\u03be\u03c9\u03c4\u03b5\u03c1\u03b9\u03ba\u03cc",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 109,
+     "text": "\u039a\u03b1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 110,
+     "text": "\u03a6\u03c5\u03c3\u03b9\u03ba\u03ac",
+     "target": true
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 111,
+     "text": "\u0398\u03b1 \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03c3\u03b1\u03bc\u03b5 \u03c6\u03cd\u03b3\u03b5\u03b9 \u03ad\u03c4\u03c3\u03b9 \u03b8\u03b1 \u03c4\u03bf\u03bd \u03b5\u03c4\u03bf\u03b9\u03bc\u03ac\u03c3\u03b1\u03bc\u03b5 \u03b5\u03bc\u03b5\u03af\u03c2 \u03c4\u03bf\u03bd \u03b2\u03ac\u03bb\u03b1\u03bc\u03b5 \u03c3\u03c4\u03bf \u03b1\u03b5\u03c1\u03bf\u03c0\u03bb\u03ac\u03bd\u03bf \u03ba\u03b1\u03b9 \u03ad\u03c6\u03c5\u03b3\u03b5 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u0391\u03b3\u03b3\u03bb\u03af\u03b1 \u03b1\u03c2 \u03c0\u03bf\u03cd\u03bc\u03b5",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|74|79",
+   "corpus": "Dem_Greek",
+   "session": "74",
+   "utt_index": 79,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "74",
+   "audio_task": "",
+   "start_ms": 347680,
+   "end_ms": 348400,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 77,
+     "text": "\u039d\u03b1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 78,
+     "text": "\u039a\u03b1\u03b9 \u03b1\u03c5\u03c4\u03cc \u03b5\u03af\u03bd\u03b1\u03b9 \u03bc\u03b9\u03b1 \u03b3\u03ac\u03c4\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 79,
+     "text": "\u03cc\u03c7\u03b9",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 80,
+     "text": "\u03c4\u03bf \u03ba\u03b5\u03c6\u03ac\u03bb\u03b9",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|695|110",
+   "corpus": "Dem_Greek",
+   "session": "695",
+   "utt_index": 110,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "695",
+   "audio_task": "",
+   "start_ms": 385370,
+   "end_ms": 387370,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 108,
+     "text": "\u03a4\u03bf \u03c3\u03c0\u03af\u03c4\u03b9 \u03c4\u03bf\u03c5 \u03ba\u03c5\u03c1\u03af\u03bf\u03c5 \u0394\u03b7\u03bc\u03ae\u03c4\u03c1\u03b7 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c7\u03b1\u03c1\u03b9\u03c4\u03c9\u03bc\u03ad\u03bd\u03bf",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 109,
+     "text": "\u03a4\u03bf",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 110,
+     "text": "\u03a3\u03c0\u03af\u03c4\u03b9 \u03c4\u03bf\u03c5 \u03ba\u03c5\u03c1\u03af\u03bf\u03c5 \u0394\u03b7\u03bc\u03ae\u03c4\u03c1\u03b7 \u03b5\u03af\u03bd\u03b1\u03b9",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 111,
+     "text": "\u03b4\u03b5\u03bd \u03c4\u03bf \u03ba\u03b1\u03c4\u03ac\u03bb\u03b1\u03b2\u03b1",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|62|50",
+   "corpus": "Dem_Greek",
+   "session": "62",
+   "utt_index": 50,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "62",
+   "audio_task": "",
+   "start_ms": 221890,
+   "end_ms": 224650,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 48,
+     "text": "\u039a\u03b1\u03b9 \u03c9\u03c1\u03b1\u03af\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 49,
+     "text": "\u039b\u03bf\u03b9\u03c0\u03cc\u03bd",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 50,
+     "text": "\u0398\u03ad\u03bb\u03c9 \u03bd\u03b1 \u03b2\u03c1\u03b5\u03b8\u03b5\u03af\u03c4\u03b5 \u03bc\u03b1\u03b6\u03af \u03bc\u03bf\u03c5 \u03bd\u03b1 \u03ba\u03ac\u03bd\u03bf\u03c5\u03bc\u03b5 \u03b1\u03c5\u03c4\u03cc \u03c0\u03bf\u03c5",
+     "target": true
+    },
+    {
+     "tier": "PAR4",
+     "utt_index": 51,
+     "text": "\u039d\u03b1\u03b9 \u0395\u03b4\u03ce \u03c0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc \u03b1\u03c5\u03c4\u03cc",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|74|13",
+   "corpus": "Dem_Greek",
+   "session": "74",
+   "utt_index": 13,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "74",
+   "audio_task": "",
+   "start_ms": 129920,
+   "end_ms": 137400,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 11,
+     "text": "\u039b\u03bf\u03b9\u03c0\u03cc\u03bd \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03c4\u03ce\u03c1\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 12,
+     "text": "\u039d\u03b1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 13,
+     "text": "\u039c\u03bf\u03c5 \u03bc\u03b5\u03c4\u03c1\u03ae\u03c3\u03b5\u03c4\u03b5 \u03b1\u03bd\u03c4\u03af\u03c3\u03c4\u03c1\u03bf\u03c6\u03b1 \u03b1\u03c0\u03cc \u03c4\u03bf \u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1 \u03bd\u03b1 \u03c6\u03c4\u03ac\u03c3\u03b5\u03c4\u03b5 \u03c9\u03c2 \u03c4\u03bf \u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03bf\u03ba\u03c4\u03ce \u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03bd\u03b1 \u03ba\u03b1\u03c4\u03b5\u03b2\u03b1\u03af\u03bd\u03b5\u03c4\u03b5",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 14,
+     "text": "\u0391\u03c0\u03cc \u03c4\u03bf \u03c4\u03c1\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1 \u03c9\u03c2 \u03c4\u03bf \u03b4\u03b9\u03b1\u03ba\u03cc\u03c3\u03b9\u03b1 \u03bf\u03ba\u03c4\u03ce \u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1 \u03ba\u03b1\u03c4\u03b5\u03b2\u03b1\u03af\u03bd\u03bf\u03bd\u03c4\u03b1\u03c2 \u03b4\u03ad\u03ba\u03b1",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|700|17",
+   "corpus": "Dem_Greek",
+   "session": "700",
+   "utt_index": 17,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "700",
+   "audio_task": "",
+   "start_ms": 28060,
+   "end_ms": 28600,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 15,
+     "text": "\u03a0\u03ae\u03b3\u03b1\u03b9\u03bd\u03b5 \u03bd\u03b1 \u03b4\u03b5\u03b9 \u03c4\u03b7 \u03b3\u03b9\u03b1\u03b3\u03b9\u03ac \u03c4\u03bf\u03c5",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 16,
+     "text": "\u039a\u03b1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 17,
+     "text": "\u0395\u03bc\u03b5\u03af\u03c2 \u03b5\u03af\u03bc\u03b1\u03c3\u03c4\u03b5",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 18,
+     "text": "\u039a\u03b1\u03b9 \u03c4\u03bf\u03bd \u03ad\u03ba\u03b1\u03bd\u03b5 \u03ba\u03b1\u03b9 \u03c0\u03b9\u03c3\u03af \u03b1\u03c0\u03cc \u03bf\u03b3\u03b4\u03cc\u03bd\u03c4\u03b1 \u03c0\u03ad\u03bd\u03c4\u03b5 \u03c7\u03c1\u03bf\u03bd\u03ce\u03bd",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|716|238",
+   "corpus": "Dem_Greek",
+   "session": "716",
+   "utt_index": 238,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "716",
+   "audio_task": "",
+   "start_ms": 892240,
+   "end_ms": 894780,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 236,
+     "text": "\u0395\u03b3\u03b3\u03bf\u03bd\u03ae \u03c3\u03b1\u03c2",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 237,
+     "text": "\u039d\u03b1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 238,
+     "text": "\u039a\u03b1\u03b9 \u03b5\u03af\u03bc\u03b1\u03b9 \u03c0\u03b5\u03c1\u03ae\u03c6\u03b1\u03bd\u03b7 \u03b3\u03b9 \u03b1\u03c5\u03c4\u03cc \u03ba\u03b1\u03b9 \u03b5\u03af\u03bd\u03b1\u03b9",
+     "target": true
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 239,
+     "text": "\u03ba\u03b1\u03b9 \u03b5\u03c0\u03b5\u03b9\u03b4\u03ae \u03c4\u03bf \u03ad\u03c7\u03b5\u03b9 \u03b1\u03c5\u03c4\u03cc\u03c2",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|89|76",
+   "corpus": "Dem_Greek",
+   "session": "89",
+   "utt_index": 76,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "89",
+   "audio_task": "",
+   "start_ms": 275210,
+   "end_ms": 288150,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 74,
+     "text": "\u0393\u03ac\u03c4\u03b1 \u03c3\u03ba\u03cd\u03bb\u03bf\u03c2 \u03bb\u03b9\u03bf\u03bd\u03c4\u03ac\u03c1\u03b9 \u03c4\u03af\u03b3\u03c1\u03b7\u03c2",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 75,
+     "text": "\u0386\u03bb\u03bf\u03b3\u03bf",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 76,
+     "text": "\u039a\u03cc\u03c4\u03b1 \u03b1\u03b3\u03b5\u03bb\u03ac\u03b4\u03b1 \u03c0\u03af\u03b8\u03b7\u03ba\u03bf\u03c2",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 77,
+     "text": "\u03a4' \u03ac\u03bb\u03bb\u03bf \u03b4\u03b5\u03bd",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|674|218",
+   "corpus": "Dem_Greek",
+   "session": "674",
+   "utt_index": 218,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "674",
+   "audio_task": "",
+   "start_ms": 762340,
+   "end_ms": 766020,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 216,
+     "text": "\u03a9\u03c1\u03b1\u03af\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR3",
+     "utt_index": 217,
+     "text": "\u0398\u03ad\u03bb\u03c9 \u03bd\u03b1 \u03bc\u03bf\u03c5 \u03c0\u03b5\u03af\u03c4\u03b5 \u03c4\u03b9 \u03ba\u03ac\u03bd\u03b5\u03c4\u03b5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03c4\u03bf \u03c0\u03c1\u03c9\u03af",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 218,
+     "text": "\u03a0\u03c1\u03ce\u03c4\u03b1 \u03b1\u03c0 \u03cc\u03bb\u03b1 \u03ad\u03c6\u03b1\u03b3\u03b1 \u03c4\u03bf \u03b3\u03b9\u03b1\u03bf\u03cd\u03c1\u03c4\u03b9 \u03bc\u03bf\u03c5 \u03bc\u03b1\u03b6\u03af \u03bc\u03b5 \u03c4\u03bf",
+     "target": true
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 219,
+     "text": "\u03ba\u03ac\u03c4\u03b9 \u03c0\u03bf\u03c5 \u03b2\u03ac\u03b6\u03c9 \u03bc\u03ad\u03c3\u03b1 \u03c4\u03bf\u03c5 \u03b4\u03b5\u03bd \u03b8\u03c5\u03bc\u03ac\u03bc\u03b1\u03b9 \u03bd\u03b1 \u03c4\u03bf \u03c0\u03c9",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|769|58",
+   "corpus": "Dem_Greek",
+   "session": "769",
+   "utt_index": 58,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "769",
+   "audio_task": "",
+   "start_ms": 399140,
+   "end_ms": 399980,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 56,
+     "text": "\u039a\u03ce\u03c3\u03c4\u03b1\u03c2 \u03b1\u03b3\u03cc\u03c1\u03b1\u03c3\u03b5 \u03b3\u03ac\u03bb\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03c5\u03c1\u03af",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 57,
+     "text": "\u0391\u03b3\u03cc\u03c1\u03b1\u03c3\u03b5",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 58,
+     "text": "\u0393\u03ac\u03bb\u03b1 \u03ba\u03b1\u03b9",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 59,
+     "text": "\u03a9\u03c1\u03b1\u03af\u03b1",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|764|30",
+   "corpus": "Dem_Greek",
+   "session": "764",
+   "utt_index": 30,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "764",
+   "audio_task": "",
+   "start_ms": 164000,
+   "end_ms": 164720,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 28,
+     "text": "\u039d\u03b1\u03b9 \u03c4\u03ad\u03c3\u03c3\u03b5\u03c1\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 29,
+     "text": "\u03a9\u03c1\u03b1\u03af\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 30,
+     "text": "\u0391\u03bd\u03b1\u03c6\u03b5\u03c1\u03ad",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 31,
+     "text": "\u03b4\u03ad\u03ba\u03b1 \u03ba\u03b1\u03b9 \u03bb\u03bf\u03b9\u03c0\u03cc\u03bd",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|730|104",
+   "corpus": "Dem_Greek",
+   "session": "730",
+   "utt_index": 104,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "730",
+   "audio_task": "",
+   "start_ms": 342480,
+   "end_ms": 343320,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 102,
+     "text": "\u03a4\u03bf \u03bc\u03cc\u03bd\u03bf \u03c0\u03bf\u03c5 \u03be\u03ad\u03c1\u03c9 \u03b5\u03af\u03bd\u03b1\u03b9 \u03cc\u03c4\u03b9 \u03bf \u0393\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03c5\u03c4\u03cc\u03c2 \u03c0\u03bf\u03c5 \u03b8\u03b1 \u03b2\u03bf\u03b7\u03b8\u03ae\u03c3\u03b5\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 103,
+     "text": "\u039d\u03b1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 104,
+     "text": "\u0395\u03af\u03bd\u03b1\u03b9",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 105,
+     "text": "\u0395\u03af\u03bd\u03b1\u03b9 \u03bf \u0393\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2 \u03c0\u03bf\u03c5 \u03b8\u03b1 \u03b2\u03bf\u03b7\u03b8\u03ae\u03c3\u03b5\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|65|91",
+   "corpus": "Dem_Greek",
+   "session": "65",
+   "utt_index": 91,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "65",
+   "audio_task": "",
+   "start_ms": 283250,
+   "end_ms": 284850,
+   "context": [
+    {
+     "tier": "PAR2",
+     "utt_index": 89,
+     "text": "\u0395\u03b4\u03ce \u03b5",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 90,
+     "text": "\u039d\u03b1\u03b9 \u03bd\u03b1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR2",
+     "utt_index": 91,
+     "text": "\u0391\u03c5\u03c4\u03ac \u03c0\u03bf\u03c5 \u03b2\u03bb\u03ad\u03c0\u03c9 \u03b5\u03af\u03bd\u03b1\u03b9",
+     "target": true
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 92,
+     "text": "\u039b\u03bf\u03bd\u03c4\u03ac\u03c1\u03b9",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|700|19",
+   "corpus": "Dem_Greek",
+   "session": "700",
+   "utt_index": 19,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "700",
+   "audio_task": "",
+   "start_ms": 32540,
+   "end_ms": 33140,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 17,
+     "text": "\u0395\u03bc\u03b5\u03af\u03c2 \u03b5\u03af\u03bc\u03b1\u03c3\u03c4\u03b5",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 18,
+     "text": "\u039a\u03b1\u03b9 \u03c4\u03bf\u03bd \u03ad\u03ba\u03b1\u03bd\u03b5 \u03ba\u03b1\u03b9 \u03c0\u03b9\u03c3\u03af \u03b1\u03c0\u03cc \u03bf\u03b3\u03b4\u03cc\u03bd\u03c4\u03b1 \u03c0\u03ad\u03bd\u03c4\u03b5 \u03c7\u03c1\u03bf\u03bd\u03ce\u03bd",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 19,
+     "text": "\u039c\u03b9\u03c3\u03ae \u03b5\u03af\u03bc\u03b1\u03b9 \u03b1\u03c0\u03cc",
+     "target": true
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 20,
+     "text": "\u03a3\u03b5 \u03b1\u03b3\u03b1\u03c0\u03ce",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|716|242",
+   "corpus": "Dem_Greek",
+   "session": "716",
+   "utt_index": 242,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "716",
+   "audio_task": "",
+   "start_ms": 913720,
+   "end_ms": 922800,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 240,
+     "text": "\u03c4\u03bf \u03ad\u03c7\u03b5\u03b9 \u03c3\u03c5\u03bd\u03b5\u03b9\u03b4\u03b7\u03c4\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03b5\u03b9 \u03ba\u03b1\u03b9 \u03be\u03ad\u03c1\u03b5\u03b9 \u03cc\u03c4\u03b9 \u03b7 \u03bc\u03b1\u03bc\u03ac \u03c4\u03b7\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03bd\u03c4\u03ac\u03be\u03b5\u03b9 \u03c3' \u03b1\u03c5\u03c4\u03cc \u03ba\u03b1\u03b9 \u03b3\u03b9 \u03b1\u03c5\u03c4\u03cc \u03b5\u03af\u03bc\u03b1\u03b9",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 241,
+     "text": "\u03b1\u03c0\u03cc \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae \u03b5\u03af\u03bc\u03b1\u03b9 \u03ba\u03b1\u03b9 \u03bb\u03af\u03b3\u03bf \u03b5\u03c5\u03c7\u03b1\u03c1\u03b9\u03c3\u03c4\u03b7\u03bc\u03ad\u03bd\u03b7 \u03a9\u03c1\u03b1\u03af\u03b1 \u03b8\u03ad\u03bb\u03c9 \u03bd\u03b1 \u03bc\u03bf\u03c5 \u03c0\u03b5\u03af\u03c4\u03b5 \u03c4\u03b9 \u03ba\u03ac\u03bd\u03b5\u03c4\u03b5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03c4\u03bf \u03c0\u03c1\u03c9\u03af",
+     "target": false
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 242,
+     "text": "\u03a3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03c4\u03bf \u03c0\u03c1\u03c9\u03af \u03ad\u03ba\u03b1\u03bd\u03b1 \u03ad\u03bd\u03b1 \u03bd\u03c4\u03bf\u03c5\u03b6\u03ac\u03ba\u03b9 \u03ba\u03b1\u03b9 \u03b5\u03b8\u03b5\u03ba\u03c4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b1 \u03c4\u03b1 \u03c0\u03c1\u03ac\u03b3\u03bc\u03b1\u03c4\u03b1 \u03c0\u03bf\u03c5 \u03ae\u03b8\u03b5\u03bb\u03b5 \u03ba\u03ac\u03c0\u03bf\u03b9\u03b1",
+     "target": true
+    },
+    {
+     "tier": "PAR0",
+     "utt_index": 243,
+     "text": "\u03bf \u03c3\u03cd\u03b6\u03c5\u03b3\u03cc\u03c2 \u03bc\u03bf\u03c5 \u03bd\u03b1 \u03ba\u03ac\u03bd\u03b5\u03b9 \u03ba\u03ac\u03c4\u03b9 \u03ba\u03b1\u03b9 \u03c4\u03bf \u03c4\u03b1 \u03ad\u03b2\u03b1\u03bb\u03b1 \u03c0\u03ac\u03bd\u03c9 \u03c3\u03c4\u03bf \u03c4\u03c1\u03b1\u03b2\u03ad\u03b6\u03b9 \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03c6\u03cd\u03b3\u03c9 \u03ae\u03c3\u03c5\u03c7\u03b7",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|74|109",
+   "corpus": "Dem_Greek",
+   "session": "74",
+   "utt_index": 109,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "74",
+   "audio_task": "",
+   "start_ms": 441090,
+   "end_ms": 443110,
+   "context": [
+    {
+     "tier": "PAR0",
+     "utt_index": 107,
+     "text": "\u03a9\u03c1\u03b1\u03af\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 108,
+     "text": "\u0395",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 109,
+     "text": "\u03a4\u03ce\u03c1\u03b1 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03bc\u03bf\u03c5 \u03c0\u03b5\u03af\u03c4\u03b5",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 110,
+     "text": "\u03cc\u03c3\u03bf \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b1 \u03b6\u03ce\u03b1 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_Greek|40|102",
+   "corpus": "Dem_Greek",
+   "session": "40",
+   "utt_index": 102,
+   "task": "",
+   "group": "AD",
+   "language": "ell",
+   "audio_stem": "40",
+   "audio_task": "",
+   "start_ms": 264540,
+   "end_ms": 265580,
+   "context": [
+    {
+     "tier": "PAR1",
+     "utt_index": 100,
+     "text": "\u03a9\u03c1\u03b1\u03af\u03b1",
+     "target": false
+    },
+    {
+     "tier": "PAR4",
+     "utt_index": 101,
+     "text": "\u039b\u03bf\u03b9\u03c0\u03cc\u03bd",
+     "target": false
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 102,
+     "text": "\u039c\u03b5\u03c4\u03ac",
+     "target": true
+    },
+    {
+     "tier": "PAR1",
+     "utt_index": 103,
+     "text": "\u0398\u03b1 \u03c3\u03b1\u03c2 \u03b4\u03ce\u03c3\u03c9 \u03b5\u03b3\u03ce \u03c4\u03ce\u03c1\u03b1 \u03ba\u03ac\u03c0\u03bf\u03b9\u03b5\u03c2 \u03b5\u03b9\u03ba\u03cc\u03bd\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03b8\u03ad\u03bb\u03c9 \u03bd\u03b1 \u03c4\u03b9\u03c2 \u03b4\u03b5\u03af\u03c4\u03b5 \u03ba\u03b1\u03b9 \u03bd\u03b1 \u03bc\u03bf\u03c5 \u03c0\u03bf\u03c5\u03b5\u03af\u03c4\u03b5 \u03c4\u03b1 \u03bf\u03bd\u03cc\u03bc\u03b1\u03c4\u03b1 \u03c4\u03c9\u03bd \u03b6\u03ce\u03c9\u03bd \u03c0\u03bf\u03c5 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bc\u03ad\u03c3\u03b1",
+     "target": false
+    }
+   ]
+  }
+ ]
+}

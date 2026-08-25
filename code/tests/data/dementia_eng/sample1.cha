@@ -1,0 +1,17 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|68;|female|ProbableAD||Participant|||
+@Media:	sample_dementia, audio
+*INV:	okay , tell me everything you see going on in that picture . 0_3200
+*PAR:	well there's a &-um a boy on a &-uh stool [//] a ladder (.) taking
+	cookies . 3400_11250
+*PAR:	and the the [/] the sink is +... 11500_16800
+*INV:	what about the sink ? 17000_18400
+*PAR:	the water (2.5) the water is xxx over . 18600_25100
+%mor:	det:art|the n|water n|water cop|be&3S adv|over .
+*INV:	the water is running over ? 25300_27000
+*PAR:	yes running over the +//. 27200_30500
+*PAR:	&-um the mother is (be)cause she's [//] the mother's drying dishes . 30700_37900
+@End

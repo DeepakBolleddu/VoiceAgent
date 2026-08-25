@@ -1,0 +1,6090 @@
+{
+ "language": "eng",
+ "context_k": 2,
+ "items": [
+  {
+   "item_id": "Dem_English|142-1|10",
+   "corpus": "Dem_English",
+   "session": "142-1",
+   "utt_index": 10,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "142-1",
+   "audio_task": "cookie",
+   "start_ms": 44336,
+   "end_ms": 45549,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 8,
+     "text": "what else exc",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 9,
+     "text": "anything else",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 10,
+     "text": "did you just want action or just exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 11,
+     "text": "mhm",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|627-0|13",
+   "corpus": "Dem_English",
+   "session": "627-0",
+   "utt_index": 13,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "627-0",
+   "audio_task": "cookie",
+   "start_ms": 44602,
+   "end_ms": 45432,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 11,
+     "text": "the little girl's telling him to",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 12,
+     "text": "be be quiet",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 13,
+     "text": "don't let mommy see",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 14,
+     "text": "and that's everything then",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|332-0|1",
+   "corpus": "Dem_English",
+   "session": "332-0",
+   "utt_index": 1,
+   "task": "sentence",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "332-0",
+   "audio_task": "sentence",
+   "start_ms": 3963,
+   "end_ms": 4984,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 0,
+     "text": "the water's running on the floor",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 1,
+     "text": "boy's taking cookies out of cookie out of the cookie jar gram",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 2,
+     "text": "the stool is falling open over",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 0,
+     "text": "so any types of animals",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 1,
+     "text": "dog",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 2,
+     "text": "cow",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 0,
+     "text": "can you tell me anything you remember from that",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 1,
+     "text": "George and his granddaughter went to visit his old estate INV mhm which musta been in the city and they musta been in the country",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 2,
+     "text": "and she wasn't too excited about it because of all the hustle and bustle in the city",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 0,
+     "text": "pencil@q",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 1,
+     "text": "I just used a pencil",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 2,
+     "text": "tree@q",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|323-1|14",
+   "corpus": "Dem_English",
+   "session": "323-1",
+   "utt_index": 14,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "323-1",
+   "audio_task": "cookie",
+   "start_ms": 60404,
+   "end_ms": 61808,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 12,
+     "text": "the mother is drying a dish and stepping in the water",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 13,
+     "text": "there's a plate and two cups sitting on the cabinet",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 14,
+     "text": "the mother has an apron on",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 15,
+     "text": "okay",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|105-1|11",
+   "corpus": "Dem_English",
+   "session": "105-1",
+   "utt_index": 11,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "105-1",
+   "audio_task": "cookie",
+   "start_ms": 40013,
+   "end_ms": 40378,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 9,
+     "text": "mhm",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 10,
+     "text": "with gravity exc",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 11,
+     "text": "whatever exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 12,
+     "text": "anything else",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|332-0|6",
+   "corpus": "Dem_English",
+   "session": "332-0",
+   "utt_index": 6,
+   "task": "fluency",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "332-0",
+   "audio_task": "fluency",
+   "start_ms": 9927,
+   "end_ms": 12272,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "the wife is wiping a dish plate",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 5,
+     "text": "anything else",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "I guess not exc",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "horse",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 5,
+     "text": "sheep",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "mule",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 7,
+     "text": "donkey",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "clears_throat the girl and her grandfather went to the big city from the country I would assume",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 5,
+     "text": "she didn't particularly like the big city because of all the hustle bustle",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "and she felt better back in the country",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 4,
+     "text": "now I'm gonna give you two words and I'm gonna ask you to use them both in one sentence",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 5,
+     "text": "child@q hospital@q",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "the child entered this hospital",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 7,
+     "text": "cold@q winter@q",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|266-2|15",
+   "corpus": "Dem_English",
+   "session": "266-2",
+   "utt_index": 15,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "266-2",
+   "audio_task": "cookie",
+   "start_ms": 66804,
+   "end_ms": 67216,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 13,
+     "text": "I guess that's all I see exc",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 14,
+     "text": "can you tell me what's going on over here",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 15,
+     "text": "pardon me exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 16,
+     "text": "tell me this again",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|140-3|10",
+   "corpus": "Dem_English",
+   "session": "140-3",
+   "utt_index": 10,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "140-3",
+   "audio_task": "cookie",
+   "start_ms": 51631,
+   "end_ms": 51969,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 8,
+     "text": "the window's open and I would say the wind is blowing",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 9,
+     "text": "okay",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 10,
+     "text": "I guess that's it exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 11,
+     "text": "alright",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|146-1|16",
+   "corpus": "Dem_English",
+   "session": "146-1",
+   "utt_index": 16,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "146-1",
+   "audio_task": "cookie",
+   "start_ms": 53024,
+   "end_ms": 53585,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 14,
+     "text": "that's and the curtains gram",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 15,
+     "text": "mhm",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 16,
+     "text": "and the window gram",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 17,
+     "text": "okay",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|242-0|7",
+   "corpus": "Dem_English",
+   "session": "242-0",
+   "utt_index": 7,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "242-0",
+   "audio_task": "cookie",
+   "start_ms": 48743,
+   "end_ms": 49958,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 5,
+     "text": "what else am I sposta find out exc",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 6,
+     "text": "I beg your pardon",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 7,
+     "text": "what else am I sposta know exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 8,
+     "text": "just anything that you see happening in the picture",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|093-0|18",
+   "corpus": "Dem_English",
+   "session": "093-0",
+   "utt_index": 18,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "093-0",
+   "audio_task": "cookie",
+   "start_ms": 36463,
+   "end_ms": 37192,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 16,
+     "text": "okay exc",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 17,
+     "text": "what about down here",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 18,
+     "text": "the water's dripping",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 19,
+     "text": "that's what I meant laughs exc",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|139-1|7",
+   "corpus": "Dem_English",
+   "session": "139-1",
+   "utt_index": 7,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "139-1",
+   "audio_task": "cookie",
+   "start_ms": 26674,
+   "end_ms": 28675,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 5,
+     "text": "the girl is reaching for a cookie",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 6,
+     "text": "anything else",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 7,
+     "text": "the girl is telling him to be quiet",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 8,
+     "text": "is that it",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|150-1|1",
+   "corpus": "Dem_English",
+   "session": "150-1",
+   "utt_index": 1,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "150-1",
+   "audio_task": "cookie",
+   "start_ms": 5476,
+   "end_ms": 8039,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 0,
+     "text": "okay what action do you see going on in this picture",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 1,
+     "text": "you mean starting from say left to right or whatever exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 2,
+     "text": "how ever you like",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|073-1|5",
+   "corpus": "Dem_English",
+   "session": "073-1",
+   "utt_index": 5,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "073-1",
+   "audio_task": "cookie",
+   "start_ms": 51128,
+   "end_ms": 52298,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 3,
+     "text": "the mother is looking out the window while the water runs over from the sink",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "she has wet feet standing in the water",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 5,
+     "text": "that's the action that I see exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 6,
+     "text": "is that it",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|015-2|25",
+   "corpus": "Dem_English",
+   "session": "015-2",
+   "utt_index": 25,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "015-2",
+   "audio_task": "cookie",
+   "start_ms": 69367,
+   "end_ms": 72732,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 23,
+     "text": "and the little girl is shushing because the mother is standing there in a puddle of water with the water overflowing out of the laughs drain",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 24,
+     "text": "and she's wiping a dish instead of the mess",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 25,
+     "text": "and she's wearing an apron and she has on sleeveless clothes",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 26,
+     "text": "you all done",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|150-1|13",
+   "corpus": "Dem_English",
+   "session": "150-1",
+   "utt_index": 13,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "150-1",
+   "audio_task": "cookie",
+   "start_ms": 52138,
+   "end_ms": 59038,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 11,
+     "text": "well the mom is drying the dishes",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 12,
+     "text": "she's getting her feet wet",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 13,
+     "text": "and the sister's reaching for the cookie that's in the brother's hand or the kid's hand",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 14,
+     "text": "okay is that it",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|332-0|3",
+   "corpus": "Dem_English",
+   "session": "332-0",
+   "utt_index": 3,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "332-0",
+   "audio_task": "cookie",
+   "start_ms": 10886,
+   "end_ms": 11976,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 1,
+     "text": "boy's taking cookies out of cookie out of the cookie jar gram",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 2,
+     "text": "the stool is falling open over",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 3,
+     "text": "the girl was asking for a cookie",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "the wife is wiping a dish plate",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 1,
+     "text": "dog",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 2,
+     "text": "cow",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 3,
+     "text": "cat",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "horse",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 1,
+     "text": "George and his granddaughter went to visit his old estate INV mhm which musta been in the city and they musta been in the country",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 2,
+     "text": "and she wasn't too excited about it because of all the hustle and bustle in the city",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 3,
+     "text": "and so she decided or felt more comfortable when she was back in the country",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "clears_throat the girl and her grandfather went to the big city from the country I would assume",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 1,
+     "text": "I just used a pencil",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 2,
+     "text": "tree@q",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 3,
+     "text": "trees are pretty this time of year or a tree is pretty this time of year",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 4,
+     "text": "now I'm gonna give you two words and I'm gonna ask you to use them both in one sentence",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|242-0|5",
+   "corpus": "Dem_English",
+   "session": "242-0",
+   "utt_index": 5,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "242-0",
+   "audio_task": "cookie",
+   "start_ms": 44393,
+   "end_ms": 45803,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 3,
+     "text": "the mother hasta be blind",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "she's drying the dishes",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 5,
+     "text": "what else am I sposta find out exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 6,
+     "text": "I beg your pardon",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|248-0|17",
+   "corpus": "Dem_English",
+   "session": "248-0",
+   "utt_index": 17,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "248-0",
+   "audio_task": "cookie",
+   "start_ms": 67273,
+   "end_ms": 68993,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 15,
+     "text": "girl's reaching up for a cookie gram",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 16,
+     "text": "she's got her finger up her nose or to touching her nose for some reason",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 17,
+     "text": "can't tell if the grass is growing sorry exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 18,
+     "text": "laughs oh come on can't you see it growing laughs",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|227-0|7",
+   "corpus": "Dem_English",
+   "session": "227-0",
+   "utt_index": 7,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "227-0",
+   "audio_task": "cookie",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 5,
+     "text": "is there more exc",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 6,
+     "text": "do you see any more",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 7,
+     "text": "right there exc",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 8,
+     "text": "what if exc",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|256-0|8",
+   "corpus": "Dem_English",
+   "session": "256-0",
+   "utt_index": 8,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "256-0",
+   "audio_task": "cookie",
+   "start_ms": 35702,
+   "end_ms": 36252,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "I'd say that's about it exc",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 7,
+     "text": "anything else",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 8,
+     "text": "anything else exc",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 9,
+     "text": "I don't see nothing else exc",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|121-3|20",
+   "corpus": "Dem_English",
+   "session": "121-3",
+   "utt_index": 20,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "121-3",
+   "audio_task": "cookie",
+   "start_ms": 78098,
+   "end_ms": 78596,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 18,
+     "text": "and she's reaching up her hand for the cookie he has",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 19,
+     "text": "cupboard door is open gram",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 20,
+     "text": "obviously exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 21,
+     "text": "okay",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|086-1|15",
+   "corpus": "Dem_English",
+   "session": "086-1",
+   "utt_index": 15,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "086-1",
+   "audio_task": "cookie",
+   "start_ms": 50128,
+   "end_ms": 51036,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 13,
+     "text": "the water is running in the sink is why it's out",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 14,
+     "text": "now I see exc",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 15,
+     "text": "the mother's drying a dish",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 16,
+     "text": "okay",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|015-2|27",
+   "corpus": "Dem_English",
+   "session": "015-2",
+   "utt_index": 27,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "015-2",
+   "audio_task": "cookie",
+   "start_ms": 75137,
+   "end_ms": 75710,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 25,
+     "text": "and she's wearing an apron and she has on sleeveless clothes",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 26,
+     "text": "you all done",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 27,
+     "text": "laughs I don't know exc",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 28,
+     "text": "I could go on exc",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|332-0|5",
+   "corpus": "Dem_English",
+   "session": "332-0",
+   "utt_index": 5,
+   "task": "recall",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "332-0",
+   "audio_task": "recall",
+   "start_ms": 831400,
+   "end_ms": 835287,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 3,
+     "text": "the girl was asking for a cookie",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "the wife is wiping a dish plate",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 5,
+     "text": "anything else",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "I guess not exc",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 3,
+     "text": "cat",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "horse",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 5,
+     "text": "sheep",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "mule",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 3,
+     "text": "and so she decided or felt more comfortable when she was back in the country",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "clears_throat the girl and her grandfather went to the big city from the country I would assume",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 5,
+     "text": "she didn't particularly like the big city because of all the hustle bustle",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "and she felt better back in the country",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 3,
+     "text": "trees are pretty this time of year or a tree is pretty this time of year",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 4,
+     "text": "now I'm gonna give you two words and I'm gonna ask you to use them both in one sentence",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 5,
+     "text": "child@q hospital@q",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "the child entered this hospital",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|071-4|11",
+   "corpus": "Dem_English",
+   "session": "071-4",
+   "utt_index": 11,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "071-4",
+   "audio_task": "cookie",
+   "start_ms": 29823,
+   "end_ms": 30863,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 9,
+     "text": "and water's running on the floor as well as out of the sink laughs",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 10,
+     "text": "okay",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 11,
+     "text": "water's running out of the faucet",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 12,
+     "text": "does that count too exc",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|227-0|5",
+   "corpus": "Dem_English",
+   "session": "227-0",
+   "utt_index": 5,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "227-0",
+   "audio_task": "cookie",
+   "start_ms": 9366,
+   "end_ms": 9919,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 3,
+     "text": "the water's over flowing",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "not do you more exc",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 5,
+     "text": "is there more exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 6,
+     "text": "do you see any more",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|021-0|11",
+   "corpus": "Dem_English",
+   "session": "021-0",
+   "utt_index": 11,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "021-0",
+   "audio_task": "cookie",
+   "start_ms": 32013,
+   "end_ms": 32679,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 9,
+     "text": "things that I see exc",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 10,
+     "text": "anything else",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 11,
+     "text": "you mean curtains exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 12,
+     "text": "just anything that's going on",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|225-0|1",
+   "corpus": "Dem_English",
+   "session": "225-0",
+   "utt_index": 1,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "225-0",
+   "audio_task": "cookie",
+   "start_ms": 4203,
+   "end_ms": 11872,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 0,
+     "text": "what do you see going on",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 1,
+     "text": "I see a little boy on a stool almost falling over taking cookies out of the cookie jar",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 2,
+     "text": "and the little girl is putting her finger to her mouth that she's to keep it quiet",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|709-0|9",
+   "corpus": "Dem_English",
+   "session": "709-0",
+   "utt_index": 9,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "709-0",
+   "audio_task": "cookie",
+   "start_ms": 27660,
+   "end_ms": 32183,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 7,
+     "text": "and the the the stool is tipping over",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 8,
+     "text": "and he's sorta put down the plates gram",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 9,
+     "text": "and she's reaching up to get it but I don't see anything wrong with laughs her though",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 10,
+     "text": "okay",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|274-0|10",
+   "corpus": "Dem_English",
+   "session": "274-0",
+   "utt_index": 10,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "274-0",
+   "audio_task": "cookie",
+   "start_ms": 30861,
+   "end_ms": 32182,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 8,
+     "text": "the window is open",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 9,
+     "text": "she's standing in the water",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 10,
+     "text": "she's drying the dishes",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 11,
+     "text": "anything else",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|139-1|5",
+   "corpus": "Dem_English",
+   "session": "139-1",
+   "utt_index": 5,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "139-1",
+   "audio_task": "cookie",
+   "start_ms": 14978,
+   "end_ms": 16958,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 3,
+     "text": "the boy is falling off the stool",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "he's getting cookies",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 5,
+     "text": "the girl is reaching for a cookie",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 6,
+     "text": "anything else",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|002-1|15",
+   "corpus": "Dem_English",
+   "session": "002-1",
+   "utt_index": 15,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "002-1",
+   "audio_task": "cookie",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 13,
+     "text": "there's some grass and some shrubbery outside the house next door",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 14,
+     "text": "okay",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 15,
+     "text": "kitchen cabinets gram",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 16,
+     "text": "is that it",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|045-0|12",
+   "corpus": "Dem_English",
+   "session": "045-0",
+   "utt_index": 12,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "045-0",
+   "audio_task": "cookie",
+   "start_ms": 52410,
+   "end_ms": 54634,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 10,
+     "text": "her four vased two faced cabinets four doors gram",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 11,
+     "text": "anything else",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 12,
+     "text": "and a valance and the curtain gram",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 13,
+     "text": "window's half open gram",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|042-4|6",
+   "corpus": "Dem_English",
+   "session": "042-4",
+   "utt_index": 6,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "042-4",
+   "audio_task": "cookie",
+   "start_ms": 30726,
+   "end_ms": 33136,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "let's see exc",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 5,
+     "text": "anything else",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "dishes on the counter but there's no action with them I guess laughs gram",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 7,
+     "text": "okay",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|055-0|6",
+   "corpus": "Dem_English",
+   "session": "055-0",
+   "utt_index": 6,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "055-0",
+   "audio_task": "cookie",
+   "start_ms": 15602,
+   "end_ms": 16102,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "open closet gram",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 5,
+     "text": "okay",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "curtains gram",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 7,
+     "text": "what's going on in the picture",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|113-0|13",
+   "corpus": "Dem_English",
+   "session": "113-0",
+   "utt_index": 13,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "113-0",
+   "audio_task": "cookie",
+   "start_ms": 41125,
+   "end_ms": 41265,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 11,
+     "text": "so there hasta be a breeze outside laughs",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 12,
+     "text": "okay",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 13,
+     "text": "that's all I can see exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 14,
+     "text": "that's fine",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|208-1|1",
+   "corpus": "Dem_English",
+   "session": "208-1",
+   "utt_index": 1,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "208-1",
+   "audio_task": "cookie",
+   "start_ms": 5613,
+   "end_ms": 7001,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 0,
+     "text": "what action do you see going on in that picture",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 1,
+     "text": "I see the lady drying the dishes",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 2,
+     "text": "and the water is spilling over the sink onto the floor",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|245-2|3",
+   "corpus": "Dem_English",
+   "session": "245-2",
+   "utt_index": 3,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "245-2",
+   "audio_task": "cookie",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 1,
+     "text": "exc",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 2,
+     "text": "what do you see happening in that picture",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 3,
+     "text": "tell me exc",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "oh exc",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|155-0|9",
+   "corpus": "Dem_English",
+   "session": "155-0",
+   "utt_index": 9,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "155-0",
+   "audio_task": "cookie",
+   "start_ms": 59226,
+   "end_ms": 59712,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 7,
+     "text": "and the cookie jar lid is off falling off",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 8,
+     "text": "that's all",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 9,
+     "text": "the water's running",
+     "target": true
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|105-1|15",
+   "corpus": "Dem_English",
+   "session": "105-1",
+   "utt_index": 15,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "105-1",
+   "audio_task": "cookie",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 13,
+     "text": "the curtains are blowing I think",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 14,
+     "text": "and that's everything",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 15,
+     "text": "that's all I can see exc",
+     "target": true
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|138-1|15",
+   "corpus": "Dem_English",
+   "session": "138-1",
+   "utt_index": 15,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "138-1",
+   "audio_task": "cookie",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 13,
+     "text": "that there are there are curtains on the windows",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 14,
+     "text": "I think that's exc",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 15,
+     "text": "did I cover it all exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 16,
+     "text": "is that it",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|059-2|1",
+   "corpus": "Dem_English",
+   "session": "059-2",
+   "utt_index": 1,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "059-2",
+   "audio_task": "cookie",
+   "start_ms": 4634,
+   "end_ms": 5714,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 0,
+     "text": "what action do you see going on in that picture",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 1,
+     "text": "all the action exc",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 2,
+     "text": "mother is drying dishes",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|142-1|8",
+   "corpus": "Dem_English",
+   "session": "142-1",
+   "utt_index": 8,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "142-1",
+   "audio_task": "cookie",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "the mother is doing dishes but the water is spilling over on the floor",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 7,
+     "text": "the window's open",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 8,
+     "text": "what else exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 9,
+     "text": "anything else",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|121-4|19",
+   "corpus": "Dem_English",
+   "session": "121-4",
+   "utt_index": 19,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "121-4",
+   "audio_task": "cookie",
+   "start_ms": 88770,
+   "end_ms": 90989,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 17,
+     "text": "it has curtains in that window",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 18,
+     "text": "the mother's mouth is a little bit open",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 19,
+     "text": "she could be either singing or talking",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 20,
+     "text": "okay",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|022-0|10",
+   "corpus": "Dem_English",
+   "session": "022-0",
+   "utt_index": 10,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "022-0",
+   "audio_task": "cookie",
+   "start_ms": 35250,
+   "end_ms": 36270,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 8,
+     "text": "the window is up",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 9,
+     "text": "and is that all exc",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 10,
+     "text": "you want something else exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 11,
+     "text": "anything else",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|332-0|4",
+   "corpus": "Dem_English",
+   "session": "332-0",
+   "utt_index": 4,
+   "task": "fluency",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "332-0",
+   "audio_task": "fluency",
+   "start_ms": 7349,
+   "end_ms": 8824,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 2,
+     "text": "the stool is falling open over",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 3,
+     "text": "the girl was asking for a cookie",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "the wife is wiping a dish plate",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 5,
+     "text": "anything else",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 2,
+     "text": "cow",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 3,
+     "text": "cat",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "horse",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 5,
+     "text": "sheep",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 2,
+     "text": "and she wasn't too excited about it because of all the hustle and bustle in the city",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 3,
+     "text": "and so she decided or felt more comfortable when she was back in the country",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "clears_throat the girl and her grandfather went to the big city from the country I would assume",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 5,
+     "text": "she didn't particularly like the big city because of all the hustle bustle",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 2,
+     "text": "tree@q",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 3,
+     "text": "trees are pretty this time of year or a tree is pretty this time of year",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 4,
+     "text": "now I'm gonna give you two words and I'm gonna ask you to use them both in one sentence",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 5,
+     "text": "child@q hospital@q",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|021-2|1",
+   "corpus": "Dem_English",
+   "session": "021-2",
+   "utt_index": 1,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "021-2",
+   "audio_task": "cookie",
+   "start_ms": 2803,
+   "end_ms": 4104,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 0,
+     "text": "okay what do you see going on in that picture",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 1,
+     "text": "mother's washing dishes",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 2,
+     "text": "the sink is overflowing",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|256-0|3",
+   "corpus": "Dem_English",
+   "session": "256-0",
+   "utt_index": 3,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "256-0",
+   "audio_task": "cookie",
+   "start_ms": 2931,
+   "end_ms": 6470,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 1,
+     "text": "okay exc",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 2,
+     "text": "what do you see going on there",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 3,
+     "text": "the woman fouled up and left the spigot running and then it's running onto the floor",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "the kid's reaching in for cookies which is correct but he's falling off the stool",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|114-1|6",
+   "corpus": "Dem_English",
+   "session": "114-1",
+   "utt_index": 6,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "114-1",
+   "audio_task": "cookie",
+   "start_ms": 19534,
+   "end_ms": 21496,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "and the water is running over out of the sink",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 5,
+     "text": "she has the faucet on",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "she's spilling water all over the floor",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 7,
+     "text": "anything else",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|093-0|19",
+   "corpus": "Dem_English",
+   "session": "093-0",
+   "utt_index": 19,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "093-0",
+   "audio_task": "cookie",
+   "start_ms": 37282,
+   "end_ms": 38052,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 17,
+     "text": "what about down here",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 18,
+     "text": "the water's dripping",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 19,
+     "text": "that's what I meant laughs exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 20,
+     "text": "did you",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|086-1|13",
+   "corpus": "Dem_English",
+   "session": "086-1",
+   "utt_index": 13,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "086-1",
+   "audio_task": "cookie",
+   "start_ms": 39060,
+   "end_ms": 42660,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 11,
+     "text": "and he's going to fall off in a couple of minutes",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 12,
+     "text": "and the window's open",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 13,
+     "text": "the water is running in the sink is why it's out",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 14,
+     "text": "now I see exc",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|071-4|9",
+   "corpus": "Dem_English",
+   "session": "071-4",
+   "utt_index": 9,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "071-4",
+   "audio_task": "cookie",
+   "start_ms": 23019,
+   "end_ms": 28097,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 7,
+     "text": "Billy's about to fall off the stool while handing cookies to his sister",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 8,
+     "text": "that's another thing exc",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 9,
+     "text": "and water's running on the floor as well as out of the sink laughs",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 10,
+     "text": "okay",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|034-1|9",
+   "corpus": "Dem_English",
+   "session": "034-1",
+   "utt_index": 9,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "034-1",
+   "audio_task": "cookie",
+   "start_ms": 57687,
+   "end_ms": 58147,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 7,
+     "text": "woman is washing dishes drying dishes gram",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 8,
+     "text": "anything else",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 9,
+     "text": "there's nothing to indicate and I don't see any more action exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 10,
+     "text": "okay good that's fine",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|114-1|10",
+   "corpus": "Dem_English",
+   "session": "114-1",
+   "utt_index": 10,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "114-1",
+   "audio_task": "cookie",
+   "start_ms": 51958,
+   "end_ms": 53565,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 8,
+     "text": "well the boy is handing the little girl a cookie",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 9,
+     "text": "anything else",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 10,
+     "text": "nothing that I can see of action exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 11,
+     "text": "okay fine",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|256-0|6",
+   "corpus": "Dem_English",
+   "session": "256-0",
+   "utt_index": 6,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "256-0",
+   "audio_task": "cookie",
+   "start_ms": 22829,
+   "end_ms": 23969,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "the kid's reaching in for cookies which is correct but he's falling off the stool",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 5,
+     "text": "she's standing in water",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "I'd say that's about it exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 7,
+     "text": "anything else",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|280-0|1",
+   "corpus": "Dem_English",
+   "session": "280-0",
+   "utt_index": 1,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "280-0",
+   "audio_task": "cookie",
+   "start_ms": 3251,
+   "end_ms": 5790,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 0,
+     "text": "what do you see going on in that picture",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 1,
+     "text": "oh I see the sink is running over",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 2,
+     "text": "and I see the stool is tipping over",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|105-2|9",
+   "corpus": "Dem_English",
+   "session": "105-2",
+   "utt_index": 9,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "105-2",
+   "audio_task": "cookie",
+   "start_ms": 20474,
+   "end_ms": 26298,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 7,
+     "text": "right I'm just recording it so that I can remember what you said later on",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 8,
+     "text": "can you tell me everything that you see going on in that picture",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 9,
+     "text": "well the first bad thing I see is the water running out of the s ink running over",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 10,
+     "text": "and the little boy up stealing cookies and giving one to his sister gram",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|055-0|9",
+   "corpus": "Dem_English",
+   "session": "055-0",
+   "utt_index": 9,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "055-0",
+   "audio_task": "cookie",
+   "start_ms": 19506,
+   "end_ms": 23518,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 7,
+     "text": "what's going on in the picture",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 8,
+     "text": "what kind of action is there",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 9,
+     "text": "oh the little boy's reaching for the cookies and the stool's falling over",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 10,
+     "text": "she's laughing I think waiting for a cookie",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|211-1|12",
+   "corpus": "Dem_English",
+   "session": "211-1",
+   "utt_index": 12,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "211-1",
+   "audio_task": "cookie",
+   "start_ms": 70672,
+   "end_ms": 73373,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 10,
+     "text": "the lid is off the cookie jar",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 11,
+     "text": "the girl is reaching",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 12,
+     "text": "the water is running over the sink but it's also running out of the spigot",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 13,
+     "text": "alright",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|332-0|0",
+   "corpus": "Dem_English",
+   "session": "332-0",
+   "utt_index": 0,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "332-0",
+   "audio_task": "cookie",
+   "start_ms": 120,
+   "end_ms": 2020,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 0,
+     "text": "the water's running on the floor",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 1,
+     "text": "boy's taking cookies out of cookie out of the cookie jar gram",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 0,
+     "text": "so any types of animals",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 1,
+     "text": "dog",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 0,
+     "text": "can you tell me anything you remember from that",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 1,
+     "text": "George and his granddaughter went to visit his old estate INV mhm which musta been in the city and they musta been in the country",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 0,
+     "text": "pencil@q",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 1,
+     "text": "I just used a pencil",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|086-0|3",
+   "corpus": "Dem_English",
+   "session": "086-0",
+   "utt_index": 3,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "086-0",
+   "audio_task": "cookie",
+   "start_ms": 5140,
+   "end_ms": 8648,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 1,
+     "text": "oh I was exc",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 2,
+     "text": "okay",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 3,
+     "text": "oh this is gonna be like looking at those artistic things and fiddling when we get there exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 4,
+     "text": "laughs",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|274-0|1",
+   "corpus": "Dem_English",
+   "session": "274-0",
+   "utt_index": 1,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "274-0",
+   "audio_task": "cookie",
+   "start_ms": 4046,
+   "end_ms": 5278,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 0,
+     "text": "okay I just want you to tell me what you see going on in that picture",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 1,
+     "text": "well the water's running over",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 2,
+     "text": "the stool is and the boy's gonna fall off the stool",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|073-0|6",
+   "corpus": "Dem_English",
+   "session": "073-0",
+   "utt_index": 6,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "073-0",
+   "audio_task": "cookie",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "or just the action exc",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 5,
+     "text": "yeah you can just",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "okay clears throat exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 7,
+     "text": "what's going on in the picture",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|022-0|13",
+   "corpus": "Dem_English",
+   "session": "022-0",
+   "utt_index": 13,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "022-0",
+   "audio_task": "cookie",
+   "start_ms": 37920,
+   "end_ms": 43403,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 11,
+     "text": "anything else",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 12,
+     "text": "is there anything else",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 13,
+     "text": "oh well there's a plate and two cups on the counter",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 14,
+     "text": "is that is that enough exc",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|113-0|11",
+   "corpus": "Dem_English",
+   "session": "113-0",
+   "utt_index": 11,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "113-0",
+   "audio_task": "cookie",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 9,
+     "text": "the water is running on the floor",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 10,
+     "text": "the curtains are blowing",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 11,
+     "text": "so there hasta be a breeze outside laughs",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 12,
+     "text": "okay",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|274-0|12",
+   "corpus": "Dem_English",
+   "session": "274-0",
+   "utt_index": 12,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "274-0",
+   "audio_task": "cookie",
+   "start_ms": 46142,
+   "end_ms": 47832,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 10,
+     "text": "she's drying the dishes",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 11,
+     "text": "anything else",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 12,
+     "text": "wait you want what's in the picture or what's going on exc",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 13,
+     "text": "I thought you said what's going on exc",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|034-0|8",
+   "corpus": "Dem_English",
+   "session": "034-0",
+   "utt_index": 8,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "034-0",
+   "audio_task": "cookie",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "fortunately there's nothing happening out there",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 7,
+     "text": "the there's dishes on the counter in the sink",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 8,
+     "text": "that's it exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 9,
+     "text": "anything else",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|297-2|11",
+   "corpus": "Dem_English",
+   "session": "297-2",
+   "utt_index": 11,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "297-2",
+   "audio_task": "cookie",
+   "start_ms": 56857,
+   "end_ms": 58148,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 9,
+     "text": "right",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 10,
+     "text": "anything else",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 11,
+     "text": "no I don't see anything else exc",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 12,
+     "text": "what did I miss exc",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|015-2|6",
+   "corpus": "Dem_English",
+   "session": "015-2",
+   "utt_index": 6,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "015-2",
+   "audio_task": "cookie",
+   "start_ms": 18114,
+   "end_ms": 21758,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 4,
+     "text": "tell all the action that's going on in the picture",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 5,
+     "text": "what tree",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "this is a tree and it if it had a trunk it would continue",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 7,
+     "text": "this is the top sash of the window and it hasta have a trunk down here and that's just grass",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|137-0|18",
+   "corpus": "Dem_English",
+   "session": "137-0",
+   "utt_index": 18,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "137-0",
+   "audio_task": "cookie",
+   "start_ms": 92416,
+   "end_ms": 92655,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 16,
+     "text": "and a little sidewalk and another wing of the house through the window gram",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 17,
+     "text": "and curtains curtains there she has a window above the sink which is nice gram",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 18,
+     "text": "Dave Branton wrote a whole book called The window of the exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 19,
+     "text": "oh yeah",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|034-3|7",
+   "corpus": "Dem_English",
+   "session": "034-3",
+   "utt_index": 7,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "034-3",
+   "audio_task": "cookie",
+   "start_ms": 50564,
+   "end_ms": 53347,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 5,
+     "text": "the woman is drying dishes and washing dishes",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "and she's let the water from the sink pour out on the floor",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 7,
+     "text": "I don't see any other thing exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 8,
+     "text": "okay what's happening here",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|627-0|15",
+   "corpus": "Dem_English",
+   "session": "627-0",
+   "utt_index": 15,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "627-0",
+   "audio_task": "cookie",
+   "start_ms": 50799,
+   "end_ms": 51480,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 13,
+     "text": "don't let mommy see",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 14,
+     "text": "and that's everything then",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 15,
+     "text": "that's about it yeah exc",
+     "target": true
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|137-3|12",
+   "corpus": "Dem_English",
+   "session": "137-3",
+   "utt_index": 12,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "137-3",
+   "audio_task": "cookie",
+   "start_ms": 50042,
+   "end_ms": 58329,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 10,
+     "text": "mhm",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 11,
+     "text": "is that everything",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 12,
+     "text": "well then the she's standing by the window where she can look out into the yard where there's grass and the end of the house",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 13,
+     "text": "and there are cabinets kitchen cabinets there",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|114-1|2",
+   "corpus": "Dem_English",
+   "session": "114-1",
+   "utt_index": 2,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "114-1",
+   "audio_task": "cookie",
+   "start_ms": 5893,
+   "end_ms": 9196,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 0,
+     "text": "okay there it is",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 1,
+     "text": "what do you see going on in that picture",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 2,
+     "text": "well the boy is getting cookies and he's gonna fall off the stool",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 3,
+     "text": "and the mother is doing dishes",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|002-1|18",
+   "corpus": "Dem_English",
+   "session": "002-1",
+   "utt_index": 18,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "002-1",
+   "audio_task": "cookie",
+   "start_ms": 69230,
+   "end_ms": 72172,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 16,
+     "text": "is that it",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 17,
+     "text": "okay",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 18,
+     "text": "oh I see three people in there a mother and little boy and a girl",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 19,
+     "text": "that it",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|002-1|1",
+   "corpus": "Dem_English",
+   "session": "002-1",
+   "utt_index": 1,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "002-1",
+   "audio_task": "cookie",
+   "start_ms": 3044,
+   "end_ms": 5547,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 0,
+     "text": "what do you see going on in that picture",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 1,
+     "text": "oh I see the sink is running over",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 2,
+     "text": "I see the stool is tipping over",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|114-1|8",
+   "corpus": "Dem_English",
+   "session": "114-1",
+   "utt_index": 8,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "114-1",
+   "audio_task": "cookie",
+   "start_ms": 33158,
+   "end_ms": 37548,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "she's spilling water all over the floor",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 7,
+     "text": "anything else",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 8,
+     "text": "well the boy is handing the little girl a cookie",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 9,
+     "text": "anything else",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|073-1|7",
+   "corpus": "Dem_English",
+   "session": "073-1",
+   "utt_index": 7,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "073-1",
+   "audio_task": "cookie",
+   "start_ms": 57753,
+   "end_ms": 65492,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 5,
+     "text": "that's the action that I see exc",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 6,
+     "text": "is that it",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 7,
+     "text": "well naturally the stool falls over the boy is going to fall on the floor gram",
+     "target": true
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|140-3|8",
+   "corpus": "Dem_English",
+   "session": "140-3",
+   "utt_index": 8,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "140-3",
+   "audio_task": "cookie",
+   "start_ms": 39322,
+   "end_ms": 41968,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "the little boy's getting cookies and he's falling",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 7,
+     "text": "I guess the mother would be doing dishes and the water's overflowing out of the sink",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 8,
+     "text": "the window's open and I would say the wind is blowing",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 9,
+     "text": "okay",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|073-0|8",
+   "corpus": "Dem_English",
+   "session": "073-0",
+   "utt_index": 8,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "073-0",
+   "audio_task": "cookie",
+   "start_ms": 20701,
+   "end_ms": 23669,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "okay clears throat exc",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 7,
+     "text": "what's going on in the picture",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 8,
+     "text": "well the boy is getting cookies from a cookie jar",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 9,
+     "text": "little girl is reaching up with her hand to receive one",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|211-1|14",
+   "corpus": "Dem_English",
+   "session": "211-1",
+   "utt_index": 14,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "211-1",
+   "audio_task": "cookie",
+   "start_ms": 83610,
+   "end_ms": 84580,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 12,
+     "text": "the water is running over the sink but it's also running out of the spigot",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 13,
+     "text": "alright",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 14,
+     "text": "yeah I guess that's all exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 15,
+     "text": "okay",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|155-0|7",
+   "corpus": "Dem_English",
+   "session": "155-0",
+   "utt_index": 7,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "155-0",
+   "audio_task": "cookie",
+   "start_ms": 42901,
+   "end_ms": 44146,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 5,
+     "text": "but nobody seems in charge",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "and the woman is standing in water",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 7,
+     "text": "and the cookie jar lid is off falling off",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 8,
+     "text": "that's all",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|034-3|9",
+   "corpus": "Dem_English",
+   "session": "034-3",
+   "utt_index": 9,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "034-3",
+   "audio_task": "cookie",
+   "start_ms": 74545,
+   "end_ms": 76652,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 7,
+     "text": "I don't see any other thing exc",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 8,
+     "text": "okay what's happening here",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 9,
+     "text": "well I just told you that he was falling from a stool exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 10,
+     "text": "okay yep you did sorry",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|709-0|11",
+   "corpus": "Dem_English",
+   "session": "709-0",
+   "utt_index": 11,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "709-0",
+   "audio_task": "cookie",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 9,
+     "text": "and she's reaching up to get it but I don't see anything wrong with laughs her though",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 10,
+     "text": "okay",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 11,
+     "text": "yeah that's it exc",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 12,
+     "text": "I can't see anything exc",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|113-3|9",
+   "corpus": "Dem_English",
+   "session": "113-3",
+   "utt_index": 9,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "113-3",
+   "audio_task": "cookie",
+   "start_ms": 41648,
+   "end_ms": 43915,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 7,
+     "text": "mhm",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 8,
+     "text": "the lady is stepping in the water on the floor",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 9,
+     "text": "I don't know what's going on outside the window exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 10,
+     "text": "okay",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|105-2|13",
+   "corpus": "Dem_English",
+   "session": "105-2",
+   "utt_index": 13,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "105-2",
+   "audio_task": "cookie",
+   "start_ms": 43400,
+   "end_ms": 49990,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 11,
+     "text": "and mama's drying the dishes and standing in the water",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 12,
+     "text": "she's looking the other direction",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 13,
+     "text": "and the little boy's falling off the stool standing up on to get the cookie",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 14,
+     "text": "he's gonna get hurt when he hits that sink",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|034-0|10",
+   "corpus": "Dem_English",
+   "session": "034-0",
+   "utt_index": 10,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "034-0",
+   "audio_task": "cookie",
+   "start_ms": 79548,
+   "end_ms": 81725,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 8,
+     "text": "that's it exc",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 9,
+     "text": "anything else",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 10,
+     "text": "well except that there's a boy and a girl and the mother",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 11,
+     "text": "okay",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|266-2|13",
+   "corpus": "Dem_English",
+   "session": "266-2",
+   "utt_index": 13,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "266-2",
+   "audio_task": "cookie",
+   "start_ms": 62156,
+   "end_ms": 63486,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 11,
+     "text": "and she's standing in the water",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 12,
+     "text": "looks like there are a couple dishes that have already been dried sitting on the sink gram",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 13,
+     "text": "I guess that's all I see exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 14,
+     "text": "can you tell me what's going on over here",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|245-1|7",
+   "corpus": "Dem_English",
+   "session": "245-1",
+   "utt_index": 7,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "245-1",
+   "audio_task": "cookie",
+   "start_ms": 40965,
+   "end_ms": 41319,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 5,
+     "text": "and the mother is standing right near them washing dishes in the sink",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "and the water is running into the sink and the sink is flooding over with water",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 7,
+     "text": "and",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 8,
+     "text": "you want scenery description or anything like that exc",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|167-1|7",
+   "corpus": "Dem_English",
+   "session": "167-1",
+   "utt_index": 7,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "167-1",
+   "audio_task": "cookie",
+   "start_ms": 32889,
+   "end_ms": 33677,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 5,
+     "text": "the floor is all wet",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "and it must be a nice summer day because the window looks as if it's open",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 7,
+     "text": "and that's about exc",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 8,
+     "text": "I don't see any birds or any animals out there",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|275-0|15",
+   "corpus": "Dem_English",
+   "session": "275-0",
+   "utt_index": 15,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "275-0",
+   "audio_task": "cookie",
+   "start_ms": 53215,
+   "end_ms": 59941,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 13,
+     "text": "I don't know if I've said that exc",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 14,
+     "text": "and she's reaching for it",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 15,
+     "text": "the boy is I don't wanna say falling off the stool laughs or stepping off as it's moving I",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 16,
+     "text": "laughs",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|121-1|13",
+   "corpus": "Dem_English",
+   "session": "121-1",
+   "utt_index": 13,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "121-1",
+   "audio_task": "cookie",
+   "start_ms": 33681,
+   "end_ms": 33941,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 11,
+     "text": "in his right hand he is reaching in the cookie jar",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 12,
+     "text": "the stool is falling over",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 13,
+     "text": "he has his",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 14,
+     "text": "alright exc",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|256-0|1",
+   "corpus": "Dem_English",
+   "session": "256-0",
+   "utt_index": 1,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "256-0",
+   "audio_task": "cookie",
+   "start_ms": 1005,
+   "end_ms": 1165,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 0,
+     "text": "okay",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 1,
+     "text": "okay exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 2,
+     "text": "what do you see going on there",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|054-0|11",
+   "corpus": "Dem_English",
+   "session": "054-0",
+   "utt_index": 11,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "054-0",
+   "audio_task": "cookie",
+   "start_ms": 63629,
+   "end_ms": 66079,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 9,
+     "text": "curtains at the windows gram",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 10,
+     "text": "the lid's falling off the cookie jar",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 11,
+     "text": "I don't know what else is exc",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 12,
+     "text": "I could see their cupboard's half open",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|124-0|16",
+   "corpus": "Dem_English",
+   "session": "124-0",
+   "utt_index": 16,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "124-0",
+   "audio_task": "cookie",
+   "start_ms": 73228,
+   "end_ms": 73319,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 14,
+     "text": "that little girl",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 15,
+     "text": "did I say the mother was drying dishes exc",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 16,
+     "text": "drying a dish",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 17,
+     "text": "PAR okay",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|242-1|19",
+   "corpus": "Dem_English",
+   "session": "242-1",
+   "utt_index": 19,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "242-1",
+   "audio_task": "cookie",
+   "start_ms": 67358,
+   "end_ms": 68308,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 17,
+     "text": "it looks like a towel",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 18,
+     "text": "I don't understand the towel situation exc",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 19,
+     "text": "it looks like half",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 20,
+     "text": "oh no that's the other part of the curtain",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|071-1|14",
+   "corpus": "Dem_English",
+   "session": "071-1",
+   "utt_index": 14,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "071-1",
+   "audio_task": "cookie",
+   "start_ms": 27025,
+   "end_ms": 27654,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 12,
+     "text": "is that is that",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 13,
+     "text": "no you don't want that exc",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 14,
+     "text": "just action exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 15,
+     "text": "no just what you see happening the action in the picture",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|093-1|9",
+   "corpus": "Dem_English",
+   "session": "093-1",
+   "utt_index": 9,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "093-1",
+   "audio_task": "cookie",
+   "start_ms": 24531,
+   "end_ms": 25453,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 7,
+     "text": "she has her hand up for him to pass her a cookie then be quiet",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 8,
+     "text": "mother's",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 9,
+     "text": "the dishes in the sink",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 10,
+     "text": "yeah okay exc",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|256-1|6",
+   "corpus": "Dem_English",
+   "session": "256-1",
+   "utt_index": 6,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "256-1",
+   "audio_task": "cookie",
+   "start_ms": 32283,
+   "end_ms": 33861,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "she's standing in the water",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 5,
+     "text": "I'd say that's about it exc",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "oh no there's there's something exc",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 7,
+     "text": "no no it ain't it ain't writing upside down here exc",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|137-0|2",
+   "corpus": "Dem_English",
+   "session": "137-0",
+   "utt_index": 2,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "137-0",
+   "audio_task": "cookie",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 0,
+     "text": "there's the picture",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 1,
+     "text": "hm exc",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 2,
+     "text": "exc",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 3,
+     "text": "this little boy has his hand in the cookie jar",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|071-1|16",
+   "corpus": "Dem_English",
+   "session": "071-1",
+   "utt_index": 16,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "071-1",
+   "audio_task": "cookie",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 14,
+     "text": "just action exc",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 15,
+     "text": "no just what you see happening the action in the picture",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 16,
+     "text": "oh exc",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 17,
+     "text": "okay exc",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|105-2|6",
+   "corpus": "Dem_English",
+   "session": "105-2",
+   "utt_index": 6,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "105-2",
+   "audio_task": "cookie",
+   "start_ms": 11479,
+   "end_ms": 12280,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 4,
+     "text": "mhm",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 5,
+     "text": "is there something going on here or exc",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "oh it's just exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 7,
+     "text": "right I'm just recording it so that I can remember what you said later on",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|130-3|4",
+   "corpus": "Dem_English",
+   "session": "130-3",
+   "utt_index": 4,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "130-3",
+   "audio_task": "cookie",
+   "start_ms": 15037,
+   "end_ms": 20297,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 2,
+     "text": "everything that you see going on in the picture",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 3,
+     "text": "well the kid's stealing cookies out of the jar and on a stool that's tilted over",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "and his sister's waiting for him to hand her a cookie or",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 5,
+     "text": "the mother is looking out the window and the dishes are being washed but the water's overrunning in the sink",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|141-2|7",
+   "corpus": "Dem_English",
+   "session": "141-2",
+   "utt_index": 7,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "141-2",
+   "audio_task": "cookie",
+   "start_ms": 29007,
+   "end_ms": 31568,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 5,
+     "text": "she's standing in the water even",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "my goodness sakes exc",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 7,
+     "text": "the",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 8,
+     "text": "there's nothing the matter with those dishes",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|138-1|14",
+   "corpus": "Dem_English",
+   "session": "138-1",
+   "utt_index": 14,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "138-1",
+   "audio_task": "cookie",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 12,
+     "text": "you can see a window across in the other part of the house and the roof with a tree",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 13,
+     "text": "that there are there are curtains on the windows",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 14,
+     "text": "I think that's exc",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 15,
+     "text": "did I cover it all exc",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|042-4|4",
+   "corpus": "Dem_English",
+   "session": "042-4",
+   "utt_index": 4,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "042-4",
+   "audio_task": "cookie",
+   "start_ms": 19451,
+   "end_ms": 21975,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 2,
+     "text": "okay the boy is falling off the stool while he's getting a cookie out of the the kitchen cupboard there",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 3,
+     "text": "the girl is reaching up for a cookie",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "let's see exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 5,
+     "text": "anything else",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|298-1|7",
+   "corpus": "Dem_English",
+   "session": "298-1",
+   "utt_index": 7,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "298-1",
+   "audio_task": "cookie",
+   "start_ms": 24919,
+   "end_ms": 28119,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 5,
+     "text": "the mother is at the window washing dishes",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "the sink is overflowing on getting on her shoes",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 7,
+     "text": "and there are saucers and a plate on the",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 8,
+     "text": "oh you wanna know what is going on exc",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|086-0|23",
+   "corpus": "Dem_English",
+   "session": "086-0",
+   "utt_index": 23,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "086-0",
+   "audio_task": "cookie",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 21,
+     "text": "okay",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 22,
+     "text": "could you repeat to me what you said over there",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 23,
+     "text": "yeah there's exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 24,
+     "text": "didn't get it all",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|121-0|2",
+   "corpus": "Dem_English",
+   "session": "121-0",
+   "utt_index": 2,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "121-0",
+   "audio_task": "cookie",
+   "start_ms": 5575,
+   "end_ms": 10356,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 0,
+     "text": "alright exc",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 1,
+     "text": "the boy is taking a cookie out of the cookie jar",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 2,
+     "text": "and he has one in his left hand to reach down to give to his",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 3,
+     "text": "well he has it in his left hand",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|086-4|16",
+   "corpus": "Dem_English",
+   "session": "086-4",
+   "utt_index": 16,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "086-4",
+   "audio_task": "cookie",
+   "start_ms": 59341,
+   "end_ms": 59741,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 14,
+     "text": "and it must be summer or maybe autumn because there are bushes and trees and things and they have leaves on",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 15,
+     "text": "and it's in kitchen",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 16,
+     "text": "that's about exc",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 17,
+     "text": "oh the mother has on a dress that's just about comes to her knees",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|137-2|9",
+   "corpus": "Dem_English",
+   "session": "137-2",
+   "utt_index": 9,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "137-2",
+   "audio_task": "cookie",
+   "start_ms": 32305,
+   "end_ms": 32636,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 7,
+     "text": "she may want if she isn't moving her feet out of that water she's going to be shortly",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 8,
+     "text": "and that's exc",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 9,
+     "text": "oh over exc",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 10,
+     "text": "no I don't see the wind blowing hmhunh",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|105-2|19",
+   "corpus": "Dem_English",
+   "session": "105-2",
+   "utt_index": 19,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "105-2",
+   "audio_task": "cookie",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 17,
+     "text": "okay",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 18,
+     "text": "is there anything else that you needta say",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 19,
+     "text": "hmhunh no exc",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 20,
+     "text": "you can see out the window out into the yard",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|121-1|23",
+   "corpus": "Dem_English",
+   "session": "121-1",
+   "utt_index": 23,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "121-1",
+   "audio_task": "cookie",
+   "start_ms": 77984,
+   "end_ms": 78024,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 21,
+     "text": "the woman is smiling",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 22,
+     "text": "they're all smiling",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 23,
+     "text": "each one is looking at",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 24,
+     "text": "at at the other person",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|017-4|22",
+   "corpus": "Dem_English",
+   "session": "017-4",
+   "utt_index": 22,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "017-4",
+   "audio_task": "cookie",
+   "start_ms": 69444,
+   "end_ms": 69544,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 20,
+     "text": "the cookie jar is full",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 21,
+     "text": "the lid is off the cookie jar",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 22,
+     "text": "and the exc",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 23,
+     "text": "do you want me to tell you all of those things exc",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|323-0|24",
+   "corpus": "Dem_English",
+   "session": "323-0",
+   "utt_index": 24,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "323-0",
+   "audio_task": "cookie",
+   "start_ms": 97904,
+   "end_ms": 98114,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 22,
+     "text": "counter space gram",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 23,
+     "text": "okay good",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 24,
+     "text": "did I exc",
+     "target": true
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|245-1|13",
+   "corpus": "Dem_English",
+   "session": "245-1",
+   "utt_index": 13,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "245-1",
+   "audio_task": "cookie",
+   "start_ms": 70151,
+   "end_ms": 70452,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 11,
+     "text": "outside the window where the mother is there's there's a walkway it looks like it's going out to a garage",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 12,
+     "text": "and also one is on his kitchen sink area there's a like a coffee cup two cups and a and a plate",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 13,
+     "text": "and",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 14,
+     "text": "okay",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|245-2|6",
+   "corpus": "Dem_English",
+   "session": "245-2",
+   "utt_index": 6,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "245-2",
+   "audio_task": "cookie",
+   "start_ms": 25300,
+   "end_ms": 25880,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "oh exc",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 5,
+     "text": "tell me what you see happening",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "oh by looking at the exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 7,
+     "text": "yeah",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|150-1|15",
+   "corpus": "Dem_English",
+   "session": "150-1",
+   "utt_index": 15,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "150-1",
+   "audio_task": "cookie",
+   "start_ms": 61872,
+   "end_ms": 62093,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 13,
+     "text": "and the sister's reaching for the cookie that's in the brother's hand or the kid's hand",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 14,
+     "text": "okay is that it",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 15,
+     "text": "yep exc",
+     "target": true
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|015-1|17",
+   "corpus": "Dem_English",
+   "session": "015-1",
+   "utt_index": 17,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "015-1",
+   "audio_task": "cookie",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 15,
+     "text": "she's letting it run on her feet",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 16,
+     "text": "and half of the kitchen cupboard doors don't have handles",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 17,
+     "text": "I don't think exc",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 18,
+     "text": "and she's wiping the the the the dish with two towels",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|071-0|20",
+   "corpus": "Dem_English",
+   "session": "071-0",
+   "utt_index": 20,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "071-0",
+   "audio_task": "cookie",
+   "start_ms": 42301,
+   "end_ms": 43452,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 18,
+     "text": "mhm",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 19,
+     "text": "have a heck of a lot to do with it exc",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 20,
+     "text": "and that INV okay_good spiral exc",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 21,
+     "text": "maybe I should exc",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|668-0|17",
+   "corpus": "Dem_English",
+   "session": "668-0",
+   "utt_index": 17,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "668-0",
+   "audio_task": "cookie",
+   "start_ms": 57192,
+   "end_ms": 58192,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 15,
+     "text": "mhm",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 16,
+     "text": "look somebody laying in the lawn out there",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 17,
+     "text": "but I can't laughs exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 18,
+     "text": "okay",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|071-3|18",
+   "corpus": "Dem_English",
+   "session": "071-3",
+   "utt_index": 18,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "071-3",
+   "audio_task": "cookie",
+   "start_ms": 46115,
+   "end_ms": 47079,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 16,
+     "text": "we're drying the dishes",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 17,
+     "text": "we've we're already done that exc gram",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 18,
+     "text": "that doesn't seem to be more exc",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 19,
+     "text": "oh he's handing cookie handing cookie to girl gram",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|155-2|19",
+   "corpus": "Dem_English",
+   "session": "155-2",
+   "utt_index": 19,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "155-2",
+   "audio_task": "cookie",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 17,
+     "text": "that's all I can see exc",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 18,
+     "text": "okay",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 19,
+     "text": "yeah exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 20,
+     "text": "okay",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|021-0|1",
+   "corpus": "Dem_English",
+   "session": "021-0",
+   "utt_index": 1,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "021-0",
+   "audio_task": "cookie",
+   "start_ms": 2020,
+   "end_ms": 3861,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 0,
+     "text": "further right exc",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 1,
+     "text": "oh there's a little girl reaching",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 2,
+     "text": "oh let's say the little boy's reaching for the cookie in the jar",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|137-2|6",
+   "corpus": "Dem_English",
+   "session": "137-2",
+   "utt_index": 6,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "137-2",
+   "audio_task": "cookie",
+   "start_ms": 21711,
+   "end_ms": 23735,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "and she's talking and moving her hands",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 5,
+     "text": "and he's moving getting the cookie out of the jar",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "I don't know exc",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 7,
+     "text": "she may want if she isn't moving her feet out of that water she's going to be shortly",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|227-0|4",
+   "corpus": "Dem_English",
+   "session": "227-0",
+   "utt_index": 4,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "227-0",
+   "audio_task": "cookie",
+   "start_ms": 6344,
+   "end_ms": 7604,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 2,
+     "text": "okay",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 3,
+     "text": "the water's over flowing",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "not do you more exc",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 5,
+     "text": "is there more exc",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|105-1|13",
+   "corpus": "Dem_English",
+   "session": "105-1",
+   "utt_index": 13,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "105-1",
+   "audio_task": "cookie",
+   "start_ms": 42117,
+   "end_ms": 46382,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 11,
+     "text": "whatever exc",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 12,
+     "text": "anything else",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 13,
+     "text": "the curtains are blowing I think",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 14,
+     "text": "and that's everything",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|121-4|21",
+   "corpus": "Dem_English",
+   "session": "121-4",
+   "utt_index": 21,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "121-4",
+   "audio_task": "cookie",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 19,
+     "text": "she could be either singing or talking",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 20,
+     "text": "okay",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 21,
+     "text": "alright exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 22,
+     "text": "okay",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|086-1|17",
+   "corpus": "Dem_English",
+   "session": "086-1",
+   "utt_index": 17,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "086-1",
+   "audio_task": "cookie",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 15,
+     "text": "the mother's drying a dish",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 16,
+     "text": "okay",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 17,
+     "text": "mhm exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 18,
+     "text": "okay good",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|073-3|13",
+   "corpus": "Dem_English",
+   "session": "073-3",
+   "utt_index": 13,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "073-3",
+   "audio_task": "cookie",
+   "start_ms": 78064,
+   "end_ms": 79969,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 11,
+     "text": "her feet was in a puddle of water clears throat coming from the overflowing sink",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 12,
+     "text": "okay that's fine",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 13,
+     "text": "the curtains the outside",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 14,
+     "text": "that's fine",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|093-1|8",
+   "corpus": "Dem_English",
+   "session": "093-1",
+   "utt_index": 8,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "093-1",
+   "audio_task": "cookie",
+   "start_ms": 23393,
+   "end_ms": 23683,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "yeah that's it exc",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 7,
+     "text": "she has her hand up for him to pass her a cookie then be quiet",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 8,
+     "text": "mother's",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 9,
+     "text": "the dishes in the sink",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|140-0|18",
+   "corpus": "Dem_English",
+   "session": "140-0",
+   "utt_index": 18,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "140-0",
+   "audio_task": "cookie",
+   "start_ms": 65478,
+   "end_ms": 66800,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 16,
+     "text": "no you don't needta mention those",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 17,
+     "text": "the breeze might be blowing",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 18,
+     "text": "the curtains look like they might be",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 19,
+     "text": "any other action exc",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|139-1|9",
+   "corpus": "Dem_English",
+   "session": "139-1",
+   "utt_index": 9,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "139-1",
+   "audio_task": "cookie",
+   "start_ms": 42813,
+   "end_ms": 43295,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 7,
+     "text": "the girl is telling him to be quiet",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 8,
+     "text": "is that it",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 9,
+     "text": "mhm exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 10,
+     "text": "okay",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|158-0|2",
+   "corpus": "Dem_English",
+   "session": "158-0",
+   "utt_index": 2,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "158-0",
+   "audio_task": "cookie",
+   "start_ms": 5996,
+   "end_ms": 12945,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 0,
+     "text": "the mother is washing the dishes",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 1,
+     "text": "the children are getting into the cookie jar",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 2,
+     "text": "the little girl has a finger on her lip as though trying to silence the boy who is the culprit who's",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 3,
+     "text": "he's up on a stool which is going to upset",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|071-0|19",
+   "corpus": "Dem_English",
+   "session": "071-0",
+   "utt_index": 19,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "071-0",
+   "audio_task": "cookie",
+   "start_ms": 40917,
+   "end_ms": 42128,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 17,
+     "text": "water overflowing in the sink gram",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 18,
+     "text": "mhm",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 19,
+     "text": "have a heck of a lot to do with it exc",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 20,
+     "text": "and that INV okay_good spiral exc",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|034-1|7",
+   "corpus": "Dem_English",
+   "session": "034-1",
+   "utt_index": 7,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "034-1",
+   "audio_task": "cookie",
+   "start_ms": 27297,
+   "end_ms": 29538,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 5,
+     "text": "water is running out of the faucet",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "the water is overflowing the sink",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 7,
+     "text": "woman is washing dishes drying dishes gram",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 8,
+     "text": "anything else",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|086-0|1",
+   "corpus": "Dem_English",
+   "session": "086-0",
+   "utt_index": 1,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "086-0",
+   "audio_task": "cookie",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 0,
+     "text": "now you just look at the picture and you just tell me everything that's going on",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 1,
+     "text": "oh I was exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 2,
+     "text": "okay",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|143-3|5",
+   "corpus": "Dem_English",
+   "session": "143-3",
+   "utt_index": 5,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "143-3",
+   "audio_task": "cookie",
+   "start_ms": 19950,
+   "end_ms": 22686,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 3,
+     "text": "the mother is washing or drying dishes",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "the water is running into the sink and running over down onto the floor",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 5,
+     "text": "the wind must be blowing because the curtains look like they're",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 6,
+     "text": "kitchen door the cabinet door is open",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|141-1|3",
+   "corpus": "Dem_English",
+   "session": "141-1",
+   "utt_index": 3,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "141-1",
+   "audio_task": "cookie",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 1,
+     "text": "his stool is go he's going to fall",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 2,
+     "text": "the mother is drying dishes laughs just is oblivious to the water coming out all over the place",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 3,
+     "text": "the dishes",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "that that's the action exc",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|045-0|10",
+   "corpus": "Dem_English",
+   "session": "045-0",
+   "utt_index": 10,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "045-0",
+   "audio_task": "cookie",
+   "start_ms": 47912,
+   "end_ms": 48824,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 8,
+     "text": "looks like they're dried gram",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 9,
+     "text": "mother standing in the overflowed water gram",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 10,
+     "text": "her four vased two faced cabinets four doors gram",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 11,
+     "text": "anything else",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|137-0|20",
+   "corpus": "Dem_English",
+   "session": "137-0",
+   "utt_index": 20,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "137-0",
+   "audio_task": "cookie",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 18,
+     "text": "Dave Branton wrote a whole book called The window of the exc",
+     "target": false
+    },
+    {
+     "tier": "INV",
+     "utt_index": 19,
+     "text": "oh yeah",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 20,
+     "text": "she said I enjoy exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 21,
+     "text": "okay",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|158-1|20",
+   "corpus": "Dem_English",
+   "session": "158-1",
+   "utt_index": 20,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "158-1",
+   "audio_task": "cookie",
+   "start_ms": 64084,
+   "end_ms": 65611,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 18,
+     "text": "the door is opened",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 19,
+     "text": "the sink is overflowing but I said the water was flowing",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 20,
+     "text": "it's coming out of the faucet and the splashing",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 21,
+     "text": "okay that's fine",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|245-1|16",
+   "corpus": "Dem_English",
+   "session": "245-1",
+   "utt_index": 16,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "245-1",
+   "audio_task": "cookie",
+   "start_ms": 78216,
+   "end_ms": 81406,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 14,
+     "text": "okay",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 15,
+     "text": "hey okay exc",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 16,
+     "text": "and I did say the stool is tilting",
+     "target": true
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|086-1|12",
+   "corpus": "Dem_English",
+   "session": "086-1",
+   "utt_index": 12,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "086-1",
+   "audio_task": "cookie",
+   "start_ms": 33789,
+   "end_ms": 35711,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 10,
+     "text": "the stool is tipping for the little boy",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 11,
+     "text": "and he's going to fall off in a couple of minutes",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 12,
+     "text": "and the window's open",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 13,
+     "text": "the water is running in the sink is why it's out",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|158-2|13",
+   "corpus": "Dem_English",
+   "session": "158-2",
+   "utt_index": 13,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "158-2",
+   "audio_task": "cookie",
+   "start_ms": 36422,
+   "end_ms": 36516,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 11,
+     "text": "and the dishes aren't all together done",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 12,
+     "text": "the floor is getting wet",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 13,
+     "text": "I can't see exc",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 14,
+     "text": "a cookie jar is open and the cupboard door is open",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|336-1|12",
+   "corpus": "Dem_English",
+   "session": "336-1",
+   "utt_index": 12,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "336-1",
+   "audio_task": "cookie",
+   "start_ms": 57887,
+   "end_ms": 63214,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 10,
+     "text": "and she's going I guess shush or give me one",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 11,
+     "text": "the mother's laughs we don't think she might be on drugs because laughs she's off someplace because the sink's running over gram",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 12,
+     "text": "and it's summer outside because the window's open and the grasses or the bushes look healthy",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 13,
+     "text": "and she's drying dishes with her apron on",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|071-3|4",
+   "corpus": "Dem_English",
+   "session": "071-3",
+   "utt_index": 4,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "071-3",
+   "audio_task": "cookie",
+   "start_ms": 5479,
+   "end_ms": 6444,
+   "context": [
+    {
+     "tier": "INV",
+     "utt_index": 2,
+     "text": "laughs okay",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 3,
+     "text": "no exc",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 4,
+     "text": "but anyway exc",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 5,
+     "text": "the boy's taking cookies out of the cookie jar",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|093-0|16",
+   "corpus": "Dem_English",
+   "session": "093-0",
+   "utt_index": 16,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "093-0",
+   "audio_task": "cookie",
+   "start_ms": null,
+   "end_ms": null,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 14,
+     "text": "that's it exc",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 15,
+     "text": "the stool is slipping",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 16,
+     "text": "okay exc",
+     "target": true
+    },
+    {
+     "tier": "INV",
+     "utt_index": 17,
+     "text": "what about down here",
+     "target": false
+    }
+   ]
+  },
+  {
+   "item_id": "Dem_English|242-2|1",
+   "corpus": "Dem_English",
+   "session": "242-2",
+   "utt_index": 1,
+   "task": "cookie",
+   "group": "Control",
+   "language": "eng",
+   "audio_stem": "242-2",
+   "audio_task": "cookie",
+   "start_ms": 2780,
+   "end_ms": 4303,
+   "context": [
+    {
+     "tier": "PAR",
+     "utt_index": 0,
+     "text": "we'll start with the girl",
+     "target": false
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 1,
+     "text": "she's going to the",
+     "target": true
+    },
+    {
+     "tier": "PAR",
+     "utt_index": 2,
+     "text": "he steal a cookie gram",
+     "target": false
+    }
+   ]
+  }
+ ]
+}

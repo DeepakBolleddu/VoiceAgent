@@ -1,0 +1,31 @@
+# Config for the synthetic end-to-end verification run.
+data_root: tests/synth_data
+out_root: tests/synth_artifacts
+
+corpora:
+  Pitt:        {path: Pitt,        population: dementia, speaker_regex: '^(?P<sid>\d+)'}
+  German:      {path: German,      population: dementia, speaker_regex: '^(?P<sid>\d+)'}
+  Lu_Mandarin: {path: Lu_Mandarin, population: dementia, speaker_regex: '^(?P<sid>\d+)'}
+  FluencyBank: {path: FluencyBank, population: fluency,  speaker_regex: '^(?P<sid>\d+)'}
+
+splits:
+  seed: 13
+  test_frac: 0.25
+  dev_frac: 0.1
+  min_speakers_zero_shot: 8
+
+labels:
+  target: silver_pdi
+  gold_dir: tests/synth_gold
+
+audio: {sample_rate: 16000, max_segment_s: 20.0}
+ssl: {model: facebook/wav2vec2-xls-r-300m, layer: 12, pool: mean, batch_size: 8}
+train:
+  target: silver_pdi
+  epochs: 5
+  lr: 1.0e-4
+  batch_size: 32
+  adv_language_weight: 0.1
+  adv_population_weight: 0.1
+  adv_speaker_weight: 0.0
+  grl_gamma: 10.0

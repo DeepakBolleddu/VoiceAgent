@@ -1,0 +1,15 @@
+#!/bin/bash
+#PBS -N va_probe
+#PBS -l select=1:ncpus=8:mem=48gb
+#PBS -l walltime=03:00:00
+#PBS -m ae
+#PBS -M u8023272@umail.usq.edu.au
+
+module load python/3.10.8-gcc-4ib
+source ~/dl_env/bin/activate
+cd ~/VoiceAgent/benchmark
+
+echo "=== per-layer probing of difficulty on XLS-R embeddings (silver target) ==="
+# audio-embedding -> silver: legitimate weak-label test (audio != transcript codes)
+python scripts/probe_layers.py --config configs/hpc.yaml --target silver_pdi --layers all
+echo "Done: $(date)"

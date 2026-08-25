@@ -1,0 +1,13 @@
+speaker,corpus,language,population,group,age,sex,n_sessions,n_utts
+Dem_English:eng:Pitt:001,Dem_English,eng,dementia,Control,70,female,1,1
+Dem_English:eng:Pitt:050,Dem_English,eng,dementia,ProbableAD,70,female,1,1
+Dem_German:deu:Pitt:001,Dem_German,deu,dementia,Control,70,female,1,1
+Dem_German:deu:Pitt:050,Dem_German,deu,dementia,ProbableAD,70,female,1,1
+Dem_Mandarin:zho:Pitt:001,Dem_Mandarin,zho,dementia,Control,70,female,1,1
+Dem_Mandarin:zho:Pitt:050,Dem_Mandarin,zho,dementia,ProbableAD,70,female,1,1
+FluencyBank:eng:interview:01,FluencyBank,eng,fluency,AWS,70,female,1,1
+FluencyBank:eng:interview:24,FluencyBank,eng,fluency,AWS,70,female,2,2
+FluencyBank:eng:interview:62,FluencyBank,eng,fluency,AWS,70,female,2,2
+FluencyBank:eng:reading:01,FluencyBank,eng,fluency,AWS,70,female,1,1
+FluencyBank:eng:reading:24,FluencyBank,eng,fluency,AWS,70,female,2,2
+FluencyBank:eng:reading:62,FluencyBank,eng,fluency,AWS,70,female,2,2

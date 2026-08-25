@@ -1,0 +1,21 @@
+#!/bin/bash
+#PBS -N va_embed
+#PBS -l select=1:ncpus=8:ngpus=1:mem=48gb
+#PBS -l walltime=12:00:00
+#PBS -m ae
+#PBS -M u8023272@umail.usq.edu.au
+
+module load python/3.10.8-gcc-4ib
+module load cuda/11.8.0-gcc-3hs
+source ~/dl_env/bin/activate
+cd ~/VoiceAgent/benchmark
+
+# Compute node has NO internet. Model must be pre-downloaded on the LOGIN node:
+#     python scripts/download_model.py --config configs/hpc.yaml
+# These force transformers/hf_hub to use the local cache only:
+export HF_HUB_OFFLINE=1
+export TRANSFORMERS_OFFLINE=1
+
+echo "=== cache XLS-R embeddings, all layers (GPU, offline) ==="
+python -m vabench.features.ssl_embed --config configs/hpc.yaml --layers all
+echo "Done: $(date)"
